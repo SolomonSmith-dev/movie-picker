@@ -108,7 +108,7 @@ def log_movie_to_history(movie, favorite=False):
 def main():
     seen_titles = set()
 
-        # Load watched titles from history
+    # Load watched titles from history
     try:
         with open("history.txt", "r", encoding="utf-8") as f:
             for line in f:
@@ -119,13 +119,18 @@ def main():
 
     greatest_movies = load_movies('lists/standardized_movies_final.json')
     plex_movies = load_movies('lists/plex_movies_final.json')
-    random.shuffle(plex_movies)  # Shuffle to reduce repeated picks from Plex list
+    random.shuffle(plex_movies)
     combined_movies = greatest_movies + plex_movies
 
-    print("\n")
-    print("🎥 Welcome to Movie Picker!\n")
+    # Load enriched versions for search
+    with open("lists/standardized_movies_enriched.json", "r", encoding="utf-8") as f:
+        enriched_greatest = json.load(f)
+    with open("lists/plex_movies_enriched.json", "r", encoding="utf-8") as f:
+        enriched_plex = json.load(f)
+    enriched_combined = enriched_greatest + enriched_plex
 
-    # Show Movie of the Day
+    print("\n🎥 Welcome to Movie Picker!\n")
+
     movie_of_the_day = pick_movie_of_the_day(combined_movies)
     show_movie(movie_of_the_day, header="Movie of the Day")
 
@@ -141,22 +146,22 @@ def main():
         print("4. View Watch History")
         print("5. Reset Watch History")
         print("6. Rewatch a Favorite")
+        print("7. Search Movies by Director")
+        print("8. Search Movies by Actor")
 
-        choice = input("\n🎬 What would you like to do? (1-6): ")
+        choice = input("\n🎬 What would you like to do? (1-8): ")
 
         if choice == '1':
             movie = pick_random_movie(greatest_movies, seen_titles)
             show_movie(movie)
             favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
             log_movie_to_history(movie, favorite)
-            log_movie_to_history(movie)
 
         elif choice == '2':
             movie = pick_random_movie(plex_movies, seen_titles)
             show_movie(movie)
             favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
             log_movie_to_history(movie, favorite)
-            log_movie_to_history(movie)
 
         elif choice == '3':
             user_input = input("\n🎬 What genres are you feeling? (comma-separated, e.g., 'Animation, Adventure')\n> ")
@@ -165,7 +170,6 @@ def main():
             show_movie(movie)
             favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
             log_movie_to_history(movie, favorite)
-            log_movie_to_history(movie)
 
         elif choice == '4':
             try:
@@ -175,7 +179,6 @@ def main():
                 print(history if history else "No history yet.")
             except FileNotFoundError:
                 print("\n📜 No history file found. Watch something first!")
-            # No 'again' prompt after viewing history, continue loop
             continue
 
         elif choice == '5':
@@ -187,6 +190,7 @@ def main():
                 print("✅ History cleared!")
             else:
                 print("❌ Cancelled. Your history is safe.")
+
         elif choice == '6':
             try:
                 with open("history.txt", "r", encoding="utf-8") as f:
@@ -209,7 +213,40 @@ def main():
                     else:
                         print("❌ Cancelled.")
             except FileNotFoundError:
-                print("No history file found.")
+                print("\n📜 No history file found. Watch something first!")
+
+        elif choice == '7':
+            director_name = input("🎬 Enter the director's name: ").strip().lower()
+            seen_titles = set()
+            matches = []
+            for m in enriched_combined:
+                if director_name in m.get("director", "").lower():
+                    if m["title"] not in seen_titles:
+                        seen_titles.add(m["title"])
+                        matches.append(m)
+            if matches:
+                print(f"\n🎬 Found {len(matches)} unique movies directed by '{director_name.title()}':\n")
+                for m in matches:
+                    print(f"- {m['title']} ({m['year']})")
+            else:
+                print("❌ No movies found for that director.")
+
+        elif choice == '8':
+            actor_name = input("🎭 Enter the actor's name: ").strip().lower()
+            seen_titles = set()
+            matches = []
+            for m in enriched_combined:
+                if actor_name in m.get("cast", "").lower():
+                    if m["title"] not in seen_titles:
+                        seen_titles.add(m["title"])
+                        matches.append(m)
+            if matches:
+                print(f"\n🎭 Found {len(matches)} unique movies with '{actor_name.title()}':\n")
+                for m in matches:
+                    print(f"- {m['title']} ({m['year']})")
+            else:
+                print("❌ No movies found for that actor.")
+
 
         else:
             print("\n❌ Invalid choice.")
@@ -220,7 +257,5 @@ def main():
             break
         print()
 
-
 if __name__ == "__main__":
     main()
-
