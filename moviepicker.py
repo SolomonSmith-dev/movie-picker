@@ -117,10 +117,17 @@ def main():
     except FileNotFoundError:
         pass
 
-    greatest_movies = load_movies('lists/standardized_movies_final.json')
-    plex_movies = load_movies('lists/plex_movies_final.json')
+    # ✅ Load enriched movie lists
+    greatest_movies = load_movies('lists/standardized_movies_enriched.json')
+    plex_movies = load_movies('lists/plex_movies_enriched.json')
     random.shuffle(plex_movies)
     combined_movies = greatest_movies + plex_movies
+
+    # ✅ These are now redundant unless you use them separately for searching
+    enriched_greatest = greatest_movies
+    enriched_plex = plex_movies
+    enriched_combined = combined_movies
+
 
     # Load enriched versions for search
     with open("lists/standardized_movies_enriched.json", "r", encoding="utf-8") as f:
