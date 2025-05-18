@@ -24,13 +24,15 @@ Whether you're in the mood for something random, want to browse by genre, or sea
 
 # 📂 Project Structure
 
-/MoviePicker
-├── moviepicker.py               # Main app
-├── metadata_enricher.py         # Auto-fill missing metadata via TMDb
-├── enrich.sh                    # Easy script to enrich movie lists
-├── .env                         # (Not in Git) Holds TMDb API key
-├── history.txt                  # Watched movie log
-└── /lists
+MoviePicker/
+├── moviepicker.py              # Main app
+├── metadata_enricher.py        # Fills in metadata from TMDb
+├── enrich.sh                   # CLI script to enrich movie lists
+├── .env                        # TMDb API key (ignored by Git)
+├── .gitignore                  # Excludes .env, __pycache__, etc.
+├── history.txt                 # Watch history log
+├── README.md                   # Project documentation
+└── lists/                      # JSON files for movie data
     ├── plex_movies_final.json
     ├── standardized_movies_final.json
     ├── plex_movies_enriched.json
