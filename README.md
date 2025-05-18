@@ -1,122 +1,105 @@
 
 # 🎬 Movie Picker
 
-Welcome to **Movie Picker** — a simple, clean Python app that randomly picks a movie from a curated list of the greatest films of all time — **or** lets you pick a movie based on the genres you're feeling!
+Welcome to Movie Picker — a smart, terminal-based app that helps you explore the best movies in your personal collection.
 
-Built to be fast, beautiful, and customizable to your own movie collection.
+Whether you're in the mood for something random, want to browse by genre, or search by your favorite director or actor — Movie Picker has you covered.
 
----
+# 🚀 Features
 
-## 🚀 Features
+🎥 Pick a random movie from a curated list
 
-- 🎥 Pick a completely **random movie**.
-- 🎭 Pick a **movie by genres** (e.g., "Animation, Adventure", "Drama, Romance").
-- 🎨 **Colorful terminal output** for a better experience.
-- 🔁 **Pick multiple movies** in one session with an "ask again" loop.
-- 📝 Easy to **expand** — add your own movies from Plex or anywhere else!
+🎭 Filter movies by genre
 
----
+🎬 Search all movies by director or actor
 
-## 📂 Project Structure
+📎 Automatically log what you’ve watched
 
-```
+❤️ Mark favorites for rewatch later
+
+🔁 Stay in any mode and pick multiple times without restarting
+
+✍️ Uses enriched JSON data with directors, genres, cast, and year
+
+
+# 📂 Project Structure
+
 /MoviePicker
-    /lists
-        standardized_movies.json   # Master movie list (fully filled out)
-    /scripts
-        merge_movies.py             # (optional) Merge lists
-        fill_missing_data.py        # (optional) Fill missing movie info
-    moviepicker.py                   # Main app file
-    README.md                        # You're reading it!
-```
+├── moviepicker.py               # Main app
+├── metadata_enricher.py         # Auto-fill missing metadata via TMDb
+├── enrich.sh                    # Easy script to enrich movie lists
+├── .env                         # (Not in Git) Holds TMDb API key
+├── history.txt                  # Watched movie log
+└── /lists
+    ├── plex_movies_final.json
+    ├── standardized_movies_final.json
+    ├── plex_movies_enriched.json
+    └── standardized_movies_enriched.json
 
----
+# 🛠️ Installation
 
-## 🛠️ Installation
+1. Clone or download the project.
 
-1. **Clone or download** this project into a folder.
-2. **Install Python libraries** (only one needed):
+2. Install dependencies:
+   pip install colorama python-dotenv
 
-```bash
-pip install colorama
-```
+3. Add your TMDb API key to a .env file:
+   TMDB_API_KEY=your_api_key_here
 
-3. That's it — you're ready to go!
+(Optional) Run enrichment:
+    ./enrich.sh
 
----
+# 🎯 How to Use
 
-## 🎯 How to Use
+Choose from:
 
-1. Open a terminal inside the `/MoviePicker` folder.
-2. Run the app:
+1: Pick randomly from Greatest Movies
 
-```bash
-python3 moviepicker.py
-```
+2: Pick randomly from Plex Movies
 
-3. Choose an option:
-   - `1` → Pick a completely random movie from the list.
-   - `2` → Pick a movie that matches genres you enter (e.g., "Animation, Family", "Drama, War").
+3: Pick by Genre
 
-4. After each pick, you can choose to pick another movie or exit.
+4: View your Watch History
 
-Example:
+5: Reset your Watch History
 
-```
+6: Rewatch a Favorite
+
+7: Search movies by Director
+
+8: Search movies by Actor
+
+# ✨ Example Output
+
 🎥 Welcome to Movie Picker!
 
-1. Pick a completely random movie
-2. Pick a movie by genre(s)
+🎬 Movie of the Day
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎞️  Title    : The Thing
+🎬  Director : John Carpenter
+📅  Year     : 1982
+🎭  Genres   : Horror, Mystery
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Choose an option (1 or 2): 2
+💖 Mark this as a favorite? (y/n): y
+🔁 Pick another? (y/n): n
 
-🎬 What genres are you feeling? (comma-separated, e.g., 'Drama, Adventure')
-> Animation, Family
+# 💡 Future Ideas
 
-🎬 Your Movie Pick!
-Title    : Spirited Away
-Year     : 2001
-Director : Hayao Miyazaki
-Genres   : Animation, Adventure, Family
+⭐️ Add personal ratings
 
-🔁 Pick another movie? (y/n):
-```
+🖼️ Show posters and images via TMDb
 
----
+📁 Export search results to .txt or .csv
 
-## 📦 Dependencies
+🌐 GUI version using Tkinter or Flask
 
-- Python 3.x
-- [`colorama`](https://pypi.org/project/colorama/)
+🧠 “Surprise Me” mode with full randomness
 
-Install with:
+# 📝 License
 
-```bash
-pip install colorama
-```
+Open source and free to use.Built for fun, film, and exploration.
 
----
+# 🤝 Contributing
 
-## 💡 Future Ideas (Optional Expansions)
-
-- 🎞️ Import your own Plex/Tiny Media Manager movie list!
-- 🔎 Filter by **year** (e.g., "Movies from the 90s").
-- 💾 Save history of picked movies.
-- 🎨 Fancy UI using `rich` for animations.
-- 🌐 Web version using Flask (future idea).
-
----
-
-## 🤝 Contributing
-
-Feel free to fork and improve!  
-Add more lists, genres, or features!
-
----
-
-## 📝 License
-
-This project is open-source and free to use.  
-Created for fun, movies, and random exploration. 🎬
-
----
+Pull requests welcome!Add movie data, new features, or better search tools.
