@@ -1,1 +1,5 @@
+__pycache__/
+*.pyc
 .env
+history.txt
+lists/*_enriched.json
