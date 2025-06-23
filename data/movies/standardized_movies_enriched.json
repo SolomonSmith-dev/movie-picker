@@ -1,0 +1,3950 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "director": "Frank Darabont",
+        "genres": "Drama",
+        "cast": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama",
+        "cast": "Marlon Brando, Al Pacino, James Caan, Robert Duvall, Richard S. Castellano"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "director": "Christopher Nolan",
+        "genres": "Action, Crime, Drama",
+        "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama",
+        "cast": "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro, John Cazale"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "director": "Sidney Lumet",
+        "genres": "Drama",
+        "cast": "Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall, Jack Klugman"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "director": "Steven Spielberg",
+        "genres": "Biography, Drama, History",
+        "cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "director": "Quentin Tarantino",
+        "genres": "Crime, Drama",
+        "cast": "John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis, Ving Rhames"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Ian Holm"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "director": "Sergio Leone",
+        "genres": "Western",
+        "cast": "Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffr\u00e8, Luigi Pistilli"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "director": "Robert Zemeckis",
+        "genres": "Drama, Romance",
+        "cast": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Mykelti Williamson"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "director": "David Fincher",
+        "genres": "Drama",
+        "cast": "Edward Norton, Brad Pitt, Helena Bonham Carter, Meat Loaf, Jared Leto"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "director": "Christopher Nolan",
+        "genres": "Action, Adventure, Sci-Fi",
+        "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ken Watanabe, Tom Hardy, Elliot Page"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "director": "Irvin Kershner",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "genres": "Action, Sci-Fi",
+        "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Gloria Foster"
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "director": "Christopher Nolan",
+        "genres": "Adventure, Drama, Sci-Fi",
+        "cast": "Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, Casey Affleck"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "director": "Milos Forman",
+        "genres": "Drama",
+        "cast": "Jack Nicholson, Brad Dourif, Louise Fletcher, Danny DeVito, William Redfield"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "director": "David Fincher",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Morgan Freeman, Brad Pitt, Gwyneth Paltrow, John Cassini, Peter Crombie"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "director": "Frank Capra",
+        "genres": "Drama, Family, Fantasy",
+        "cast": "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "director": "Jonathan Demme",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Toshir\u014d Mifune, Takashi Shimura, Yoshio Inaba, Seiji Miyaguchi, Minoru Chiaki"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "director": "Steven Spielberg",
+        "genres": "Drama, War",
+        "cast": "Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper, Adam Goldberg"
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "director": "Fernando Meirelles, K\u00e1tia Lund",
+        "genres": "Crime, Drama",
+        "cast": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva, Jonathan Haagensen"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "director": "Frank Darabont",
+        "genres": "Crime, Drama, Fantasy",
+        "cast": "Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan, James Cromwell"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "director": "Roberto Benigni",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano, Sergio Bini Bustric"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "director": "James Cameron",
+        "genres": "Action, Sci-Fi",
+        "cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": "1977",
+        "director": "George Lucas",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness"
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "director": "Robert Zemeckis",
+        "genres": "Adventure, Comedy, Sci-Fi",
+        "cast": "Michael J. Fox, Christopher Lloyd, Crispin Glover, Lea Thompson, Claudia Wells"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "director": "Roman Polanski",
+        "genres": "Biography, Drama, Music",
+        "cast": "Adrien Brody, Thomas Kretschmann, Frank Finlay, Maureen Lipman, Emilia Fox"
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "director": "Ridley Scott",
+        "genres": "Action, Adventure, Drama",
+        "cast": "James Marshall, T.E. Russell, Cuba Gooding Jr., Robert Loggia, Brian Dennehy"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "director": "Bong Joon Ho",
+        "genres": "Comedy, Drama, Thriller",
+        "cast": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "director": "Alfred Hitchcock",
+        "genres": "Horror, Mystery, Thriller",
+        "cast": "Anthony Perkins, Janet Leigh, Vera Miles, John Gavin, Martin Balsam"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "director": "Roger Allers, Rob Minkoff",
+        "genres": "Animation, Adventure, Drama",
+        "cast": "Matthew Broderick, Moira Kelly, Nathan Lane, Ernie Sabella, James Earl Jones"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "director": "Isao Takahata",
+        "genres": "Animation, Drama, War",
+        "cast": "Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara, Akemi Yamaguchi, Masayo Sakai"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Martin Sheen"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "director": "Damien Chazelle",
+        "genres": "Drama, Music",
+        "cast": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "director": "Masaki Kobayashi",
+        "genres": "Action, Drama, Mystery",
+        "cast": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsuro Tamba, Masao Mishima"
+    },
+    {
+        "title": "American History X",
+        "year": "1998",
+        "director": "Tony Kaye",
+        "genres": "Drama",
+        "cast": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien, Ethan Suplee"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "director": "Christopher Nolan",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "cast": "Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo, Rebecca Hall"
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "year": "1994",
+        "director": "Luc Besson",
+        "genres": "Action, Crime, Drama",
+        "cast": "Jean Reno, Natalie Portman, Gary Oldman, Danny Aiello, Peter Appel"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Luna Lauren Velez, Jake Johnson"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "genres": "Drama, Romance, War",
+        "cast": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains, Conrad Veidt"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "director": "Bryan Singer",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Stephen Baldwin, Gabriel Byrne, Benicio del Toro, Kevin Pollak, Kevin Spacey"
+    },
+    {
+        "title": "The Intouchables",
+        "year": "2011",
+        "director": "Olivier Nakache, \u00c9ric Toledano",
+        "genres": "Biography, Comedy, Drama",
+        "cast": "Fran\u00e7ois Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Jos\u00e9phine de Meaux"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "director": "Giuseppe Tornatore",
+        "genres": "Drama, Romance",
+        "cast": "Philippe Noiret, Jacques Perrin, Marco Leonardi, Salvatore Cascio, Agnese Nano"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "director": "Ridley Scott",
+        "genres": "Horror, Sci-Fi",
+        "cast": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Family",
+        "cast": "Charlie Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford, Chester Conklin"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "director": "Alfred Hitchcock",
+        "genres": "Mystery, Thriller",
+        "cast": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "director": "Sergio Leone",
+        "genres": "Western",
+        "cast": "Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson, Gabriele Ferzetti"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "director": "Quentin Tarantino",
+        "genres": "Drama, Western",
+        "cast": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Charlie Chaplin, Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "director": "Francis Ford Coppola",
+        "genres": "Drama, Mystery, War",
+        "cast": "Martin Sheen, Marlon Brando, Albert Hall, Frederic Forrest, Laurence Fishburne"
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "director": "Denis Villeneuve",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Timoth\u00e9e Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin"
+    },
+    {
+        "title": "Memento",
+        "year": "2000",
+        "director": "Christopher Nolan",
+        "genres": "Mystery, Thriller",
+        "cast": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior, Russ Fega"
+    },
+    {
+        "title": "WALL\u00b7E",
+        "year": "2008",
+        "director": "Andrew Stanton",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, John Ratzenberger"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "director": "Steven Spielberg",
+        "genres": "Action, Adventure",
+        "cast": "Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies, Ronald Lacey"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "director": "Florian Henckel von Donnersmarck",
+        "genres": "Drama, Thriller",
+        "cast": "Martina Gedeck, Ulrich M\u00fche, Sebastian Koch, Ulrich Tukur, Thomas Thieme"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "director": "Anthony Russo, Joe Russo",
+        "genres": "Action, Adventure, Sci-Fi",
+        "cast": "Robert Downey Jr., Chris Evans, Chris Hemsworth, Josh Brolin, Mark Ruffalo"
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": "1950",
+        "director": "Billy Wilder",
+        "genres": "Drama, Film-Noir",
+        "cast": "William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson, Fred Clark"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester, John Williams"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, War",
+        "cast": "Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready, Wayne Morris"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, Horror",
+        "cast": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers, Barry Nelson"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, War",
+        "cast": "Charlie Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner, Henry Daniell"
+    },
+    {
+        "title": "12th Fail",
+        "year": "2023",
+        "director": "Vidyasagar Chinta",
+        "genres": "Biography, Drama",
+        "cast": "Vikrant Massey, Medha Shankr, Anant Joshi, Anshumaan Pushkar, Priyanshu Chatterjee"
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "director": "James Cameron",
+        "genres": "Action, Adventure, Sci-Fi",
+        "cast": "Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser, Lance Henriksen"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "director": "Quentin Tarantino",
+        "genres": "Adventure, Drama, War",
+        "cast": "Brad Pitt, M\u00e9lanie Laurent, Christoph Waltz, Eli Roth, Michael Fassbender"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "director": "Christopher Nolan",
+        "genres": "Action, Drama",
+        "cast": "Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt, Anne Hathaway"
+    },
+    {
+        "title": "Coco",
+        "year": "2017",
+        "director": "Lee Unkrich, Adrian Molina",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Anthony Gonzalez, Gael Garc\u00eda Bernal, Benjamin Bratt, Alanna Ubach, Renee Victor"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "director": "Milos Forman",
+        "genres": "Biography, Drama, Music",
+        "cast": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Simon Callow, Roy Dotrice"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "director": "John Lasseter",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "director": "Anthony Russo, Joe Russo",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "director": "Gus Van Sant",
+        "genres": "Drama, Romance",
+        "cast": "Matt Damon, Robin Williams, Ben Affleck, Stellan Skarsg\u00e5rd, Minnie Driver"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "director": "Park Chan-wook",
+        "genres": "Action, Drama, Mystery",
+        "cast": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jung, Kim Byeong-ok, Ji Dae-han"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "director": "Stanley Kubrick",
+        "genres": "Comedy, War",
+        "cast": "Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens"
+    },
+    {
+        "title": "Das Boot",
+        "year": "1981",
+        "director": "Wolfgang Petersen",
+        "genres": "Drama, Thriller, War",
+        "cast": "J\u00fcrgen Prochnow, Herbert Gr\u00f6nemeyer, Klaus Wennemann, Hubertus Bengsch, Martin Semmelrogge"
+    },
+    {
+        "title": "American Beauty",
+        "year": "1999",
+        "director": "Sam Mendes",
+        "genres": "Drama",
+        "cast": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley, Mena Suvari"
+    },
+    {
+        "title": "Braveheart",
+        "year": "1995",
+        "director": "Mel Gibson",
+        "genres": "Biography, Drama, History",
+        "cast": "Mel Gibson, Catherine McCormack, Sophie Marceau, Patrick McGoohan, Angus Macfadyen"
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Yoji Matsuda, Yuriko Ishida, Yuko Tanaka, Kaoru Kobayashi, Masahiko Nishimura"
+    },
+    {
+        "title": "Your Name.",
+        "year": "2016",
+        "director": "Makoto Shinkai",
+        "genres": "Animation, Drama, Fantasy",
+        "cast": "Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita, Aoi Yuki, Nobunaga Shimazaki"
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "director": "Akira Kurosawa",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Toshir\u014d Mifune, Tatsuya Nakadai, Ky\u014dko Kagawa, Tatsuya Mihashi, Isao Kimura"
+    },
+    {
+        "title": "3 Idiots",
+        "year": "2009",
+        "director": "Rajkumar Hirani",
+        "genres": "Comedy, Drama",
+        "cast": "Aamir Khan, R. Madhavan, Sharman Joshi, Kareena Kapoor Khan, Boman Irani"
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "director": "Todd Phillips",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen"
+    },
+    {
+        "title": "The Chaos Class Failed the Class",
+        "year": "1975",
+        "director": "Ertem E\u011filmez",
+        "genres": "Comedy",
+        "cast": "M\u00fcnir \u00d6zkul, Adile Na\u015fit, Kemal Sunal, Halit Ak\u00e7atepe, Tar\u0131k Akan"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "director": "Sergio Leone",
+        "genres": "Crime, Drama",
+        "cast": "Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams, Tuesday Weld"
+    },
+    {
+        "title": "Capernaum",
+        "year": "2018",
+        "director": "Nadine Labaki",
+        "genres": "Drama",
+        "cast": "Zain Al Rafeea, Yordanos Shifera, Boluwatife Treasure Bankole, Kawsar Al Haddad, Fadi Kamel Yousef"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "director": "Stanley Donen, Gene Kelly",
+        "genres": "Comedy, Musical, Romance",
+        "cast": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen, Millard Mitchell"
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "director": "Elem Klimov",
+        "genres": "Drama, War",
+        "cast": "Aleksei Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas, J\u00fcri Lumiste"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "director": "Darren Aronofsky",
+        "genres": "Drama",
+        "cast": "Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans, Christopher McDonald"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "director": "Lee Unkrich",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Tom Hanks, Tim Allen, Joan Cusack, Don Rickles, Wallace Shawn"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "director": "Richard Marquand",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels"
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "director": "Thomas Vinterberg",
+        "genres": "Drama",
+        "cast": "Clara Vallet, Jellali Mouina, Sarah Lucide, Mari-Christine Jeanney, Fr\u00e9d\u00e9ric Sassine"
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "director": "Akira Kurosawa",
+        "genres": "Drama",
+        "cast": "Takashi Shimura, Haruo Tanaka, Nobuo Kaneko, Bokuzen Hidari, Miki Odagiri"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "director": "Michel Gondry",
+        "genres": "Drama, Romance, Sci-Fi",
+        "cast": "Jim Carrey, Kate Winslet, Kirsten Dunst, Mark Ruffalo, Elijah Wood"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "director": "Stanley Kubrick",
+        "genres": "Adventure, Sci-Fi",
+        "cast": "Keir Dullea, Gary Lockwood, William Sylvester, Douglas Rain, Daniel Richter"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "director": "Quentin Tarantino",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn, Steve Buscemi"
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston, Jack Kruschen"
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "director": "Denis Villeneuve",
+        "genres": "Drama, Mystery, War",
+        "cast": "Lubna Azabal, M\u00e9lissa D\u00e9sormeaux-Poulin, Maxim Gaudette, R\u00e9my Girard, Allen Altman"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "director": "David Lean",
+        "genres": "Adventure, Biography, Drama",
+        "cast": "Peter O'Toole, Alec Guinness, Omar Sharif, Anthony Quinn, Jack Hawkins"
+    },
+    {
+        "title": "Scarface",
+        "year": "1983",
+        "director": "Brian De Palma",
+        "genres": "Crime, Drama",
+        "cast": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio, Robert Loggia"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Film-Noir",
+        "cast": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Porter Hall, Jean Heather"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "director": "Michael Mann",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Al Pacino, Robert De Niro, Val Kilmer, Jon Voight, Tom Sizemore"
+    },
+    {
+        "title": "North by Northwest",
+        "year": "1959",
+        "director": "Alfred Hitchcock",
+        "genres": "Action, Adventure, Mystery",
+        "cast": "Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis, Leo G. Carroll"
+    },
+    {
+        "title": "Up",
+        "year": "2009",
+        "director": "Pete Docter, Bob Peterson",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Ed Asner, Christopher Plummer, Jordan Nagai, Bob Peterson, Delroy Lindo"
+    },
+    {
+        "title": "Citizen Kane",
+        "year": "1941",
+        "director": "Orson Welles",
+        "genres": "Drama, Mystery",
+        "cast": "Orson Welles, Joseph Cotten, Dorothy Comingore, Ray Collins, George Coulouris"
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "director": "Fritz Lang",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Willy Fritsch, Gerda Maurus, Klaus Pohl, Fritz Rasp, Gustav von Wangenheim"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, War",
+        "cast": "Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey, Dorian Harewood"
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "director": "Alfred Hitchcock",
+        "genres": "Mystery, Romance, Thriller",
+        "cast": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones"
+    },
+    {
+        "title": "Am\u00e9lie",
+        "year": "2001",
+        "director": "Jean-Pierre Jeunet",
+        "genres": "Comedy, Romance",
+        "cast": "Audrey Tautou, Mathieu Kassovitz, Rufus, Serge Merlin, Jamel Debbouze"
+    },
+    {
+        "title": "A Separation",
+        "year": "2011",
+        "director": "Asghar Farhadi",
+        "genres": "Drama",
+        "cast": "Leila Hatami, Payman Maadi, Sareh Bayat, Sarina Farhadi, Shahab Hosseini"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": "1962",
+        "director": "Robert Mulligan",
+        "genres": "Crime, Drama",
+        "cast": "Mary Badham, Gregory Peck, Phillip Alford, John Megna, Frank Overton"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": "1971",
+        "director": "Stanley Kubrick",
+        "genres": "Crime, Drama, Sci-Fi",
+        "cast": "Malcolm McDowell, Patrick Magee, Carl Duering, Michael Bates, Warren Clarke"
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": "2007",
+        "director": "Aamir Khan, Amole Gupte",
+        "genres": "Drama, Family",
+        "cast": "Darsheel Safary, Aamir Khan, Tisca Chopra, Tanay Chheda, Vipin Sharma"
+    },
+    {
+        "title": "Die Hard",
+        "year": "1988",
+        "director": "John McTiernan",
+        "genres": "Action, Thriller",
+        "cast": "Bruce Willis, Alan Rickman, Alexander Godunov, Bonnie Bedelia, Reginald VelJohnson"
+    },
+    {
+        "title": "The Sting",
+        "year": "1973",
+        "director": "George Roy Hill",
+        "genres": "Comedy, Crime, Drama",
+        "cast": "Paul Newman, Robert Redford, Robert Shaw, Charles Durning, Ray Walston"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": "1989",
+        "director": "Steven Spielberg",
+        "genres": "Action, Adventure",
+        "cast": "Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody, John Rhys-Davies"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "director": "Christopher Nolan",
+        "genres": "Biography, Drama, History",
+        "cast": "Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh"
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "director": "Fritz Lang",
+        "genres": "Drama, Sci-Fi",
+        "cast": "Gustav Fr\u00f6hlich, Brigitte Helm, Alfred Abel, Rudolf Klein-Rogge, Theodor Loos"
+    },
+    {
+        "title": "Snatch",
+        "year": "2000",
+        "director": "Guy Ritchie",
+        "genres": "Comedy, Crime",
+        "cast": "Jason Statham, Alan Ford, Stephen Graham, Brad Pitt, Dennis Farina"
+    },
+    {
+        "title": "1917",
+        "year": "2019",
+        "director": "Sam Mendes",
+        "genres": "Action, Drama, War",
+        "cast": "George MacKay, Dean-Charles Chapman, Mark Strong, Andrew Scott, Richard Madden"
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": "1997",
+        "director": "Curtis Hanson",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Guy Pearce, Russell Crowe, Kevin Spacey, Kim Basinger, Danny DeVito"
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": "1948",
+        "director": "Vittorio De Sica",
+        "genres": "Drama",
+        "cast": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Gino Saltamerenda, Vittorio Antonucci"
+    },
+    {
+        "title": "Downfall",
+        "year": "2004",
+        "director": "Oliver Hirschbiegel",
+        "genres": "Biography, Drama, History",
+        "cast": "Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes, Juliane K\u00f6hler"
+    },
+    {
+        "title": "Dangal",
+        "year": "2016",
+        "director": "Nitesh Tiwari",
+        "genres": "Action, Biography, Drama",
+        "cast": "Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra, Zaira Wasim, Suhani Bhatnagar"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Comedy, Crime",
+        "cast": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler"
+    },
+    {
+        "title": "Taxi Driver",
+        "year": "1976",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama",
+        "cast": "Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle"
+    },
+    {
+        "title": "Hamilton",
+        "year": "2020",
+        "director": "Thomas Kail",
+        "genres": "Biography, Drama, History",
+        "cast": "Lin-Manuel Miranda, Leslie Odom Jr., Ren\u00e9e Elise Goldsberry, Phillipa Soo, Daveed Diggs"
+    },
+    {
+        "title": "Green Book",
+        "year": "2018",
+        "director": "Peter Farrelly",
+        "genres": "Biography, Comedy, Drama",
+        "cast": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco, Dimiter D. Marinov"
+    },
+    {
+        "title": "Batman Begins",
+        "year": "2005",
+        "director": "Christopher Nolan",
+        "genres": "Action, Crime, Drama",
+        "cast": "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman"
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": "1965",
+        "director": "Sergio Leone",
+        "genres": "Western",
+        "cast": "Clint Eastwood, Lee Van Cleef, Gian Maria Volont\u00e9, Luigi Pistilli, Klaus Kinski"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": "1961",
+        "director": "Stanley Kramer",
+        "genres": "Drama, War",
+        "cast": "Spencer Tracy, Richard Widmark, Maximilian Schell, Burt Lancaster, Marlene Dietrich"
+    },
+    {
+        "title": "The Truman Show",
+        "year": "1998",
+        "director": "Peter Weir",
+        "genres": "Comedy, Drama, Sci-Fi",
+        "cast": "Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone, Holland Taylor"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Music, Romance",
+        "cast": "Tony Curtis, Jack Lemmon, Marilyn Monroe, George Raft, Pat O\u2019Brien"
+    },
+    {
+        "title": "Shutter Island",
+        "year": "2010",
+        "director": "Martin Scorsese",
+        "genres": "Mystery, Thriller",
+        "cast": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow, Michelle Williams"
+    },
+    {
+        "title": "The Kid",
+        "year": "1921",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Family",
+        "cast": "Charlie Chaplin, Jackie Coogan, Carl Miller, Edna Purviance, Albert Austin"
+    },
+    {
+        "title": "The Father",
+        "year": "2020",
+        "director": "Florian Zeller",
+        "genres": "Drama",
+        "cast": "Anthony Hopkins, Olivia Colman, Mark Gatiss, Olivia Williams, Imogen Poots"
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "director": "Joseph L. Mankiewicz",
+        "genres": "Drama",
+        "cast": "Bette Davis, Anne Baxter, George Sanders, Celeste Holm, Gary Merrill"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "director": "Steven Spielberg",
+        "genres": "Action, Adventure, Sci-Fi",
+        "cast": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Bob Peck"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "director": "Paul Thomas Anderson",
+        "genres": "Drama",
+        "cast": "Daniel Day-Lewis, Paul Dano, Kevin J. O'Connor, Ciar\u00e1n Hinds, Dillon Freasier"
+    },
+    {
+        "title": "Casino",
+        "year": "1995",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama",
+        "cast": "Robert De Niro, Sharon Stone, Joe Pesci, James Woods, Don Rickles"
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": "1999",
+        "director": "M. Night Shyamalan",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams, Trevor Morgan"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, War",
+        "cast": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu, Daisuke Ry\u016b, Mieko Harada"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": "2022",
+        "director": "Joseph Kosinski",
+        "genres": "Action, Drama",
+        "cast": "Tom Cruise, Val Kilmer, Miles Teller, Jennifer Connelly, Bashir Salahuddin"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "director": "Ethan Coen, Joel Coen",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Javier Bardem, Tommy Lee Jones, Josh Brolin, Woody Harrelson, Kelly Macdonald"
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "director": "John Carpenter",
+        "genres": "Horror, Mystery, Sci-Fi",
+        "cast": "Kurt Russell, Keith David, Wilford Brimley, T.K. Carter, David Clennon"
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": "2006",
+        "director": "Guillermo del Toro",
+        "genres": "Drama, Fantasy, War",
+        "cast": "Ivana Baquero, Sergi L\u00f3pez, Maribel Verd\u00fa, Ariadna Gil, Doug Jones"
+    },
+    {
+        "title": "Unforgiven",
+        "year": "1992",
+        "director": "Clint Eastwood",
+        "genres": "Drama, Western",
+        "cast": "Clint Eastwood, Gene Hackman, Morgan Freeman, Jaimz Woolvett, Richard Harris"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": "2001",
+        "director": "Ron Howard",
+        "genres": "Biography, Drama",
+        "cast": "Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany, Christopher Plummer"
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": "2003",
+        "director": "Quentin Tarantino",
+        "genres": "Action, Crime, Thriller",
+        "cast": "Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah, David Carradine"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "director": "John Huston",
+        "genres": "Adventure, Drama, Western",
+        "cast": "Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett, Barton MacLane"
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "director": "Denis Villeneuve",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard"
+    },
+    {
+        "title": "Yojimbo",
+        "year": "1961",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, Thriller",
+        "cast": "Toshir\u014d Mifune, Tatsuya Nakadai, Y\u014dko Tsukasa, Isuzu Yamada, Daisuke Kat\u014d"
+    },
+    {
+        "title": "Finding Nemo",
+        "year": "2003",
+        "director": "Andrew Stanton, Lee Unkrich",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, Geoffrey Rush"
+    },
+    {
+        "title": "The Great Escape",
+        "year": "1963",
+        "director": "John Sturges",
+        "genres": "Adventure, Drama, History",
+        "cast": "Steve McQueen, James Garner, Richard Attenborough, James Donald, Charles Bronson"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Chieko Baisho, Takuya Kimura, Akihiro Miwa, Tatsuya Gash\u00fbin, Ryunosuke Kamiki"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": "1975",
+        "director": "Terry Gilliam, Terry Jones",
+        "genres": "Adventure, Comedy, Fantasy",
+        "cast": "Graham Chapman, John Cleese, Eric Idle, Terry Gilliam, Terry Jones"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "director": "David Lynch",
+        "genres": "Biography, Drama",
+        "cast": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller"
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": "1954",
+        "director": "Alfred Hitchcock",
+        "genres": "Crime, Film-Noir, Thriller",
+        "cast": "Ray Milland, Grace Kelly, Robert Cummings, John Williams, Anthony Dawson"
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": "1939",
+        "director": "Victor Fleming",
+        "genres": "Drama, History, Romance",
+        "cast": "Vivien Leigh, Clark Gable, Olivia de Havilland, Leslie Howard, Hattie McDaniel"
+    },
+    {
+        "title": "Klaus",
+        "year": "2019",
+        "director": "Sergio Pablos",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Jason Schwartzman, J.K. Simmons, Rashida Jones, Joan Cusack, Norm Macdonald"
+    },
+    {
+        "title": "Rashomon",
+        "year": "1950",
+        "director": "Akira Kurosawa",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Toshir\u014d Mifune, Machiko Ky\u014d, Takashi Shimura, Masayuki Mori, Minoru Chiaki"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "director": "Roman Polanski",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez, John Hillerman"
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": "2009",
+        "director": "Juan Jos\u00e9 Campanella",
+        "genres": "Drama, Mystery, Romance",
+        "cast": "Ricardo Dar\u00edn, Soledad Villamil, Pablo Rago, Javier Godino, Guillermo Francella"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "director": "Guy Ritchie",
+        "genres": "Action, Comedy, Crime",
+        "cast": "Vinnie Jones, Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham"
+    },
+    {
+        "title": "V for Vendetta",
+        "year": "2005",
+        "director": "James McTeigue",
+        "genres": "Action, Drama, Sci-Fi",
+        "cast": "Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry, John Hurt"
+    },
+    {
+        "title": "Inside Out",
+        "year": "2015",
+        "director": "Pete Docter, Ronnie Del Carmen",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "director": "Martin McDonagh",
+        "genres": "Crime, Drama",
+        "cast": "Frances McDormand, Woody Harrelson, Sam Rockwell, Lucas Hedges, Abbie Cornish"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "director": "David Lean",
+        "genres": "Adventure, Drama, War",
+        "cast": "William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa, James Donald"
+    },
+    {
+        "title": "Trainspotting",
+        "year": "1996",
+        "director": "Danny Boyle",
+        "genres": "Drama",
+        "cast": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd, Robert Carlyle"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "director": "Steven Spielberg",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen, Nathalie Baye"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Drama, Sport",
+        "cast": "Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent, Nicholas Colasanto"
+    },
+    {
+        "title": "The Wild Robot",
+        "year": "2024",
+        "director": "Chris Sanders",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu"
+    },
+    {
+        "title": "Fargo",
+        "year": "1996",
+        "director": "Joel Coen, Ethan Coen",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Frances McDormand, William H. Macy, Steve Buscemi, Peter Stormare, Harve Presnell"
+    },
+    {
+        "title": "Warrior",
+        "year": "2011",
+        "director": "Gavin O'Connor",
+        "genres": "Action, Drama, Sport",
+        "cast": "Joel Edgerton, Tom Hardy, Nick Nolte, Jennifer Morrison, Frank Grillo"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": "2011",
+        "director": "David Yates",
+        "genres": "Adventure, Drama, Fantasy",
+        "cast": "Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Alan Rickman"
+    },
+    {
+        "title": "Gran Torino",
+        "year": "2008",
+        "director": "Clint Eastwood",
+        "genres": "Drama",
+        "cast": "Clint Eastwood, Christopher Carley, Bee Vang, Ahney Her, Brian Haley"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": "2004",
+        "director": "Clint Eastwood",
+        "genres": "Drama, Sport",
+        "cast": "Clint Eastwood, Hilary Swank, Morgan Freeman, Jay Baruchel, Mike Colter"
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": "1988",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Family, Fantasy",
+        "cast": "Noriko Hidaka, Chika Sakamoto, Hitoshi Takagi, Shigesato Itoi, Sumi Shimamoto"
+    },
+    {
+        "title": "Ben-Hur",
+        "year": "1959",
+        "director": "William Wyler",
+        "genres": "Adventure, Drama",
+        "cast": "Charlton Heston, Stephen Boyd, Hugh Griffith, Jack Hawkins, Haya Harareet"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "director": "George Miller",
+        "genres": "Action, Adventure, Sci-Fi",
+        "cast": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": "2021",
+        "director": "Jon Watts",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, History, War",
+        "cast": "Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Kr\u00fcger, Steven Berkoff"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": "1989",
+        "director": "Peter Weir",
+        "genres": "Comedy, Drama",
+        "cast": "Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles, Gale Hansen"
+    },
+    {
+        "title": "Children of Heaven",
+        "year": "1997",
+        "director": "Majid Majidi",
+        "genres": "Drama, Family",
+        "cast": "Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi, Reza Naji, Fereshte Sarabandi"
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": "2013",
+        "director": "Steve McQueen",
+        "genres": "Biography, Drama, History",
+        "cast": "Chiwetel Ejiofor, Michael Fassbender, Lupita Nyong'o, Benedict Cumberbatch, Paul Dano"
+    },
+    {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance",
+        "cast": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno P\u00f6schl, Karl Bruckschwaiger"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "director": "Wes Anderson",
+        "genres": "Adventure, Comedy, Crime",
+        "cast": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": "2016",
+        "director": "Mel Gibson",
+        "genres": "Biography, Drama, History",
+        "cast": "Andrew Garfield, Sam Worthington, Vince Vaughn, Teresa Palmer, Luke Bracey"
+    },
+    {
+        "title": "Blade Runner",
+        "year": "1982",
+        "director": "Ridley Scott",
+        "genres": "Action, Drama, Sci-Fi",
+        "cast": "Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos, M. Emmet Walsh"
+    },
+    {
+        "title": "Gone Girl",
+        "year": "2014",
+        "director": "David Fincher",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry, Carrie Coon"
+    },
+    {
+        "title": "Memories of Murder",
+        "year": "2003",
+        "director": "Bong Joon Ho",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Song Kang-ho, Kim Sang-kyung, Kim Roi-ha, Song Jae-ho, Byun Hee-bong"
+    },
+    {
+        "title": "Ratatouille",
+        "year": "2007",
+        "director": "Brad Bird, Jan Pinkava",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy, Peter Sohn"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": "2001",
+        "director": "Pete Docter, David Silverman, Lee Unkrich",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi, James Coburn"
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": "1993",
+        "director": "Jim Sheridan",
+        "genres": "Biography, Drama",
+        "cast": "Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, John Lynch, Corin Redgrave"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": "2010",
+        "director": "Dean DeBlois, Chris Sanders",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill"
+    },
+    {
+        "title": "The Gold Rush",
+        "year": "1925",
+        "director": "Charles Chaplin",
+        "genres": "Adventure, Comedy, Drama",
+        "cast": "Charlie Chaplin, Mack Swain, Tom Murray, Henry Bergman, Malcolm Waite"
+    },
+    {
+        "title": "Wild Tales",
+        "year": "2014",
+        "director": "Dami\u00e1n Szifron",
+        "genres": "Comedy, Drama, Thriller",
+        "cast": "Ricardo Dar\u00edn, Leonardo Sbaraglia, \u00c9rica Rivas, Oscar Mart\u00ednez, Rita Cortese"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": "1924",
+        "director": "Buster Keaton",
+        "genres": "Action, Comedy, Romance",
+        "cast": "Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly, Ward Crane"
+    },
+    {
+        "title": "Jaws",
+        "year": "1975",
+        "director": "Steven Spielberg",
+        "genres": "Adventure, Thriller",
+        "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton"
+    },
+    {
+        "title": "Mary and Max",
+        "year": "2009",
+        "director": "Adam Elliot",
+        "genres": "Animation, Comedy, Drama",
+        "cast": "Toni Collette, Philip Seymour Hoffman, Barry Humphries, Eric Bana, Bethany Whitmore"
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "director": "Michael Cimino",
+        "genres": "Drama, War",
+        "cast": "Robert De Niro, Christopher Walken, John Cazale, John Savage, Meryl Streep"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": "2019",
+        "director": "James Mangold",
+        "genres": "Action, Biography, Drama",
+        "cast": "Matt Damon, Christian Bale, Jon Bernthal, Caitr\u00edona Balfe, Josh Lucas"
+    },
+    {
+        "title": "The General",
+        "year": "1926",
+        "director": "Clyde Bruckman, Buster Keaton",
+        "genres": "Action, Adventure, Comedy",
+        "cast": "Buster Keaton, Marion Mack, Glen Cavender, Jim Farley, Frederick Vroom"
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": "1953",
+        "director": "Henri-Georges Clouzot",
+        "genres": "Adventure, Drama, Thriller",
+        "cast": "Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli, V\u00e9ra Clouzot"
+    },
+    {
+        "title": "On the Waterfront",
+        "year": "1954",
+        "director": "Elia Kazan",
+        "genres": "Crime, Drama, Romance",
+        "cast": "Marlon Brando, Karl Malden, Lee J. Cobb, Eva Marie Saint, Rod Steiger"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": "1939",
+        "director": "Frank Capra",
+        "genres": "Comedy, Drama",
+        "cast": "James Stewart, Jean Arthur, Claude Rains, Edward Arnold, Guy Kibbee"
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Romance",
+        "cast": "Victor Sj\u00f6str\u00f6m, Bibi Andersson, Ingrid Thulin, Gunnar Bj\u00f6rnstrand, Jullan Kindahl"
+    },
+    {
+        "title": "I'm Still Here",
+        "year": "2024",
+        "director": "Not Yet Available",
+        "genres": "Drama",
+        "cast": "Fernanda Torres, Selton Mello, Valentina Herszage, B\u00e1rbara Luz, Guilherme Silveira"
+    },
+    {
+        "title": "Logan",
+        "year": "2017",
+        "director": "James Mangold",
+        "genres": "Action, Drama, Sci-Fi",
+        "cast": "Hugh Jackman, Dafne Keen, Patrick Stewart, Elizabeth Rodriguez, Boyd Holbrook"
+    },
+    {
+        "title": "Rocky",
+        "year": "1976",
+        "director": "John G. Avildsen",
+        "genres": "Drama, Sport",
+        "cast": "Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "director": "Carol Reed",
+        "genres": "Film-Noir, Mystery, Thriller",
+        "cast": "Joseph Cotten, Alida Valli, Trevor Howard, Orson Welles, Paul H\u00f6rbiger"
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "director": "Yasujir\u014d Ozu",
+        "genres": "Drama",
+        "cast": "Chish\u016b Ry\u016b, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura, S\u014d Yamamura"
+    },
+    {
+        "title": "Spotlight",
+        "year": "2015",
+        "director": "Tom McCarthy",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber, John Slattery"
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "director": "Joel Coen",
+        "genres": "Comedy, Crime",
+        "cast": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, David Huddleston"
+    },
+    {
+        "title": "Maharaja",
+        "year": "2024",
+        "director": "Not Yet Available",
+        "genres": "Drama",
+        "cast": "Vijay Sethupathi, Anurag Kashyap, Sachana Namidass, Natarajan Subramaniam, Abhirami"
+    },
+    {
+        "title": "The Terminator",
+        "year": "1984",
+        "director": "James Cameron",
+        "genres": "Action, Sci-Fi",
+        "cast": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Lance Henriksen"
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Fantasy",
+        "cast": "Gunnar Bj\u00f6rnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow, Bibi Andersson"
+    },
+    {
+        "title": "Room",
+        "year": "2015",
+        "director": "Lenny Abrahamson",
+        "genres": "Drama, Thriller",
+        "cast": "Brie Larson, Jacob Tremblay, Joan Allen, Sean Bridgers, Tom McCamus"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "director": "Gore Verbinski",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport"
+    },
+    {
+        "title": "La haine",
+        "year": "1995",
+        "director": "Mathieu Kassovitz",
+        "genres": "Crime, Drama",
+        "cast": "Vincent Cassel, Hubert Kound\u00e9, Sa\u00efd Taghmaoui, Abdel Ahmed Ghili, Solo"
+    },
+    {
+        "title": "Jai Bhim",
+        "year": "2021",
+        "director": "T.J. Gnanavel",
+        "genres": "Crime, Drama",
+        "cast": "Suriya, Lijomol Jose, Baby Joshika Maya, Manikandan, Rajisha Vijayan"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": "2004",
+        "director": "Terry George",
+        "genres": "Biography, Drama, History",
+        "cast": "Don Cheadle, Sophie Okonedo, Nick Nolte, Fana Mokoena, Joaquin Phoenix"
+    },
+    {
+        "title": "Platoon",
+        "year": "1986",
+        "director": "Oliver Stone",
+        "genres": "Drama, War",
+        "cast": "Charlie Sheen, Willem Dafoe, Tom Berenger, Kevin Dillon, Forest Whitaker"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "director": "William Wyler",
+        "genres": "Drama, Romance, War",
+        "cast": "Dana Andrews, Fredric March, Harold Russell, Teresa Wright, Myrna Loy"
+    },
+    {
+        "title": "Before Sunset",
+        "year": "2004",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance",
+        "cast": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torr\u00e8s, Rodolphe Pauly"
+    },
+    {
+        "title": "The Exorcist",
+        "year": "1973",
+        "director": "William Friedkin",
+        "genres": "Horror",
+        "cast": "Ellen Burstyn, Linda Blair, Jason Miller, Max von Sydow, Lee J. Cobb"
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": "1928",
+        "director": "Carl Theodor Dreyer",
+        "genres": "Biography, Drama, History",
+        "cast": "Maria Falconetti, Eug\u00e8ne Silvain, Andr\u00e9 Berley, Maurice Schutz, Antonin Artaud"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": "1939",
+        "director": "Victor Fleming",
+        "genres": "Adventure, Family, Fantasy",
+        "cast": "Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley"
+    },
+    {
+        "title": "The Sound of Music",
+        "year": "1965",
+        "director": "Robert Wise",
+        "genres": "Biography, Drama, Family",
+        "cast": "Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood"
+    },
+    {
+        "title": "The Incredibles",
+        "year": "2004",
+        "director": "Brad Bird",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Craig T. Nelson, Holly Hunter, Sarah Vowell, Spencer Fox, Jason Lee"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": "2009",
+        "director": "Lasse Hallstr\u00f6m",
+        "genres": "Biography, Drama, Family",
+        "cast": "Richard Gere, Joan Allen, Sarah Roemer, Cary-Hiroyuki Tagawa, Erick Avari"
+    },
+    {
+        "title": "Rush",
+        "year": "2013",
+        "director": "Ron Howard",
+        "genres": "Action, Biography, Drama",
+        "cast": "Chris Hemsworth, Daniel Br\u00fchl, Olivia Wilde, Alexandra Maria Lara, Pierfrancesco Favino"
+    },
+    {
+        "title": "Stand by Me",
+        "year": "1986",
+        "director": "Rob Reiner",
+        "genres": "Adventure, Drama",
+        "cast": "Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell, Kiefer Sutherland"
+    },
+    {
+        "title": "My Father and My Son",
+        "year": "2005",
+        "director": "\u00c7agan Irmak",
+        "genres": "Drama",
+        "cast": "Fikret Ku\u015fkan, Ege Tanman, \u00c7etin Tekindor, H\u00fcmeyra, \u015eerif Sezer"
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "director": "Sidney Lumet",
+        "genres": "Drama",
+        "cast": "Faye Dunaway, William Holden, Peter Finch, Robert Duvall, Ned Beatty"
+    },
+    {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "director": "Brad Bird",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon, Cloris Leachman"
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "director": "Park Chan-wook",
+        "genres": "Drama, Romance, Thriller",
+        "cast": "Kim Min-hee, Kim Tae-ri, Ha Jung-woo, Cho Jin-woong, Kim Hae-sook"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": "1942",
+        "director": "Ernst Lubitsch",
+        "genres": "Comedy, War",
+        "cast": "Carole Lombard, Jack Benny, Robert Stack, Felix Bressart, Lionel Atwill"
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": "1966",
+        "director": "Gillo Pontecorvo",
+        "genres": "Drama, War",
+        "cast": "Brahim Hadjadj, Jean Martin, Yacef Sa\u00e2di, Fouzia El Kader, Mohamed Ben Kassen"
+    },
+    {
+        "title": "A Silent Voice: The Movie",
+        "year": "2016",
+        "director": "Naoko Yamada",
+        "genres": "Animation, Drama, Romance",
+        "cast": "Miyu Irino, Saori Hayami, Aoi Yuki, Kensho Ono, Yuki Kaneko"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": "1940",
+        "director": "John Ford",
+        "genres": "Drama, History",
+        "cast": "Henry Fonda, Jane Darwell, John Carradine, Charley Grapewin, Dorris Bowdon"
+    },
+    {
+        "title": "Into the Wild",
+        "year": "2007",
+        "director": "Sean Penn",
+        "genres": "Adventure, Biography, Drama",
+        "cast": "Emile Hirsch, Marcia Gay Harden, William Hurt, Jena Malone, Brian H. Dierker"
+    },
+    {
+        "title": "Groundhog Day",
+        "year": "1993",
+        "director": "Harold Ramis",
+        "genres": "Comedy, Fantasy, Romance",
+        "cast": "Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Brian Doyle-Murray"
+    },
+    {
+        "title": "The Help",
+        "year": "2011",
+        "director": "Tate Taylor",
+        "genres": "Drama",
+        "cast": "Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer, Jessica Chastain"
+    },
+    {
+        "title": "Amores Perros",
+        "year": "2000",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "genres": "Drama, Thriller",
+        "cast": "Emilio Echevarr\u00eda, Gael Garc\u00eda Bernal, Vanessa Bauche, Goya Toledo, \u00c1lvaro Guerrero"
+    },
+    {
+        "title": "Rebecca",
+        "year": "1940",
+        "director": "Alfred Hitchcock",
+        "genres": "Drama, Mystery, Romance",
+        "cast": "Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson, Nigel Bruce"
+    },
+    {
+        "title": "Drishyam",
+        "year": "2015",
+        "director": "Nishikant Kamat",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Ajay Devgn, Tabu, Shriya Saran, Ishita Dutta, Mrunal Jadhav"
+    },
+    {
+        "title": "The Graduate",
+        "year": "1967",
+        "director": "Mike Nichols",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Anne Bancroft, Dustin Hoffman, Katharine Ross, Murray Hamilton, William Daniels"
+    },
+    {
+        "title": "Star Wars",
+        "year": "1977",
+        "director": "George Lucas",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness"
+    },
+    {
+        "title": "The African Queen",
+        "year": "1951",
+        "director": "John Huston",
+        "genres": "Adventure, Drama, Romance",
+        "cast": "Humphrey Bogart, Katharine Hepburn, Robert Morley, Peter Bull, Theodore Bikel"
+    },
+    {
+        "title": "The Maltese Falcon",
+        "year": "1941",
+        "director": "John Huston",
+        "genres": "Crime, Drama, Film-Noir",
+        "cast": "Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre, Barton MacLane"
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "year": "1982",
+        "director": "Steven Spielberg",
+        "genres": "Adventure, Family, Sci-Fi",
+        "cast": "Henry Thomas, Drew Barrymore, Robert MacNaughton, Peter Coyote, Dee Wallace"
+    },
+    {
+        "title": "Dr. Strangelove",
+        "year": "1964",
+        "director": "Keaton Gover, Jack Snelling",
+        "genres": "Short, Comedy, Crime",
+        "cast": "Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens"
+    },
+    {
+        "title": "Bonnie and Clyde",
+        "year": "1967",
+        "director": "Arthur Penn",
+        "genres": "Action, Biography, Crime",
+        "cast": "Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman, Estelle Parsons"
+    },
+    {
+        "title": "Annie Hall",
+        "year": "1977",
+        "director": "Woody Allen",
+        "genres": "Comedy, Romance",
+        "cast": "Woody Allen, Diane Keaton, Tony Roberts, Carol Kane, Paul Simon"
+    },
+    {
+        "title": "High Noon",
+        "year": "1952",
+        "director": "Fred Zinnemann",
+        "genres": "Drama, Thriller, Western",
+        "cast": "Gary Cooper, Thomas Mitchell, Lloyd Bridges, Grace Kelly, Katy Jurado"
+    },
+    {
+        "title": "It Happened One Night",
+        "year": "1934",
+        "director": "Frank Capra",
+        "genres": "Comedy, Romance",
+        "cast": "Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas"
+    },
+    {
+        "title": "Midnight Cowboy",
+        "year": "1969",
+        "director": "John Schlesinger",
+        "genres": "Drama",
+        "cast": "Jon Voight, Dustin Hoffman, Sylvia Miles, John McGiver, Brenda Vaccaro"
+    },
+    {
+        "title": "Doctor Zhivago",
+        "year": "1965",
+        "director": "David Lean",
+        "genres": "Drama, Romance, War",
+        "cast": "Omar Sharif, Julie Christie, Geraldine Chaplin, Rod Steiger, Alec Guinness"
+    },
+    {
+        "title": "West Side Story",
+        "year": "1961",
+        "director": "Jerome Robbins, Robert Wise",
+        "genres": "Crime, Drama, Musical",
+        "cast": "Natalie Wood, Richard Beymer, Russ Tamblyn, Rita Moreno, George Chakiris"
+    },
+    {
+        "title": "King Kong",
+        "year": "1933",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Romance",
+        "cast": "Robert Armstrong, Fay Wray, Bruce Cabot, Frank Reicher, Victor Wong"
+    },
+    {
+        "title": "The Birth of a Nation",
+        "year": "1915",
+        "director": "D.W. Griffith",
+        "genres": "Drama, War",
+        "cast": "Lillian Gish, Mae Marsh, Henry B. Walthall, Miriam Cooper, Mary Alden"
+    },
+    {
+        "title": "A Streetcar Named Desire",
+        "year": "1951",
+        "director": "Elia Kazan",
+        "genres": "Drama",
+        "cast": "Vivien Leigh, Marlon Brando, Kim Hunter, Karl Malden, Rudy Bond"
+    },
+    {
+        "title": "Snow White and the Seven Dwarfs",
+        "year": "1937",
+        "director": "William Cottrell, David Hand, Wilfred Jackson",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Adriana Caselotti, Lucille La Verne, Harry Stockwell, Roy Atwell, Pinto Colvig"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "year": "1969",
+        "director": "George Roy Hill",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Paul Newman, Robert Redford, Katharine Ross, Strother Martin, Henry Jones"
+    },
+    {
+        "title": "The Philadelphia Story",
+        "year": "1940",
+        "director": "George Cukor",
+        "genres": "Comedy, Romance",
+        "cast": "Cary Grant, Katharine Hepburn, James Stewart, Ruth Hussey, John Howard"
+    },
+    {
+        "title": "From Here to Eternity",
+        "year": "1953",
+        "director": "Fred Zinnemann",
+        "genres": "Drama, Romance, War",
+        "cast": "Burt Lancaster, Montgomery Clift, Deborah Kerr, Donna Reed, Frank Sinatra"
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "year": "1930",
+        "director": "Edward Berger",
+        "genres": "Drama, History, War",
+        "cast": "Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy, Ben Alexander"
+    },
+    {
+        "title": "M*A*S*H",
+        "year": "1970",
+        "director": "Robert Altman",
+        "genres": "Comedy, Drama, War",
+        "cast": "Donald Sutherland, Elliott Gould, Tom Skerritt, Sally Kellerman, Robert Duvall"
+    },
+    {
+        "title": "Fantasia",
+        "year": "1940",
+        "director": "James Algar, Samuel Armstrong, Ford Beebe Jr.",
+        "genres": "Animation, Family, Fantasy",
+        "cast": "Deems Taylor, Walt Disney, Julietta Novis, Leopold Stokowski"
+    },
+    {
+        "title": "Rebel Without a Cause",
+        "year": "1955",
+        "director": "Nicholas Ray",
+        "genres": "Drama",
+        "cast": "James Dean, Natalie Wood, Sal Mineo, Jim Backus, Ann Doran"
+    },
+    {
+        "title": "Tootsie",
+        "year": "1982",
+        "director": "Sydney Pollack",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman, Charles Durning"
+    },
+    {
+        "title": "Stagecoach",
+        "year": "1939",
+        "director": "John Ford",
+        "genres": "Adventure, Drama, Western",
+        "cast": "Claire Trevor, John Wayne, George Bancroft, Andy Devine, Thomas Mitchell"
+    },
+    {
+        "title": "Close Encounters of the Third Kind",
+        "year": "1977",
+        "director": "Steven Spielberg",
+        "genres": "Drama, Sci-Fi",
+        "cast": "Richard Dreyfuss, Fran\u00e7ois Truffaut, Teri Garr, Melinda Dillon, Bob Balaban"
+    },
+    {
+        "title": "The Manchurian Candidate",
+        "year": "1962",
+        "director": "Jonathan Demme",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "cast": "Frank Sinatra, Laurence Harvey, Angela Lansbury, Janet Leigh, James Gregory"
+    },
+    {
+        "title": "An American in Paris",
+        "year": "1951",
+        "director": "Vincente Minnelli",
+        "genres": "Drama, Musical, Romance",
+        "cast": "Gene Kelly, Leslie Caron, Oscar Levant, Georges Gu\u00e9tary, Nina Foch"
+    },
+    {
+        "title": "Shane",
+        "year": "1953",
+        "director": "George Stevens",
+        "genres": "Drama, Western",
+        "cast": "Alan Ladd, Jean Arthur, Van Heflin, Brandon De Wilde, Jack Palance"
+    },
+    {
+        "title": "The French Connection",
+        "year": "1971",
+        "director": "William Friedkin",
+        "genres": "Action, Crime, Drama",
+        "cast": "Gene Hackman, Roy Scheider, Fernando Rey, Tony Lo Bianco, Marcel Bozzuffi"
+    },
+    {
+        "title": "Wuthering Heights",
+        "year": "1939",
+        "director": "William Wyler",
+        "genres": "Drama, Romance",
+        "cast": "Merle Oberon, Laurence Olivier, David Niven, Flora Robson, Donald Crisp"
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "director": "Kevin Costner",
+        "genres": "Adventure, Drama, Western",
+        "cast": "Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant, Floyd \"Red Crow\" Westerman"
+    },
+    {
+        "title": "American Graffiti",
+        "year": "1973",
+        "director": "George Lucas",
+        "genres": "Comedy, Drama",
+        "cast": "Richard Dreyfuss, Ron Howard, Paul Le Mat, Charles Martin Smith, Cindy Williams"
+    },
+    {
+        "title": "The Wild Bunch",
+        "year": "1969",
+        "director": "Sam Peckinpah",
+        "genres": "Action, Adventure, Drama",
+        "cast": "William Holden, Ernest Borgnine, Robert Ryan, Jaime S\u00e1nchez, Warren Oates"
+    },
+    {
+        "title": "Giant",
+        "year": "1956",
+        "director": "George Stevens",
+        "genres": "Drama, Western",
+        "cast": "Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker, Jane Withers"
+    },
+    {
+        "title": "Duck Soup",
+        "year": "1933",
+        "director": "Leo McCarey",
+        "genres": "Comedy, Musical",
+        "cast": "Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx, Margaret Dumont"
+    },
+    {
+        "title": "Mutiny on the Bounty",
+        "year": "1935",
+        "director": "Frank Lloyd",
+        "genres": "Adventure, Biography, Drama",
+        "cast": "Charles Laughton, Clark Gable, Franchot Tone, Herbert Mundin, Eddie Quillan"
+    },
+    {
+        "title": "Frankenstein",
+        "year": "1931",
+        "director": "James Whale",
+        "genres": "Drama, Horror, Sci-Fi",
+        "cast": "Colin Clive, Mae Clarke, John Boles, Boris Karloff, Edward Van Sloan"
+    },
+    {
+        "title": "Easy Rider",
+        "year": "1969",
+        "director": "Dennis Hopper",
+        "genres": "Adventure, Drama",
+        "cast": "Peter Fonda, Dennis Hopper, Jack Nicholson, Antonio Mendoza, Phil Spector"
+    },
+    {
+        "title": "Patton",
+        "year": "1970",
+        "director": "Franklin J. Schaffner",
+        "genres": "Biography, Drama, War",
+        "cast": "George C. Scott, Stephen Young, Frank Latimore, Karl Michael Vogler, Karl Malden"
+    },
+    {
+        "title": "The Jazz Singer",
+        "year": "1927",
+        "director": "Alan Crosland",
+        "genres": "Drama, Music, Musical",
+        "cast": "Al Jolson, May McAvoy, Warner Oland, Eugenie Besserer, Otto Lederer"
+    },
+    {
+        "title": "My Fair Lady",
+        "year": "1964",
+        "director": "George Cukor",
+        "genres": "Drama, Family, Musical",
+        "cast": "Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White, Gladys Cooper"
+    },
+    {
+        "title": "A Place in the Sun",
+        "year": "1951",
+        "director": "George Stevens",
+        "genres": "Drama, Romance",
+        "cast": "Montgomery Clift, Elizabeth Taylor, Shelley Winters, Anne Revere, Keefe Brasselle"
+    },
+    {
+        "title": "The Searchers",
+        "year": "1956",
+        "director": "John Ford",
+        "genres": "Adventure, Drama, Western",
+        "cast": "John Wayne, Jeffrey Hunter, Vera Miles, Ward Bond, Natalie Wood"
+    },
+    {
+        "title": "Bringing Up Baby",
+        "year": "1938",
+        "director": "Howard Hawks",
+        "genres": "Comedy",
+        "cast": "Cary Grant, Katharine Hepburn, Charles Ruggles, Walter Catlett, Barry Fitzgerald"
+    },
+    {
+        "title": "Guess Who's Coming to Dinner",
+        "year": "1967",
+        "director": "Stanley Kramer",
+        "genres": "Comedy, Drama",
+        "cast": "Spencer Tracy, Sidney Poitier, Katharine Hepburn, Katharine Houghton, Cecil Kellaway"
+    },
+    {
+        "title": "Yankee Doodle Dandy",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "genres": "Biography, Drama, Family",
+        "cast": "James Cagney, Joan Leslie, Walter Huston, Richard Whorf, Irene Manning"
+    },
+    {
+        "title": "Intolerance",
+        "year": "1916",
+        "director": "D.W. Griffith",
+        "genres": "Drama, History",
+        "cast": "Lillian Gish, Mae Marsh, Robert Harron, F.A. Turner, Sam De Grasse"
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "year": "2001",
+        "director": "N/A",
+        "genres": "Adventure, Fantasy",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Ian Holm"
+    },
+    {
+        "title": "Nashville",
+        "year": "1975",
+        "director": "Robert Altman",
+        "genres": "Comedy, Drama, Music",
+        "cast": "David Arkin, Barbara Baxley, Ned Beatty, Karen Black, Ronee Blakley"
+    },
+    {
+        "title": "Sullivan's Travels",
+        "year": "1941",
+        "director": "Preston Sturges",
+        "genres": "Adventure, Comedy, Drama",
+        "cast": "Joel McCrea, Veronica Lake, Robert Warwick, William Demarest, Franklin Pangborn"
+    },
+    {
+        "title": "Cabaret",
+        "year": "1972",
+        "director": "Bob Fosse",
+        "genres": "Drama, Music, Musical",
+        "cast": "Liza Minnelli, Michael York, Helmut Griem, Joel Grey, Fritz Wepper"
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "year": "1966",
+        "director": "Mike Nichols",
+        "genres": "Drama",
+        "cast": "Elizabeth Taylor, Richard Burton, George Segal, Sandy Dennis, Agnes Flanagan"
+    },
+    {
+        "title": "In the Heat of the Night",
+        "year": "1967",
+        "director": "Norman Jewison",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Sidney Poitier, Rod Steiger, Warren Oates, Peter Whitney, Lee Grant"
+    },
+    {
+        "title": "All the President's Men",
+        "year": "1976",
+        "director": "Alan J. Pakula",
+        "genres": "Drama, History, Thriller",
+        "cast": "Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam, Hal Holbrook"
+    },
+    {
+        "title": "Spartacus",
+        "year": "1960",
+        "director": "N/A",
+        "genres": "Action, Adventure, Biography",
+        "cast": "Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton, Peter Ustinov"
+    },
+    {
+        "title": "Sunrise",
+        "year": "1927",
+        "director": "F.W. Murnau",
+        "genres": "Drama, Romance",
+        "cast": "George O'Brien, Janet Gaynor, Margaret Livingston, Bodil Rosing, J. Farrell MacDonald"
+    },
+    {
+        "title": "Titanic",
+        "year": "1997",
+        "director": "James Cameron",
+        "genres": "Drama, Romance",
+        "cast": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher"
+    },
+    {
+        "title": "A Night at the Opera",
+        "year": "1935",
+        "director": "Sam Wood, Edmund Goulding",
+        "genres": "Comedy, Music, Musical",
+        "cast": "Groucho Marx, Chico Marx, Harpo Marx, Kitty Carlisle, Allan Jones"
+    },
+    {
+        "title": "Swing Time",
+        "year": "1936",
+        "director": "George Stevens",
+        "genres": "Comedy, Musical, Romance",
+        "cast": "Fred Astaire, Ginger Rogers, Victor Moore, Helen Broderick, Eric Blore"
+    },
+    {
+        "title": "Sophie's Choice",
+        "year": "1982",
+        "director": "Alan J. Pakula",
+        "genres": "Drama, Romance",
+        "cast": "Meryl Streep, Kevin Kline, Peter MacNicol, Rita Karin, Josh Mostel"
+    },
+    {
+        "title": "The Last Picture Show",
+        "year": "1971",
+        "director": "Peter Bogdanovich",
+        "genres": "Drama, Romance",
+        "cast": "Timothy Bottoms, Cybill Shepherd, Jeff Bridges, Cloris Leachman, Ellen Burstyn"
+    },
+    {
+        "title": "Do the Right Thing",
+        "year": "1989",
+        "director": "Spike Lee",
+        "genres": "Comedy, Drama",
+        "cast": "Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson, Giancarlo Esposito"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, Mystery",
+        "cast": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsuro Tamba, Masao Mishima"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "director": "Sidney Lumet",
+        "genres": "Crime, Drama",
+        "cast": "Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall, Jack Klugman"
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "director": "Elem Klimov",
+        "genres": "Drama, Thriller, War",
+        "cast": "Aleksei Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas, J\u00fcri Lumiste"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama",
+        "cast": "Toshir\u014d Mifune, Takashi Shimura, Yoshio Inaba, Seiji Miyaguchi, Minoru Chiaki"
+    },
+    {
+        "title": "The Human Condition III: A Soldier's Prayer",
+        "year": "1961",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, History, War",
+        "cast": "Tatsuya Nakadai, Michiyo Aratama, Tamao Nakamura, Y\u016bsuke Kawazu, Chish\u016b Ry\u016b"
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "director": "Akira Kurosawa",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Toshir\u014d Mifune, Tatsuya Nakadai, Ky\u014dko Kagawa, Tatsuya Mihashi, Isao Kimura"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama",
+        "cast": "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro, John Cazale"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "director": "Frank Darabont",
+        "genres": "Drama",
+        "cast": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "director": "Bong Joon Ho",
+        "genres": "Drama, Thriller",
+        "cast": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam"
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "director": "Fernando Meirelles, K\u00e1tia Lund",
+        "genres": "Crime, Drama",
+        "cast": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva, Jonathan Haagensen"
+    },
+    {
+        "title": "Yi Yi",
+        "year": "2000",
+        "director": "Edward Yang",
+        "genres": "Drama, Romance",
+        "cast": "Wu Nien-jen, Issey Ogata, Elaine Jin Yan-Ling, Kelly Lee, Jonathan Chang"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama",
+        "cast": "Marlon Brando, Al Pacino, James Caan, Robert Duvall, Richard S. Castellano"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "director": "Steven Spielberg",
+        "genres": "Biography, Drama, History",
+        "cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall"
+    },
+    {
+        "title": "The Human Condition I: No Greater Love",
+        "year": "1959",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, History, War",
+        "cast": "Tatsuya Nakadai, Michiyo Aratama, Chikage Awashima, Ineko Arima, S\u014d Yamamura"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "director": "Peter Jackson",
+        "genres": "Adventure, Drama, Fantasy",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis"
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "director": "Akira Kurosawa",
+        "genres": "Drama",
+        "cast": "Takashi Shimura, Haruo Tanaka, Nobuo Kaneko, Bokuzen Hidari, Miki Odagiri"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, War",
+        "cast": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu, Daisuke Ry\u016b, Mieko Harada"
+    },
+    {
+        "title": "La Haine",
+        "year": "1995",
+        "director": "Mathieu Kassovitz",
+        "genres": "Crime, Drama",
+        "cast": "Vincent Cassel, Hubert Kound\u00e9, Sa\u00efd Taghmaoui, Abdel Ahmed Ghili, Solo"
+    },
+    {
+        "title": "A Brighter Summer Day",
+        "year": "1991",
+        "director": "Edward Yang",
+        "genres": "Crime, Drama, Romance",
+        "cast": "Chang Chen, Lisa Yang, Chang Kuo-Chu, Elaine Jin Yan-Ling, Chuan Wang"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "director": "Sergio Leone",
+        "genres": "Adventure, Western",
+        "cast": "Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffr\u00e8, Luigi Pistilli"
+    },
+    {
+        "title": "Le Trou",
+        "year": "2022\u2013",
+        "director": "N/A",
+        "genres": "Comedy, Sci-Fi",
+        "cast": "Benoit Campeau-Hunziker, Sophie Pilipczuk, Didier Julien, Andre French, Louise Renault"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "director": "Giuseppe Tornatore",
+        "genres": "Drama, Romance",
+        "cast": "Philippe Noiret, Jacques Perrin, Marco Leonardi, Salvatore Cascio, Agnese Nano"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "director": "Christopher Nolan",
+        "genres": "Action, Crime, Drama",
+        "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal"
+    },
+    {
+        "title": "Autumn Sonata",
+        "year": "1978",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Music",
+        "cast": "Ingrid Bergman, Liv Ullmann, Lena Nyman, Halvar Bj\u00f6rk, Marianne Aminoff"
+    },
+    {
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "year": "1997",
+        "director": "Hideaki Anno, Kazuya Tsurumaki",
+        "genres": "Animation, Action, Drama",
+        "cast": "Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi, Yuko Miyamura, Fumihiko Tachiki"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "director": "Isao Takahata",
+        "genres": "Animation, Drama, War",
+        "cast": "Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara, Akemi Yamaguchi, Masayo Sakai"
+    },
+    {
+        "title": "GoodFellas",
+        "year": "1990",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino"
+    },
+    {
+        "title": "Woman in the Dunes",
+        "year": "1964",
+        "director": "Hiroshi Teshigahara",
+        "genres": "Drama, Thriller",
+        "cast": "Eiji Okada, Ky\u00f4ko Kishida, Hiroko It\u014d, K\u014dji Mitsui"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "director": "Paul Thomas Anderson",
+        "genres": "Drama",
+        "cast": "Daniel Day-Lewis, Paul Dano, Kevin J. O'Connor, Ciar\u00e1n Hinds, Dillon Freasier"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, War",
+        "cast": "Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready, Wayne Morris"
+    },
+    {
+        "title": "The Human Condition II: Road to Eternity",
+        "year": "1959",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, History, War",
+        "cast": "Tatsuya Nakadai, Michiyo Aratama, Kokinji Katsura, Jun Tatara, Michir\u014d Minami"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "director": "Francis Ford Coppola",
+        "genres": "Drama, Mystery, War",
+        "cast": "Martin Sheen, Marlon Brando, Albert Hall, Frederic Forrest, Laurence Fishburne"
+    },
+    {
+        "title": "Andrei Rublev",
+        "year": "1966",
+        "director": "Andrei Tarkovsky",
+        "genres": "Biography, Drama, History",
+        "cast": "Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko, Nikolai Sergeyev, Irma Raush"
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston, Jack Kruschen"
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "director": "Yasujir\u00f4 Ozu",
+        "genres": "Drama",
+        "cast": "Chish\u016b Ry\u016b, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura, S\u014d Yamamura"
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": "1950",
+        "director": "Billy Wilder",
+        "genres": "Drama, Film-Noir",
+        "cast": "William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson, Fred Clark"
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": "1928",
+        "director": "Carl Theodor Dreyer",
+        "genres": "Biography, Drama, History",
+        "cast": "Maria Falconetti, Eug\u00e8ne Silvain, Andr\u00e9 Berley, Maurice Schutz, Antonin Artaud"
+    },
+    {
+        "title": "The Cranes Are Flying",
+        "year": "1957",
+        "director": "Mikhail Kalatozov",
+        "genres": "Drama, Romance, War",
+        "cast": "Tatyana Samoylova, Aleksey Batalov, Vasili Merkuryev, Aleksandr Shvorin, Svetlana Kharitonova"
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "director": "Denis Villeneuve",
+        "genres": "Drama, Mystery, War",
+        "cast": "Lubna Azabal, M\u00e9lissa D\u00e9sormeaux-Poulin, Maxim Gaudette, R\u00e9my Girard, Allen Altman"
+    },
+    {
+        "title": "Portrait of a Lady on Fire",
+        "year": "2019",
+        "director": "C\u00e9line Sciamma",
+        "genres": "Drama, Romance",
+        "cast": "No\u00e9mie Merlant, Ad\u00e8le Haenel, Lu\u00e0na Bajrami, Valeria Golino, Christel Baras"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "director": "Damien Chazelle",
+        "genres": "Drama, Music",
+        "cast": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist, Austin Stowell"
+    },
+    {
+        "title": "Mishima: A Life in Four Chapters",
+        "year": "1985",
+        "director": "Paul Schrader",
+        "genres": "Biography, Drama",
+        "cast": "Ken Ogata, Go Riju, Masayuki Shionoya, Hiroshi Mikami, Junkichi Orimoto"
+    },
+    {
+        "title": "Fanny and Alexander",
+        "year": "1982",
+        "director": "Ingmar Bergman",
+        "genres": "Drama",
+        "cast": "Pernilla Allwin, Bertil Guve, Jan Malmsj\u00f6, B\u00f6rje Ahlstedt, Anna Bergman"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Luna Lauren Velez, Jake Johnson"
+    },
+    {
+        "title": "Close-Up",
+        "year": "1990",
+        "director": "Abbas Kiarostami",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Hossain Sabzian, Monoochehr Ahankhah, Mahrokh Ahankhah, Abolfazl Ahankhah, Mehrdad Ahankhah"
+    },
+    {
+        "title": "Memories of Murder",
+        "year": "2003",
+        "director": "Bong Joon Ho",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Song Kang-ho, Kim Sang-kyung, Kim Roi-ha, Song Jae-ho, Byun Hee-bong"
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": "1966",
+        "director": "Gillo Pontecorvo",
+        "genres": "Drama, War",
+        "cast": "Brahim Hadjadj, Jean Martin, Yacef Sa\u00e2di, Fouzia El Kader, Mohamed Ben Kassen"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "director": "Christopher Nolan",
+        "genres": "Adventure, Drama, Sci-Fi",
+        "cast": "Matthew McConaughey, Anne Hathaway, Michael Caine, Jessica Chastain, Casey Affleck"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "director": "Peter Jackson",
+        "genres": "Adventure, Drama, Fantasy",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "director": "Frank Capra",
+        "genres": "Drama, Family, Fantasy",
+        "cast": "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers"
+    },
+    {
+        "title": "The Ascent",
+        "year": "1977",
+        "director": "Larisa Shepitko",
+        "genres": "Drama, War",
+        "cast": "Boris Plotnikov, Vladimir Gostyukhin, Sergey Yakovlev, Lyudmila Polyakova, Viktoriya Goldentul"
+    },
+    {
+        "title": "Stalker",
+        "year": "1979",
+        "director": "Andrei Tarkovsky",
+        "genres": "Drama, Sci-Fi",
+        "cast": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn, Nikolay Grinko, Natalya Abramova"
+    },
+    {
+        "title": "Sansho the Bailiff",
+        "year": "1954",
+        "director": "Kenji Mizoguchi",
+        "genres": "Drama",
+        "cast": "Kinuyo Tanaka, Yoshiaki Hanayagi, Ky\u014dko Kagawa, Eitar\u014d Shind\u014d, Ichir\u014d Sugai"
+    },
+    {
+        "title": "I Am Cuba",
+        "year": "1964",
+        "director": "Mikhail Kalatozov",
+        "genres": "Drama",
+        "cast": "Sergio Corrieri, Salvador Wood, Jos\u00e9 Gallardo, Ra\u00fal Garc\u00eda, Luz Mar\u00eda Collazo"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry"
+    },
+    {
+        "title": "The Empire Strikes Back",
+        "year": "1980",
+        "director": "Irvin Kershner",
+        "genres": "Action, Adventure, Fantasy",
+        "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels"
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "director": "Park Chan-wook",
+        "genres": "Drama, Romance, Thriller",
+        "cast": "Kim Min-hee, Kim Tae-ri, Ha Jung-woo, Cho Jin-woong, Kim Hae-sook"
+    },
+    {
+        "title": "The Red Shoes",
+        "year": "1948",
+        "director": "Michael Powell, Emeric Pressburger",
+        "genres": "Drama, Music, Romance",
+        "cast": "Anton Walbrook, Marius Goring, Moira Shearer, Robert Helpmann, L\u00e9onide Massine"
+    },
+    {
+        "title": "Do the Right Thing",
+        "year": "1989",
+        "director": "Spike Lee",
+        "genres": "Comedy, Drama",
+        "cast": "Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson, Giancarlo Esposito"
+    },
+    {
+        "title": "A Woman Under the Influence",
+        "year": "1974",
+        "director": "John Cassavetes",
+        "genres": "Drama, Romance",
+        "cast": "Gena Rowlands, Peter Falk, Fred Draper, Lady Rowlands, Katherine Cassavetes"
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "director": "Denis Villeneuve",
+        "genres": "Action, Adventure, Drama",
+        "cast": "Timoth\u00e9e Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin"
+    },
+    {
+        "title": "Persona",
+        "year": "1966",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Thriller",
+        "cast": "Bibi Andersson, Liv Ullmann, Margaretha Krook, Gunnar Bj\u00f6rnstrand, J\u00f6rgen Lindstr\u00f6m"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "director": "Stanley Kubrick",
+        "genres": "Adventure, Drama, War",
+        "cast": "Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Kr\u00fcger, Steven Berkoff"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "director": "Roman Polanski",
+        "genres": "Biography, Drama, Music",
+        "cast": "Adrien Brody, Thomas Kretschmann, Frank Finlay, Maureen Lipman, Emilia Fox"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "director": "Sergio Leone",
+        "genres": "Drama, Western",
+        "cast": "Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson, Gabriele Ferzetti"
+    },
+    {
+        "title": "Nights of Cabiria",
+        "year": "1957",
+        "director": "Federico Fellini",
+        "genres": "Drama",
+        "cast": "Giulietta Masina, Fran\u00e7ois P\u00e9rier, Franca Marzi, Amedeo Nazzari, Aldo Silvani"
+    },
+    {
+        "title": "Perfect Blue",
+        "year": "1997",
+        "director": "Satoshi Kon",
+        "genres": "Animation, Crime, Drama",
+        "cast": "Junko Iwao, Rica Matsumoto, Shiho Niiyama, Masaaki Okura, Shinpachi Tsuji"
+    },
+    {
+        "title": "In the Mood for Love",
+        "year": "2000",
+        "director": "Wong Kar-Wai",
+        "genres": "Drama, Romance",
+        "cast": "Tony Leung, Maggie Cheung, Rebecca Pan, Kelly Lai Chen, Siu Ping-Lam"
+    },
+    {
+        "title": "Paris, Texas",
+        "year": "1984",
+        "director": "Wim Wenders",
+        "genres": "Drama",
+        "cast": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Hunter Carson, Aurore Cl\u00e9ment"
+    },
+    {
+        "title": "Nobody Knows",
+        "year": "2004",
+        "director": "Hirokazu Koreeda",
+        "genres": "Drama",
+        "cast": "Yuya Yagira, Ayu Kitaura, Hiei Kimura, Momoko Shimizu, Hanae Kan"
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Fantasy",
+        "cast": "Yoji Matsuda, Yuriko Ishida, Yuko Tanaka, Kaoru Kobayashi, Masahiko Nishimura"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester, John Williams"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "director": "Park Chan-wook",
+        "genres": "Action, Drama, Mystery",
+        "cast": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jung, Kim Byeong-ok, Ji Dae-han"
+    },
+    {
+        "title": "Eternity and a Day",
+        "year": "1998",
+        "director": "Theodoros Angelopoulos",
+        "genres": "Drama",
+        "cast": "Bruno Ganz, Fabrizio Bentivoglio, Isabelle Renauld, Achileas Skevis, Alexandra Ladikou"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "director": "David Lean",
+        "genres": "Adventure, Biography, Drama",
+        "cast": "Peter O'Toole, Alec Guinness, Omar Sharif, Anthony Quinn, Jack Hawkins"
+    },
+    {
+        "title": "Love Exposure",
+        "year": "2008",
+        "director": "Sion Sono",
+        "genres": "Action, Comedy, Drama",
+        "cast": "Takahiro Nishijima, Hikari Mitsushima, Sakura Ando, Makiko Watanabe, Atsuro Watabe"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "director": "Peter Jackson",
+        "genres": "Adventure, Drama, Fantasy",
+        "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Ian Holm"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": "1924",
+        "director": "Buster Keaton",
+        "genres": "Action, Comedy, Romance",
+        "cast": "Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly, Ward Crane"
+    },
+    {
+        "title": "Red Beard",
+        "year": "1965",
+        "director": "Akira Kurosawa",
+        "genres": "Drama",
+        "cast": "Toshir\u014d Mifune, Y\u016bz\u014d Kayama, Tsutomu Yamazaki, Reiko Dan, Miyuki Kuwano"
+    },
+    {
+        "title": "Scenes from a Marriage",
+        "year": "2021",
+        "director": "N/A",
+        "genres": "Drama",
+        "cast": "Liv Ullmann, Erland Josephson, Bibi Andersson, Jan Malmsj\u00f6, Gunnel Lindblom"
+    },
+    {
+        "title": "Satantango",
+        "year": "1994",
+        "director": "B\u00e9la Tarr",
+        "genres": "Drama",
+        "cast": "Mih\u00e1ly V\u00edg, Putyi Horv\u00e1th, Sz\u00e9kely B. Mikl\u00f3s, Erika B\u00f3k, L\u00e1szl\u00f3 feLugossy"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "director": "Roberto Benigni",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano, Sergio Bini Bustric"
+    },
+    {
+        "title": "It's Such a Beautiful Day",
+        "year": "2011",
+        "director": "Don Hertzfeldt",
+        "genres": "Animation, Short, Drama",
+        "cast": "Don Hertzfeldt, Sara Cushman"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "director": "Alfred Hitchcock",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr"
+    },
+    {
+        "title": "A Separation",
+        "year": "2011",
+        "director": "Asghar Farhadi",
+        "genres": "Drama",
+        "cast": "Leila Hatami, Payman Maadi, Sareh Bayat, Sarina Farhadi, Shahab Hosseini"
+    },
+    {
+        "title": "Where Is the Friend's House?",
+        "year": "1987",
+        "director": "Abbas Kiarostami",
+        "genres": "Drama, Family",
+        "cast": "Babek Ahmed Poor, Ahmed Ahmed Poor, Kheda Barech Defai, Iran Outari, Ait Ansari"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "director": "Milos Forman",
+        "genres": "Drama",
+        "cast": "Jack Nicholson, Brad Dourif, Louise Fletcher, Danny DeVito, William Redfield"
+    },
+    {
+        "title": "Paper Moon",
+        "year": "1973",
+        "director": "Peter Bogdanovich",
+        "genres": "Comedy, Crime, Drama",
+        "cast": "Tatum O'Neal, Ryan O'Neal, Madeline Kahn, John Hillerman, Jessie Lee Fulton"
+    },
+    {
+        "title": "Landscape in the Mist",
+        "year": "1988",
+        "director": "Theodoros Angelopoulos",
+        "genres": "Drama",
+        "cast": "Michalis Zeke, Tania Palaiologou, Stratos Tzortzoglou, Eva Kotamanidou, Aliki Georgouli"
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "director": "John Carpenter",
+        "genres": "Horror, Mystery, Sci-Fi",
+        "cast": "Kurt Russell, Keith David, Wilford Brimley, T.K. Carter, David Clennon"
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "director": "Joseph L. Mankiewicz",
+        "genres": "Drama",
+        "cast": "Bette Davis, Anne Baxter, George Sanders, Celeste Holm, Gary Merrill"
+    },
+    {
+        "title": "An Elephant Sitting Still",
+        "year": "2018",
+        "director": "Bo Hu",
+        "genres": "Crime, Drama",
+        "cast": "Peng Yuchang, Wang Yuwen, Zhang Yu, Li Congxi, Zhenghui Ling"
+    },
+    {
+        "title": "Army of Shadows",
+        "year": "1969",
+        "director": "Jean-Pierre Melville",
+        "genres": "Drama, War",
+        "cast": "Lino Ventura, Paul Meurisse, Jean-Pierre Cassel, Simone Signoret, Claude Mann"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "director": "Quentin Tarantino",
+        "genres": "Adventure, Drama, War",
+        "cast": "Brad Pitt, M\u00e9lanie Laurent, Christoph Waltz, Eli Roth, Michael Fassbender"
+    },
+    {
+        "title": "Apur Sansar",
+        "year": "1959",
+        "director": "Satyajit Ray",
+        "genres": "Drama",
+        "cast": "Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty, Swapan Mukherjee, Dhiresh Majumdar"
+    },
+    {
+        "title": "Ordet",
+        "year": "1955",
+        "director": "Carl Theodor Dreyer",
+        "genres": "Drama",
+        "cast": "Henrik Malberg, Birgitte Federspiel, Emil Hass Christensen, Preben Lerdorff Rye, Cay Kristiansen"
+    },
+    {
+        "title": "A Man Escaped",
+        "year": "1956",
+        "director": "Robert Bresson",
+        "genres": "Drama, Thriller, War",
+        "cast": "Fran\u00e7ois Leterrier, Charles Le Clainche, Maurice Beerblock, Roland Monod, Jacques Ertaud"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "director": "David Fincher",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Morgan Freeman, Brad Pitt, Gwyneth Paltrow, John Cassini, Peter Crombie"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Chieko Baisho, Takuya Kimura, Akihiro Miwa, Tatsuya Gash\u00fbin, Ryunosuke Kamiki"
+    },
+    {
+        "title": "Farewell My Concubine",
+        "year": "1993",
+        "director": "Kaige Chen",
+        "genres": "Drama, Music, Romance",
+        "cast": "Leslie Cheung, Zhang Fengyi, Gong Li, L\u00fc Qi, Ying Da"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "director": "Gus Van Sant",
+        "genres": "Drama, Romance",
+        "cast": "Matt Damon, Robin Williams, Ben Affleck, Stellan Skarsg\u00e5rd, Minnie Driver"
+    },
+    {
+        "title": "How to Make Millions Before Grandma Dies",
+        "year": "2024",
+        "director": "Pat Boonnitipat",
+        "genres": "Comedy, Drama, Family",
+        "cast": "Putthipong Assaratanakul, Usha Seamkhum, Sanya Kunakorn, Sarinrat Thomas, Pongsatorn Jongwilas"
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": "1953",
+        "director": "Henri-Georges Clouzot",
+        "genres": "Adventure, Drama, Thriller",
+        "cast": "Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli, V\u00e9ra Clouzot"
+    },
+    {
+        "title": "Three Colours: Red",
+        "year": "1994",
+        "director": "Krzysztof Kie\u015blowski",
+        "genres": "Drama, Mystery, Romance",
+        "cast": "Ir\u00e8ne Jacob, Jean-Louis Trintignant, Fr\u00e9d\u00e9rique Feder, Jean-Pierre Lorit, Samuel Le Bihan"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Charlie Chaplin, Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "director": "Stanley Donen, Gene Kelly",
+        "genres": "Comedy, Musical, Romance",
+        "cast": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen, Millard Mitchell"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "director": "Jonathan Demme",
+        "genres": "Crime, Drama, Horror",
+        "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald"
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Fantasy",
+        "cast": "Gunnar Bj\u00f6rnstrand, Bengt Ekerot, Nils Poppe, Max von Sydow, Bibi Andersson"
+    },
+    {
+        "title": "Late Spring",
+        "year": "1949",
+        "director": "Yasujir\u00f4 Ozu",
+        "genres": "Comedy, Drama",
+        "cast": "Chish\u016b Ry\u016b, Setsuko Hara, Yumeji Tsukioka, Haruko Sugimura, H\u014dhi Aoki"
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Romance",
+        "cast": "Victor Sj\u00f6str\u00f6m, Bibi Andersson, Ingrid Thulin, Gunnar Bj\u00f6rnstrand, Jullan Kindahl"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "director": "Milos Forman",
+        "genres": "Biography, Drama, Music",
+        "cast": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Simon Callow, Roy Dotrice"
+    },
+    {
+        "title": "All That Jazz",
+        "year": "1979",
+        "director": "Bob Fosse",
+        "genres": "Drama, Music, Musical",
+        "cast": "Roy Scheider, Ann Reinking, Leland Palmer, Jessica Lange, Erzsebet Foldi"
+    },
+    {
+        "title": "Mirror",
+        "year": "1975",
+        "director": "Andrei Tarkovsky",
+        "genres": "Biography, Drama",
+        "cast": "Margarita Terekhova, Ignat Daniltsev, Larisa Tarkovskaya, Alla Demidova, Anatoliy Solonitsyn"
+    },
+    {
+        "title": "Still Walking",
+        "year": "2008",
+        "director": "Hirokazu Koreeda",
+        "genres": "Drama",
+        "cast": "Hiroshi Abe, Yui Natsukawa, YOU, Kazuya Takahashi, Shohei Tanaka"
+    },
+    {
+        "title": "Before Sunset",
+        "year": "2004",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance",
+        "cast": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torr\u00e8s, Rodolphe Pauly"
+    },
+    {
+        "title": "Z",
+        "year": "1969",
+        "director": "Costa-Gavras",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Yves Montand, Irene Papas, Jean-Louis Trintignant, Jacques Perrin, Charles Denner"
+    },
+    {
+        "title": "I'm Still Here",
+        "year": "2024",
+        "director": "Walter Salles",
+        "genres": "Biography, Drama, History",
+        "cast": "Fernanda Torres, Selton Mello, Valentina Herszage, B\u00e1rbara Luz, Guilherme Silveira"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "director": "Ethan Coen, Joel Coen",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Javier Bardem, Tommy Lee Jones, Josh Brolin, Woody Harrelson, Kelly Macdonald"
+    },
+    {
+        "title": "Brief Encounter",
+        "year": "1945",
+        "director": "David Lean",
+        "genres": "Drama, Romance",
+        "cast": "Celia Johnson, Trevor Howard, Stanley Holloway, Joyce Carey, Cyril Raymond"
+    },
+    {
+        "title": "Central Station",
+        "year": "1998",
+        "director": "Walter Salles",
+        "genres": "Drama",
+        "cast": "Fernanda Montenegro, Vin\u00edcius de Oliveira, Mar\u00edlia P\u00eara, Othon Bastos, Ot\u00e1vio Augusto"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": "1942",
+        "director": "Ernst Lubitsch",
+        "genres": "Comedy, Romance, War",
+        "cast": "Carole Lombard, Jack Benny, Robert Stack, Felix Bressart, Lionel Atwill"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, War",
+        "cast": "Charlie Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner, Henry Daniell"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Martin Sheen"
+    },
+    {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance",
+        "cast": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno P\u00f6schl, Karl Bruckschwaiger"
+    },
+    {
+        "title": "Monster",
+        "year": "2003",
+        "director": "Patty Jenkins",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Charlize Theron, Christina Ricci, Bruce Dern, Lee Tergesen, Annie Corley"
+    },
+    {
+        "title": "The Young Girls of Rochefort",
+        "year": "1967",
+        "director": "Jacques Demy",
+        "genres": "Comedy, Drama, Musical",
+        "cast": "Catherine Deneuve, Fran\u00e7oise Dorl\u00e9ac, Jacques Perrin, Gene Kelly, Danielle Darrieux"
+    },
+    {
+        "title": "Raise the Red Lantern",
+        "year": "1991",
+        "director": "Yimou Zhang",
+        "genres": "Drama, Romance",
+        "cast": "Gong Li, Ma Jingwu, He Saifei, Cao Cuifen, Kong Lin"
+    },
+    {
+        "title": "Taste of Cherry",
+        "year": "1997",
+        "director": "Abbas Kiarostami",
+        "genres": "Drama",
+        "cast": "Homayoun Ershadi, Abdolrahman Bagheri, Safar Ali Moradi, Mir Hossein Noori, Elham Imani"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "director": "Alfred Hitchcock",
+        "genres": "Horror, Mystery, Thriller",
+        "cast": "Anthony Perkins, Janet Leigh, Vera Miles, John Gavin, Martin Balsam"
+    },
+    {
+        "title": "Funeral Parade of Roses",
+        "year": "1969",
+        "director": "Toshio Matsumoto",
+        "genres": "Drama",
+        "cast": "Shinnosuke Ikehata, Osamu Ogasawara, Yoshio Tsuchiya, Emiko Azuma, Koichi Nakamura"
+    },
+    {
+        "title": "Mommy",
+        "year": "2014",
+        "director": "Xavier Dolan",
+        "genres": "Drama",
+        "cast": "Anne Dorval, Suzanne Cl\u00e9ment, Antoine Olivier Pilon, Patrick Huard, Alexandre Goyette"
+    },
+    {
+        "title": "Tampopo",
+        "year": "1985",
+        "director": "J\u00fbz\u00f4 Itami",
+        "genres": "Comedy",
+        "cast": "Tsutomu Yamazaki, Nobuko Miyamoto, Ken Watanabe, Koji Yakusho, Rikiya Yasuoka"
+    },
+    {
+        "title": "The 400 Blows",
+        "year": "1959",
+        "director": "Fran\u00e7ois Truffaut",
+        "genres": "Crime, Drama",
+        "cast": "Jean-Pierre L\u00e9aud, Claire Maurier, Albert R\u00e9my, Georges Flamant, Patrick Auffay"
+    },
+    {
+        "title": "Dog Day Afternoon",
+        "year": "1975",
+        "director": "Sidney Lumet",
+        "genres": "Biography, Crime, Drama",
+        "cast": "Al Pacino, John Cazale, Charles Durning, Chris Sarandon, James Broderick"
+    },
+    {
+        "title": "Pather Panchali",
+        "year": "1955",
+        "director": "Satyajit Ray",
+        "genres": "Drama",
+        "cast": "Kanu Bannerjee, Karuna Banerjee, Chunibala Devi, Uma Das Gupta, Subir Banerjee"
+    },
+    {
+        "title": "A Special Day",
+        "year": "1977",
+        "director": "Ettore Scola",
+        "genres": "Drama",
+        "cast": "Sophia Loren, Marcello Mastroianni, John Vernon, Fran\u00e7oise Berd, Patrizia Basso"
+    },
+    {
+        "title": "Wings of Desire",
+        "year": "1987",
+        "director": "Wim Wenders",
+        "genres": "Drama, Fantasy, Romance",
+        "cast": "Bruno Ganz, Solveig Dommartin, Otto Sander, Curt Bois, Peter Falk"
+    },
+    {
+        "title": "Werckmeister Harmonies",
+        "year": "2000",
+        "director": "B\u00e9la Tarr, \u00c1gnes Hranitzky",
+        "genres": "Drama, Mystery",
+        "cast": "Lars Rudolph, Peter Fitz, Hanna Schygulla, Alfr\u00e9d J\u00e1rai, Gyula Pauer"
+    },
+    {
+        "title": "Das Boot",
+        "year": "1981",
+        "director": "Wolfgang Petersen",
+        "genres": "Drama, War",
+        "cast": "J\u00fcrgen Prochnow, Herbert Gr\u00f6nemeyer, Klaus Wennemann, Hubertus Bengsch, Martin Semmelrogge"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": "1989",
+        "director": "Peter Weir",
+        "genres": "Comedy, Drama",
+        "cast": "Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles, Gale Hansen"
+    },
+    {
+        "title": "Rocco and His Brothers",
+        "year": "1960",
+        "director": "Luchino Visconti",
+        "genres": "Crime, Drama, Sport",
+        "cast": "Alain Delon, Renato Salvatori, Annie Girardot, Katina Paxinou, Alessandra Panaro"
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "director": "Denis Villeneuve",
+        "genres": "Crime, Drama, Mystery",
+        "cast": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard"
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "director": "Fritz Lang",
+        "genres": "Crime, Mystery, Thriller",
+        "cast": "Willy Fritsch, Gerda Maurus, Klaus Pohl, Fritz Rasp, Gustav von Wangenheim"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": "1961",
+        "director": "Stanley Kramer",
+        "genres": "Drama, War",
+        "cast": "Spencer Tracy, Richard Widmark, Maximilian Schell, Burt Lancaster, Marlene Dietrich"
+    },
+    {
+        "title": "Yojimbo",
+        "year": "1961",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, Thriller",
+        "cast": "Toshir\u014d Mifune, Tatsuya Nakadai, Y\u014dko Tsukasa, Isuzu Yamada, Daisuke Kat\u014d"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "director": "Stanley Kubrick",
+        "genres": "Comedy, War",
+        "cast": "Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens"
+    },
+    {
+        "title": "The Celebration",
+        "year": "1998",
+        "director": "Thomas Vinterberg",
+        "genres": "Drama",
+        "cast": "Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen, Paprika Steen, Birthe Neumann"
+    },
+    {
+        "title": "Shoplifters",
+        "year": "2018",
+        "director": "Hirokazu Koreeda",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Lily Franky, Sakura Ando, Mayu Matsuoka, Kairi Jo, Miyu Sasaki"
+    },
+    {
+        "title": "Children of Men",
+        "year": "2006",
+        "director": "Alfonso Cuar\u00f3n",
+        "genres": "Drama, Sci-Fi, Thriller",
+        "cast": "Clive Owen, Clare-Hope Ashitey, Chiwetel Ejiofor, Julianne Moore, Michael Caine"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "director": "Quentin Tarantino",
+        "genres": "Comedy, Drama, Western",
+        "cast": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson"
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": "1948",
+        "director": "Vittorio De Sica",
+        "genres": "Drama",
+        "cast": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Gino Saltamerenda, Vittorio Antonucci"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "director": "Roman Polanski",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez, John Hillerman"
+    },
+    {
+        "title": "The Sacrifice",
+        "year": "1986",
+        "director": "Andrei Tarkovsky",
+        "genres": "Drama",
+        "cast": "Erland Josephson, Susan Fleetwood, Allan Edwall, Gu\u00f0r\u00fan G\u00edslad\u00f3ttir, Sven Wollter"
+    },
+    {
+        "title": "Perfect Days",
+        "year": "2023",
+        "director": "Wim Wenders",
+        "genres": "Drama",
+        "cast": "Koji Yakusho, Tokio Emoto, Arisa Nakano, Aoi Yamada, Yumi Asou"
+    },
+    {
+        "title": "8\u00bd",
+        "year": "1963",
+        "director": "Federico Fellini",
+        "genres": "Drama",
+        "cast": "Marcello Mastroianni, Anouk Aim\u00e9e, Sandra Milo, Claudia Cardinale, Rossella Falk"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "director": "John Huston",
+        "genres": "Adventure, Drama, Western",
+        "cast": "Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett, Barton MacLane"
+    },
+    {
+        "title": "Swing Girls",
+        "year": "2004",
+        "director": "Shinobu Yaguchi",
+        "genres": "Comedy, Drama, Music",
+        "cast": "Juri Ueno, Yuta Hiraoka, Shihori Kanjiya, Yuika Motokariya, Yukari Toyoshima"
+    },
+    {
+        "title": "The Father",
+        "year": "2020",
+        "director": "Florian Zeller",
+        "genres": "Drama, Mystery",
+        "cast": "Anthony Hopkins, Olivia Colman, Mark Gatiss, Olivia Williams, Imogen Poots"
+    },
+    {
+        "title": "Chungking Express",
+        "year": "1994",
+        "director": "Wong Kar-Wai",
+        "genres": "Comedy, Crime, Drama",
+        "cast": "Takeshi Kaneshiro, Brigitte Lin, Tony Leung, Faye Wong, Valerie Chow"
+    },
+    {
+        "title": "Underground",
+        "year": "1995",
+        "director": "Emir Kusturica",
+        "genres": "Comedy, Drama, Fantasy",
+        "cast": "Rinko Mayumi, Yasunori Murata, Ren Osugi, Edo Yamaguchi, Tomorowo Taguchi"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "director": "James Cameron",
+        "genres": "Action, Adventure, Sci-Fi",
+        "cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen"
+    },
+    {
+        "title": "La Notte",
+        "year": "1961",
+        "director": "Michelangelo Antonioni",
+        "genres": "Drama",
+        "cast": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti, Bernhard Wicki, Rosy Mazzacurati"
+    },
+    {
+        "title": "Fantastic Mr. Fox",
+        "year": "2009",
+        "director": "Wes Anderson",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "George Clooney, Meryl Streep, Jason Schwartzman, Wallace Wolodarsky, Eric Chase Anderson"
+    },
+    {
+        "title": "Sing Sing",
+        "year": "2023",
+        "director": "Greg Kwedar",
+        "genres": "Drama",
+        "cast": "Colman Domingo, Clarence Maclin, Sean San Jose, Paul Raci, David \"Dap\" Giraudy"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "director": "Florian Henckel von Donnersmarck",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Martina Gedeck, Ulrich M\u00fche, Sebastian Koch, Ulrich Tukur, Thomas Thieme"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "director": "Michael Mann",
+        "genres": "Action, Crime, Drama",
+        "cast": "Al Pacino, Robert De Niro, Val Kilmer, Jon Voight, Tom Sizemore"
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "director": "Thomas Vinterberg",
+        "genres": "Drama",
+        "cast": "Clara Vallet, Jellali Mouina, Sarah Lucide, Mari-Christine Jeanney, Fr\u00e9d\u00e9ric Sassine"
+    },
+    {
+        "title": "Opening Night",
+        "year": "1977",
+        "director": "John Cassavetes",
+        "genres": "Drama",
+        "cast": "Gena Rowlands, John Cassavetes, Ben Gazzara, Joan Blondell, Paul Stewart"
+    },
+    {
+        "title": "Akira",
+        "year": "1988",
+        "director": "Katsuhiro \u00d4tomo",
+        "genres": "Animation, Drama, Fantasy",
+        "cast": "Mitsuo Iwata, Nozomu Sasaki, Mami Koyama, Tar\u014d Ishida, Mizuho Suzuki"
+    },
+    {
+        "title": "Nostalgia",
+        "year": "2022",
+        "director": "Mario Martone",
+        "genres": "Drama",
+        "cast": "Tom\u00e1s Leyton, Yarell Quintana"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "director": "Stanley Kubrick",
+        "genres": "Adventure, Sci-Fi",
+        "cast": "Keir Dullea, Gary Lockwood, William Sylvester, Douglas Rain, Daniel Richter"
+    },
+    {
+        "title": "Children of Paradise",
+        "year": "1945",
+        "director": "Marcel Carn\u00e9",
+        "genres": "Drama, Romance",
+        "cast": "Arletty, Jean-Louis Barrault, Pierre Brasseur, Marcel Herrand, Mar\u00eda Casares"
+    },
+    {
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "year": "2021",
+        "director": "Kazuya Tsurumaki, Mahiro Maeda, Katsuichi Nakayama, Hideaki Anno",
+        "genres": "Animation, Action, Science Fiction, Drama",
+        "cast": "Megumi Ogata, Yuko Miyamura, Maaya Sakamoto, Megumi Hayashibara, Kotono Mitsuishi"
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "director": "Daniel Kwan, Daniel Scheinert",
+        "genres": "Action, Adventure, Comedy",
+        "cast": "Michelle Yeoh, Stephanie Hsu, Ke Huy Quan, James Hong, Jamie Lee Curtis"
+    },
+    {
+        "title": "Throne of Blood",
+        "year": "1957",
+        "director": "Akira Kurosawa",
+        "genres": "Drama",
+        "cast": "Toshir\u014d Mifune, Isuzu Yamada, Takashi Shimura, Akira Kubo, Hiroshi Tachikawa"
+    },
+    {
+        "title": "La Dolce Vita",
+        "year": "1960",
+        "director": "Federico Fellini",
+        "genres": "Comedy, Drama",
+        "cast": "Marcello Mastroianni, Anita Ekberg, Anouk Aim\u00e9e, Yvonne Furneaux, Magali No\u00ebl"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "genres": "Drama, Romance, War",
+        "cast": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains, Conrad Veidt"
+    },
+    {
+        "title": "The Cremator",
+        "year": "1969",
+        "director": "Juraj Herz",
+        "genres": "Comedy, Crime, Drama",
+        "cast": "Rudolf Hru\u0161\u00ednsk\u00fd, Vlasta Chramostov\u00e1, Jana Stehnov\u00e1, Milo\u0161 Vogni\u010d, Ilja Pracha\u0159"
+    },
+    {
+        "title": "The Man Who Shot Liberty Valance",
+        "year": "1962",
+        "director": "John Ford",
+        "genres": "Drama, Western",
+        "cast": "John Wayne, James Stewart, Vera Miles, Lee Marvin, Edmond O'Brien"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "director": "David Lynch",
+        "genres": "Biography, Drama",
+        "cast": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "director": "David Fincher",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Edward Norton, Brad Pitt, Helena Bonham Carter, Meat Loaf, Jared Leto"
+    },
+    {
+        "title": "Secrets & Lies",
+        "year": "1996",
+        "director": "Mike Leigh",
+        "genres": "Comedy, Drama",
+        "cast": "Brenda Blethyn, Marianne Jean-Baptiste, Timothy Spall, Phyllis Logan, Claire Rushbrook"
+    },
+    {
+        "title": "Samurai Rebellion",
+        "year": "1967",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama",
+        "cast": "Toshir\u014d Mifune, Y\u014dko Tsukasa, G\u014d Kat\u014d, Tatsuyoshi Ehara, Etsuko Ichihara"
+    },
+    {
+        "title": "Dersu Uzala",
+        "year": "1975",
+        "director": "Akira Kurosawa",
+        "genres": "Adventure, Biography, Drama",
+        "cast": "Yuriy Solomin, Maksim Munzuk, Mikhail Bychkov, B. Khorulev, Vladimir Kremena"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Romance",
+        "cast": "Charlie Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford, Chester Conklin"
+    },
+    {
+        "title": "Look Back",
+        "year": "2024",
+        "director": "Kiyotaka Oshiyama",
+        "genres": "Animation, Drama",
+        "cast": "Yuumi Kawai, Mizuki Yoshida, Yoichiro Saito, Kota Oka, Kureha Maki"
+    },
+    {
+        "title": "Ace in the Hole",
+        "year": "1951",
+        "director": "Billy Wilder",
+        "genres": "Drama, Film-Noir",
+        "cast": "Kirk Douglas, Jan Sterling, Robert Arthur, Porter Hall, Frank Cady"
+    },
+    {
+        "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+        "year": "1975",
+        "director": "Chantal Akerman",
+        "genres": "Drama",
+        "cast": "Delphine Seyrig, Jan Decorte, Henri Storck, Jacques Doniol-Valcroze, Yves Bical"
+    },
+    {
+        "title": "Life, and Nothing More\u2026",
+        "year": "2017",
+        "director": "Antonio M\u00e9ndez Esparza",
+        "genres": "Drama",
+        "cast": "Andrew Bleechington, Regina Williams, Robert Williams, Ry'nesia Chambers"
+    },
+    {
+        "title": "The Night of the Hunter",
+        "year": "1955",
+        "director": "Charles Laughton",
+        "genres": "Crime, Drama, Film-Noir",
+        "cast": "Robert Mitchum, Billy Chapin, Sally Jane Bruce, Shelley Winters, Lillian Gish"
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "director": "Sidney Lumet",
+        "genres": "Drama",
+        "cast": "Faye Dunaway, William Holden, Peter Finch, Robert Duvall, Ned Beatty"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Film-Noir",
+        "cast": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Porter Hall, Jean Heather"
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "year": "1966",
+        "director": "Mike Nichols",
+        "genres": "Drama",
+        "cast": "Elizabeth Taylor, Richard Burton, George Segal, Sandy Dennis, Agnes Flanagan"
+    },
+    {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "year": "1992",
+        "director": "David Lynch",
+        "genres": "Drama, Horror, Mystery",
+        "cast": "Sheryl Lee, Ray Wise, M\u00e4dchen Amick, Dana Ashbrook, Phoebe Augustine"
+    },
+    {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "director": "Brad Bird",
+        "genres": "Animation, Action, Adventure",
+        "cast": "Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon, Cloris Leachman"
+    },
+    {
+        "title": "Sinners",
+        "year": "2002",
+        "director": "Aisling Walsh",
+        "genres": "Drama",
+        "cast": "Anne-Marie Duff, Bronagh Gallagher, John Kavanagh, Karen Ardiff, Ruth Bradley"
+    },
+    {
+        "title": "Ugetsu",
+        "year": "1953",
+        "director": "Kenji Mizoguchi",
+        "genres": "Drama, Fantasy, War",
+        "cast": "Machiko Ky\u014d, Mitsuko Mito, Kinuyo Tanaka, Masayuki Mori, Eitar\u014d Ozawa"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Music, Romance",
+        "cast": "Tony Curtis, Jack Lemmon, Marilyn Monroe, George Raft, Pat O\u2019Brien"
+    },
+    {
+        "title": "Cure",
+        "year": "1997",
+        "director": "Kiyoshi Kurosawa",
+        "genres": "Crime, Horror, Mystery",
+        "cast": "Koji Yakusho, Masato Hagiwara, Tsuyoshi Ujiki, Anna Nakagawa, Yukijiro Hotaru"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "director": "Ridley Scott",
+        "genres": "Horror, Sci-Fi",
+        "cast": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt"
+    },
+    {
+        "title": "Mulholland Drive",
+        "year": "2001",
+        "director": "David Lynch",
+        "genres": "Drama, Mystery, Thriller",
+        "cast": "Naomi Watts, Laura Harring, Justin Theroux, Ann Miller, Mark Pellegrino"
+    },
+    {
+        "title": "Rififi",
+        "year": "1955",
+        "director": "Jules Dassin",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Jean Servais, Carl M\u00f6hner, Robert Manuel, Janine Darcey, Pierre Grasset"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "director": "Quentin Tarantino",
+        "genres": "Crime, Drama",
+        "cast": "John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis, Ving Rhames"
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "director": "Fritz Lang",
+        "genres": "Drama, Sci-Fi",
+        "cast": "Gustav Fr\u00f6hlich, Brigitte Helm, Alfred Abel, Rudolf Klein-Rogge, Theodor Loos"
+    },
+    {
+        "title": "Mary and Max",
+        "year": "2009",
+        "director": "Adam Elliot",
+        "genres": "Animation, Comedy, Drama",
+        "cast": "Toni Collette, Philip Seymour Hoffman, Barry Humphries, Eric Bana, Bethany Whitmore"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "director": "Christopher Nolan",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "cast": "Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo, Rebecca Hall"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "director": "Carol Reed",
+        "genres": "Drama, Film-Noir, Mystery",
+        "cast": "Joseph Cotten, Alida Valli, Trevor Howard, Orson Welles, Paul H\u00f6rbiger"
+    },
+    {
+        "title": "The Tale of The Princess Kaguya",
+        "year": "2013",
+        "director": "Isao Takahata",
+        "genres": "Animation, Drama, Family",
+        "cast": "Aki Asakura, Takeo Chii, Nobuko Miyamoto, Kengo Kora, Atsuko Takahata"
+    },
+    {
+        "title": "A Matter of Life and Death",
+        "year": "1946",
+        "director": "Michael Powell, Emeric Pressburger",
+        "genres": "Drama, Fantasy, Romance",
+        "cast": "David Niven, Kim Hunter, Roger Livesey, Marius Goring, Robert Coote"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "director": "Frank Darabont",
+        "genres": "Crime, Drama, Fantasy",
+        "cast": "Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan, James Cromwell"
+    },
+    {
+        "title": "Ritual",
+        "year": "2012",
+        "director": "Joko Anwar",
+        "genres": "Drama, Horror, Mystery",
+        "cast": "Rio Dewanto, Hannah Al Rashid, Marsha Timothy, Surya Saputra, Aridh Tritama"
+    },
+    {
+        "title": "Sorcerer",
+        "year": "1977",
+        "director": "William Friedkin",
+        "genres": "Adventure, Drama, Thriller",
+        "cast": "Roy Scheider, Bruno Cremer, Francisco Rabal, Amidou, Ramon Bieri"
+    },
+    {
+        "title": "Malcolm X",
+        "year": "1992",
+        "director": "Spike Lee",
+        "genres": "Biography, Drama, History",
+        "cast": "Denzel Washington, Angela Bassett, Albert Hall, Al Freeman Jr., Delroy Lindo"
+    },
+    {
+        "title": "Winter Light",
+        "year": "1963",
+        "director": "Ingmar Bergman",
+        "genres": "Drama",
+        "cast": "Ingrid Thulin, Gunnar Bj\u00f6rnstrand, Gunnel Lindblom, Max von Sydow, Allan Edwall"
+    },
+    {
+        "title": "Umberto D.",
+        "year": "1952",
+        "director": "Vittorio De Sica",
+        "genres": "Drama",
+        "cast": "Carlo Battisti, Napoleone the Dog, Maria Pia Casilio, Lina Gennari, Elena Rea"
+    },
+    {
+        "title": "Sweet Smell of Success",
+        "year": "1957",
+        "director": "Alexander Mackendrick",
+        "genres": "Drama, Film-Noir",
+        "cast": "Burt Lancaster, Tony Curtis, Susan Harrison, Martin Milner, Jeff Donnell"
+    },
+    {
+        "title": "Aparajito",
+        "year": "1956",
+        "director": "Satyajit Ray",
+        "genres": "Drama",
+        "cast": "Karuna Banerjee, Smaran Ghosal, Pinaki Sengupta, Kanu Bannerjee, Santi Gupta"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "director": "Michel Gondry",
+        "genres": "Drama, Romance, Sci-Fi",
+        "cast": "Jim Carrey, Kate Winslet, Kirsten Dunst, Mark Ruffalo, Elijah Wood"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "director": "Steven Spielberg",
+        "genres": "Drama, War",
+        "cast": "Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper, Adam Goldberg"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "director": "Wes Anderson",
+        "genres": "Adventure, Comedy, Crime",
+        "cast": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe"
+    },
+    {
+        "title": "The First Slam Dunk",
+        "year": "2022",
+        "director": "Takehiko Inoue",
+        "genres": "Animation, Comedy, Drama",
+        "cast": "Shugo Nakamura, Jun Kasama, Kenta Miyake, Shinichiro Kamio, Subaru Kimura"
+    },
+    {
+        "title": "Marcel the Shell with Shoes On",
+        "year": "2021",
+        "director": "Dean Fleischer Camp",
+        "genres": "Animation, Comedy, Drama",
+        "cast": "Jenny Slate, Dean Fleischer Camp, Isabella Rossellini, Joe Gabler, Shari Finkelstein"
+    },
+    {
+        "title": "We All Loved Each Other So Much",
+        "year": "1974",
+        "director": "Ettore Scola",
+        "genres": "Comedy, Drama",
+        "cast": "Nino Manfredi, Vittorio Gassman, Stefania Sandrelli, Stefano Satta Flores, Giovanna Ralli"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "director": "David Lean",
+        "genres": "Adventure, Drama, War",
+        "cast": "William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa, James Donald"
+    },
+    {
+        "title": "The King of Comedy",
+        "year": "1982",
+        "director": "Martin Scorsese",
+        "genres": "Comedy, Crime, Drama",
+        "cast": "Robert De Niro, Jerry Lewis, Diahnne Abbott, Sandra Bernhard, Shelley Hack"
+    },
+    {
+        "title": "Napoleon",
+        "year": "2023",
+        "director": "Ridley Scott",
+        "genres": "Action, Adventure, Biography",
+        "cast": "Joaquin Phoenix, Vanessa Kirby, Tahar Rahim, Rupert Everett, Mark Bonnar"
+    },
+    {
+        "title": "Anatomy of a Murder",
+        "year": "1959",
+        "director": "Otto Preminger",
+        "genres": "Drama, Mystery",
+        "cast": "James Stewart, Lee Remick, Ben Gazzara, Arthur O'Connell, Eve Arden"
+    },
+    {
+        "title": "The Holdovers",
+        "year": "2023",
+        "director": "Alexander Payne",
+        "genres": "Comedy, Drama",
+        "cast": "Paul Giamatti, Dominic Sessa, Da'Vine Joy Randolph, Carrie Preston, Brady Hepner"
+    },
+    {
+        "title": "Il Sorpasso",
+        "year": "2014",
+        "director": "N/A",
+        "genres": "Documentary, Short",
+        "cast": "Vittorio Gassman, Jean-Louis Trintignant, Catherine Spaak, Claudio Gora, Luciana Angiolillo"
+    },
+    {
+        "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "year": "2003",
+        "director": "Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi",
+        "genres": "Animation, Adventure, Music",
+        "cast": "Romanthony, Thomas Bangalter, Guy-Manuel de Homem-Christo, Todd Edwards, DJ Sneak"
+    },
+    {
+        "title": "Song of the Sea",
+        "year": "2014",
+        "director": "Tomm Moore",
+        "genres": "Animation, Adventure, Drama",
+        "cast": "David Rawle, Brendan Gleeson, Lisa Hannigan, Fionnula Flanagan, Lucy O'Connell"
+    },
+    {
+        "title": "The Face of Another",
+        "year": "1966",
+        "director": "Hiroshi Teshigahara",
+        "genres": "Drama, Sci-Fi, Thriller",
+        "cast": "Tatsuya Nakadai, Mikijiro Hira, Machiko Ky\u014d, Ky\u00f4ko Kishida, Eiji Okada"
+    },
+    {
+        "title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+        "year": "2013",
+        "director": "Yukihiro Miyamoto",
+        "genres": "Mystery, Animation, Fantasy",
+        "cast": "Aoi Yuki, Chiwa Saito, Eri Kitamura, Kaori Mizuhashi, Ai Nonaka"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Drama, Sport",
+        "cast": "Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent, Nicholas Colasanto"
+    },
+    {
+        "title": "4 Months, 3 Weeks and 2 Days",
+        "year": "2007",
+        "director": "Cristian Mungiu",
+        "genres": "Drama",
+        "cast": "Anamaria Marinca, Laura Vasiliu, Vlad Ivanov, Alexandru Potocean, Lumini\u021ba Gheorghiu"
+    },
+    {
+        "title": "Kes",
+        "year": "1969",
+        "director": "Ken Loach",
+        "genres": "Drama, Family",
+        "cast": "David Bradley, Freddie Fletcher, Lynne Perrie, Colin Welland, Brian Glover"
+    },
+    {
+        "title": "Solaris",
+        "year": "1972",
+        "director": "Andrei Tarkovsky",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "cast": "Natalya Bondarchuk, Donatas Banionis, J\u00fcri J\u00e4rvet, Vladislav Dvorzhetsky, Nikolay Grinko"
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "director": "Alfred Hitchcock",
+        "genres": "Mystery, Romance, Thriller",
+        "cast": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones"
+    },
+    {
+        "title": "Le Samoura\u00ef",
+        "year": "1967",
+        "director": "Jean-Pierre Melville",
+        "genres": "Crime, Drama, Thriller",
+        "cast": "Alain Delon, Fran\u00e7ois P\u00e9rier, Nathalie Delon, Cathy Rosier, Michel Boisrond"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, Horror",
+        "cast": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers, Barry Nelson"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "director": "William Wyler",
+        "genres": "Drama, Romance, War",
+        "cast": "Dana Andrews, Fredric March, Harold Russell, Teresa Wright, Myrna Loy"
+    },
+    {
+        "title": "Tokyo Godfathers",
+        "year": "2003",
+        "director": "Sh\u00f4go Furuya, Satoshi Kon",
+        "genres": "Animation, Adventure, Comedy",
+        "cast": "Aya Okamoto, Yoshiaki Umegaki, Tohru Emori, Satomi Korogi, Mamiko Noto"
+    },
+    {
+        "title": "The Disappearance of Haruhi Suzumiya",
+        "year": "2010",
+        "director": "Noriyuki Kitanohara, Kazuya Sakamoto, Noriko Takao",
+        "genres": "Animation, Drama, Mystery",
+        "cast": "Tomokazu Sugita, Aya Hirano, Minori Chihara, Yuko Goto, Daisuke Ono"
+    },
+    {
+        "title": "The Life and Death of Colonel Blimp",
+        "year": "1943",
+        "director": "Michael Powell, Emeric Pressburger",
+        "genres": "Drama, Romance, War",
+        "cast": "Roger Livesey, Deborah Kerr, Anton Walbrook, Roland Culver, James McKechnie"
+    },
+    {
+        "title": "Azur & Asmar: The Princes' Quest",
+        "year": "2006",
+        "director": "Michel Ocelot, Ian McIntyre",
+        "genres": "Animation, Adventure, Family",
+        "cast": "Cyril Mourali, Rayan Mahjoub, Karim M'Ribah, Abdelsselem ben Amar, Hiam Abbass"
+    },
+    {
+        "title": "Kwaidan",
+        "year": "1964",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, Fantasy, Horror",
+        "cast": "Michiyo Aratama, Rentaro Mikuni, Misako Watanabe, Kenjir\u014d Ishiyama, Ranko Akagi"
+    },
+    {
+        "title": "Millennium Actress",
+        "year": "2001",
+        "director": "Satoshi Kon, K\u00f4 Matsuo",
+        "genres": "Animation, Drama, Fantasy",
+        "cast": "Miyoko Shoji, Mami Koyama, Fumiko Orikasa, Showko Tsuda, Shozo Iizuka"
+    },
+    {
+        "title": "An Autumn Afternoon",
+        "year": "1962",
+        "director": "Yasujir\u00f4 Ozu",
+        "genres": "Drama",
+        "cast": "Chish\u016b Ry\u016b, Shima Iwashita, Keiji Sada, Mariko Okada, Teruo Yoshida"
+    },
+    {
+        "title": "Make Way for Tomorrow",
+        "year": "1937",
+        "director": "Leo McCarey",
+        "genres": "Drama, Romance",
+        "cast": "Victor Moore, Beulah Bondi, Fay Bainter, Thomas Mitchell, Porter Hall"
+    }
+]

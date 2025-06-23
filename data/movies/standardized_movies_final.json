@@ -1,0 +1,3386 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "director": "Frank Darabont",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "director": "Christopher Nolan",
+        "genres": "Action, Crime, Drama"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "director": "Sidney Lumet",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "director": "Steven Spielberg",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "director": "Quentin Tarantino",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "director": "Sergio Leone",
+        "genres": "Western"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "director": "Robert Zemeckis",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "director": "David Fincher",
+        "genres": "Drama"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "director": "Christopher Nolan",
+        "genres": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "director": "Irvin Kershner",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "genres": "Action, Sci-Fi"
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "director": "Christopher Nolan",
+        "genres": "Adventure, Drama, Sci-Fi"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "director": "Milos Forman",
+        "genres": "Drama"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "director": "David Fincher",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "director": "Frank Capra",
+        "genres": "Drama, Family, Fantasy"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "director": "Jonathan Demme",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "director": "Steven Spielberg",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "director": "Fernando Meirelles, Kátia Lund",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "director": "Frank Darabont",
+        "genres": "Crime, Drama, Fantasy"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "director": "Roberto Benigni",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "director": "James Cameron",
+        "genres": "Action, Sci-Fi"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": "1977",
+        "director": "George Lucas",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "director": "Robert Zemeckis",
+        "genres": "Adventure, Comedy, Sci-Fi"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "director": "Roman Polanski",
+        "genres": "Biography, Drama, Music"
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "director": "Ridley Scott",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "director": "Bong Joon Ho",
+        "genres": "Comedy, Drama, Thriller"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "director": "Alfred Hitchcock",
+        "genres": "Horror, Mystery, Thriller"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "director": "Roger Allers, Rob Minkoff",
+        "genres": "Animation, Adventure, Drama"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "director": "Isao Takahata",
+        "genres": "Animation, Drama, War"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "director": "Damien Chazelle",
+        "genres": "Drama, Music"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "director": "Masaki Kobayashi",
+        "genres": "Action, Drama, Mystery"
+    },
+    {
+        "title": "American History X",
+        "year": "1998",
+        "director": "Tony Kaye",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "director": "Christopher Nolan",
+        "genres": "Drama, Mystery, Sci-Fi"
+    },
+    {
+        "title": "Léon: The Professional",
+        "year": "1994",
+        "director": "Luc Besson",
+        "genres": "Action, Crime, Drama"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "director": "Bryan Singer",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "The Intouchables",
+        "year": "2011",
+        "director": "Olivier Nakache, Éric Toledano",
+        "genres": "Biography, Comedy, Drama"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "director": "Giuseppe Tornatore",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "director": "Ridley Scott",
+        "genres": "Horror, Sci-Fi"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Family"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "director": "Alfred Hitchcock",
+        "genres": "Mystery, Thriller"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "director": "Sergio Leone",
+        "genres": "Western"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "director": "Quentin Tarantino",
+        "genres": "Drama, Western"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "director": "Francis Ford Coppola",
+        "genres": "Drama, Mystery, War"
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "director": "Denis Villeneuve",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Memento",
+        "year": "2000",
+        "director": "Christopher Nolan",
+        "genres": "Mystery, Thriller"
+    },
+    {
+        "title": "WALL·E",
+        "year": "2008",
+        "director": "Andrew Stanton",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "director": "Steven Spielberg",
+        "genres": "Action, Adventure"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "director": "Florian Henckel von Donnersmarck",
+        "genres": "Drama, Thriller"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "director": "Anthony Russo, Joe Russo",
+        "genres": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": "1950",
+        "director": "Billy Wilder",
+        "genres": "Drama, Film-Noir"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, Horror"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, War"
+    },
+    {
+        "title": "12th Fail",
+        "year": "2023",
+        "director": "Vidyasagar Chinta",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "director": "James Cameron",
+        "genres": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "director": "Quentin Tarantino",
+        "genres": "Adventure, Drama, War"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "director": "Christopher Nolan",
+        "genres": "Action, Drama"
+    },
+    {
+        "title": "Coco",
+        "year": "2017",
+        "director": "Lee Unkrich, Adrian Molina",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "director": "Milos Forman",
+        "genres": "Biography, Drama, Music"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "director": "John Lasseter",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "director": "Anthony Russo, Joe Russo",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "director": "Gus Van Sant",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "director": "Park Chan-wook",
+        "genres": "Action, Drama, Mystery"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "director": "Stanley Kubrick",
+        "genres": "Comedy, War"
+    },
+    {
+        "title": "Das Boot",
+        "year": "1981",
+        "director": "Wolfgang Petersen",
+        "genres": "Drama, Thriller, War"
+    },
+    {
+        "title": "American Beauty",
+        "year": "1999",
+        "director": "Sam Mendes",
+        "genres": "Drama"
+    },
+    {
+        "title": "Braveheart",
+        "year": "1995",
+        "director": "Mel Gibson",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "Your Name.",
+        "year": "2016",
+        "director": "Makoto Shinkai",
+        "genres": "Animation, Drama, Fantasy"
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "director": "Akira Kurosawa",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "3 Idiots",
+        "year": "2009",
+        "director": "Rajkumar Hirani",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "director": "Todd Phillips",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "The Chaos Class Failed the Class",
+        "year": "1975",
+        "director": "Ertem Eğilmez",
+        "genres": "Comedy"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "director": "Sergio Leone",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Capernaum",
+        "year": "2018",
+        "director": "Nadine Labaki",
+        "genres": "Drama"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "director": "Stanley Donen, Gene Kelly",
+        "genres": "Comedy, Musical, Romance"
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "director": "Elem Klimov",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "director": "Darren Aronofsky",
+        "genres": "Drama"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "director": "Lee Unkrich",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "director": "Richard Marquand",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "director": "Thomas Vinterberg",
+        "genres": "Drama"
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "director": "Akira Kurosawa",
+        "genres": "Drama"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "director": "Michel Gondry",
+        "genres": "Drama, Romance, Sci-Fi"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "director": "Stanley Kubrick",
+        "genres": "Adventure, Sci-Fi"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "director": "Quentin Tarantino",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "director": "Denis Villeneuve",
+        "genres": "Drama, Mystery, War"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "director": "David Lean",
+        "genres": "Adventure, Biography, Drama"
+    },
+    {
+        "title": "Scarface",
+        "year": "1983",
+        "director": "Brian De Palma",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Film-Noir"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "director": "Michael Mann",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "North by Northwest",
+        "year": "1959",
+        "director": "Alfred Hitchcock",
+        "genres": "Action, Adventure, Mystery"
+    },
+    {
+        "title": "Up",
+        "year": "2009",
+        "director": "Pete Docter, Bob Peterson",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Citizen Kane",
+        "year": "1941",
+        "director": "Orson Welles",
+        "genres": "Drama, Mystery"
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "director": "Fritz Lang",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "director": "Alfred Hitchcock",
+        "genres": "Mystery, Romance, Thriller"
+    },
+    {
+        "title": "Amélie",
+        "year": "2001",
+        "director": "Jean-Pierre Jeunet",
+        "genres": "Comedy, Romance"
+    },
+    {
+        "title": "A Separation",
+        "year": "2011",
+        "director": "Asghar Farhadi",
+        "genres": "Drama"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": "1962",
+        "director": "Robert Mulligan",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": "1971",
+        "director": "Stanley Kubrick",
+        "genres": "Crime, Drama, Sci-Fi"
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": "2007",
+        "director": "Aamir Khan, Amole Gupte",
+        "genres": "Drama, Family"
+    },
+    {
+        "title": "Die Hard",
+        "year": "1988",
+        "director": "John McTiernan",
+        "genres": "Action, Thriller"
+    },
+    {
+        "title": "The Sting",
+        "year": "1973",
+        "director": "George Roy Hill",
+        "genres": "Comedy, Crime, Drama"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": "1989",
+        "director": "Steven Spielberg",
+        "genres": "Action, Adventure"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "director": "Christopher Nolan",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "director": "Fritz Lang",
+        "genres": "Drama, Sci-Fi"
+    },
+    {
+        "title": "Snatch",
+        "year": "2000",
+        "director": "Guy Ritchie",
+        "genres": "Comedy, Crime"
+    },
+    {
+        "title": "1917",
+        "year": "2019",
+        "director": "Sam Mendes",
+        "genres": "Action, Drama, War"
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": "1997",
+        "director": "Curtis Hanson",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": "1948",
+        "director": "Vittorio De Sica",
+        "genres": "Drama"
+    },
+    {
+        "title": "Downfall",
+        "year": "2004",
+        "director": "Oliver Hirschbiegel",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Dangal",
+        "year": "2016",
+        "director": "Nitesh Tiwari",
+        "genres": "Action, Biography, Drama"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Comedy, Crime"
+    },
+    {
+        "title": "Taxi Driver",
+        "year": "1976",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Hamilton",
+        "year": "2020",
+        "director": "Thomas Kail",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Green Book",
+        "year": "2018",
+        "director": "Peter Farrelly",
+        "genres": "Biography, Comedy, Drama"
+    },
+    {
+        "title": "Batman Begins",
+        "year": "2005",
+        "director": "Christopher Nolan",
+        "genres": "Action, Crime, Drama"
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": "1965",
+        "director": "Sergio Leone",
+        "genres": "Western"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": "1961",
+        "director": "Stanley Kramer",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "The Truman Show",
+        "year": "1998",
+        "director": "Peter Weir",
+        "genres": "Comedy, Drama, Sci-Fi"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Music, Romance"
+    },
+    {
+        "title": "Shutter Island",
+        "year": "2010",
+        "director": "Martin Scorsese",
+        "genres": "Mystery, Thriller"
+    },
+    {
+        "title": "The Kid",
+        "year": "1921",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Family"
+    },
+    {
+        "title": "The Father",
+        "year": "2020",
+        "director": "Florian Zeller",
+        "genres": "Drama"
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "director": "Joseph L. Mankiewicz",
+        "genres": "Drama"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "director": "Steven Spielberg",
+        "genres": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "director": "Paul Thomas Anderson",
+        "genres": "Drama"
+    },
+    {
+        "title": "Casino",
+        "year": "1995",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": "1999",
+        "director": "M. Night Shyamalan",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, War"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": "2022",
+        "director": "Joseph Kosinski",
+        "genres": "Action, Drama"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "director": "Ethan Coen, Joel Coen",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "director": "John Carpenter",
+        "genres": "Horror, Mystery, Sci-Fi"
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": "2006",
+        "director": "Guillermo del Toro",
+        "genres": "Drama, Fantasy, War"
+    },
+    {
+        "title": "Unforgiven",
+        "year": "1992",
+        "director": "Clint Eastwood",
+        "genres": "Drama, Western"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": "2001",
+        "director": "Ron Howard",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": "2003",
+        "director": "Quentin Tarantino",
+        "genres": "Action, Crime, Thriller"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "director": "John Huston",
+        "genres": "Adventure, Drama, Western"
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "director": "Denis Villeneuve",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Yojimbo",
+        "year": "1961",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, Thriller"
+    },
+    {
+        "title": "Finding Nemo",
+        "year": "2003",
+        "director": "Andrew Stanton, Lee Unkrich",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "The Great Escape",
+        "year": "1963",
+        "director": "John Sturges",
+        "genres": "Adventure, Drama, History"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": "1975",
+        "director": "Terry Gilliam, Terry Jones",
+        "genres": "Adventure, Comedy, Fantasy"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "director": "David Lynch",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": "1954",
+        "director": "Alfred Hitchcock",
+        "genres": "Crime, Film-Noir, Thriller"
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": "1939",
+        "director": "Victor Fleming",
+        "genres": "Drama, History, Romance"
+    },
+    {
+        "title": "Klaus",
+        "year": "2019",
+        "director": "Sergio Pablos",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Rashomon",
+        "year": "1950",
+        "director": "Akira Kurosawa",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "director": "Roman Polanski",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": "2009",
+        "director": "Juan José Campanella",
+        "genres": "Drama, Mystery, Romance"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "director": "Guy Ritchie",
+        "genres": "Action, Comedy, Crime"
+    },
+    {
+        "title": "V for Vendetta",
+        "year": "2005",
+        "director": "James McTeigue",
+        "genres": "Action, Drama, Sci-Fi"
+    },
+    {
+        "title": "Inside Out",
+        "year": "2015",
+        "director": "Pete Docter, Ronnie Del Carmen",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "director": "Martin McDonagh",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "director": "David Lean",
+        "genres": "Adventure, Drama, War"
+    },
+    {
+        "title": "Trainspotting",
+        "year": "1996",
+        "director": "Danny Boyle",
+        "genres": "Drama"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "director": "Steven Spielberg",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Drama, Sport"
+    },
+    {
+        "title": "The Wild Robot",
+        "year": "2024",
+        "director": "Chris Sanders",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Fargo",
+        "year": "1996",
+        "director": "Joel Coen, Ethan Coen",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Warrior",
+        "year": "2011",
+        "director": "Gavin O'Connor",
+        "genres": "Action, Drama, Sport"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": "2011",
+        "director": "David Yates",
+        "genres": "Adventure, Drama, Fantasy"
+    },
+    {
+        "title": "Gran Torino",
+        "year": "2008",
+        "director": "Clint Eastwood",
+        "genres": "Drama"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": "2004",
+        "director": "Clint Eastwood",
+        "genres": "Drama, Sport"
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": "1988",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Family, Fantasy"
+    },
+    {
+        "title": "Ben-Hur",
+        "year": "1959",
+        "director": "William Wyler",
+        "genres": "Adventure, Drama"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "director": "George Miller",
+        "genres": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": "2021",
+        "director": "Jon Watts",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, History, War"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": "1989",
+        "director": "Peter Weir",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Children of Heaven",
+        "year": "1997",
+        "director": "Majid Majidi",
+        "genres": "Drama, Family"
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": "2013",
+        "director": "Steve McQueen",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "director": "Wes Anderson",
+        "genres": "Adventure, Comedy, Crime"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": "2016",
+        "director": "Mel Gibson",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Blade Runner",
+        "year": "1982",
+        "director": "Ridley Scott",
+        "genres": "Action, Drama, Sci-Fi"
+    },
+    {
+        "title": "Gone Girl",
+        "year": "2014",
+        "director": "David Fincher",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "Memories of Murder",
+        "year": "2003",
+        "director": "Bong Joon Ho",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Ratatouille",
+        "year": "2007",
+        "director": "Brad Bird, Jan Pinkava",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": "2001",
+        "director": "Pete Docter, David Silverman, Lee Unkrich",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": "1993",
+        "director": "Jim Sheridan",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": "2010",
+        "director": "Dean DeBlois, Chris Sanders",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "The Gold Rush",
+        "year": "1925",
+        "director": "Charles Chaplin",
+        "genres": "Adventure, Comedy, Drama"
+    },
+    {
+        "title": "Wild Tales",
+        "year": "2014",
+        "director": "Damián Szifron",
+        "genres": "Comedy, Drama, Thriller"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": "1924",
+        "director": "Buster Keaton",
+        "genres": "Action, Comedy, Romance"
+    },
+    {
+        "title": "Jaws",
+        "year": "1975",
+        "director": "Steven Spielberg",
+        "genres": "Adventure, Thriller"
+    },
+    {
+        "title": "Mary and Max",
+        "year": "2009",
+        "director": "Adam Elliot",
+        "genres": "Animation, Comedy, Drama"
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "director": "Michael Cimino",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": "2019",
+        "director": "James Mangold",
+        "genres": "Action, Biography, Drama"
+    },
+    {
+        "title": "The General",
+        "year": "1926",
+        "director": "Clyde Bruckman, Buster Keaton",
+        "genres": "Action, Adventure, Comedy"
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": "1953",
+        "director": "Henri-Georges Clouzot",
+        "genres": "Adventure, Drama, Thriller"
+    },
+    {
+        "title": "On the Waterfront",
+        "year": "1954",
+        "director": "Elia Kazan",
+        "genres": "Crime, Drama, Romance"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": "1939",
+        "director": "Frank Capra",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "I'm Still Here",
+        "year": "2024",
+        "director": "Not Yet Available",
+        "genres": "Drama"
+    },
+    {
+        "title": "Logan",
+        "year": "2017",
+        "director": "James Mangold",
+        "genres": "Action, Drama, Sci-Fi"
+    },
+    {
+        "title": "Rocky",
+        "year": "1976",
+        "director": "John G. Avildsen",
+        "genres": "Drama, Sport"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "director": "Carol Reed",
+        "genres": "Film-Noir, Mystery, Thriller"
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "director": "Yasujirō Ozu",
+        "genres": "Drama"
+    },
+    {
+        "title": "Spotlight",
+        "year": "2015",
+        "director": "Tom McCarthy",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "director": "Joel Coen",
+        "genres": "Comedy, Crime"
+    },
+    {
+        "title": "Maharaja",
+        "year": "2024",
+        "director": "Not Yet Available",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Terminator",
+        "year": "1984",
+        "director": "James Cameron",
+        "genres": "Action, Sci-Fi"
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Fantasy"
+    },
+    {
+        "title": "Room",
+        "year": "2015",
+        "director": "Lenny Abrahamson",
+        "genres": "Drama, Thriller"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "director": "Gore Verbinski",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "La haine",
+        "year": "1995",
+        "director": "Mathieu Kassovitz",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Jai Bhim",
+        "year": "2021",
+        "director": "T.J. Gnanavel",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": "2004",
+        "director": "Terry George",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Platoon",
+        "year": "1986",
+        "director": "Oliver Stone",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "director": "William Wyler",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "Before Sunset",
+        "year": "2004",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Exorcist",
+        "year": "1973",
+        "director": "William Friedkin",
+        "genres": "Horror"
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": "1928",
+        "director": "Carl Theodor Dreyer",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": "1939",
+        "director": "Victor Fleming",
+        "genres": "Adventure, Family, Fantasy"
+    },
+    {
+        "title": "The Sound of Music",
+        "year": "1965",
+        "director": "Robert Wise",
+        "genres": "Biography, Drama, Family"
+    },
+    {
+        "title": "The Incredibles",
+        "year": "2004",
+        "director": "Brad Bird",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": "2009",
+        "director": "Lasse Hallström",
+        "genres": "Biography, Drama, Family"
+    },
+    {
+        "title": "Rush",
+        "year": "2013",
+        "director": "Ron Howard",
+        "genres": "Action, Biography, Drama"
+    },
+    {
+        "title": "Stand by Me",
+        "year": "1986",
+        "director": "Rob Reiner",
+        "genres": "Adventure, Drama"
+    },
+    {
+        "title": "My Father and My Son",
+        "year": "2005",
+        "director": "Çagan Irmak",
+        "genres": "Drama"
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "director": "Sidney Lumet",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "director": "Brad Bird",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "director": "Park Chan-wook",
+        "genres": "Drama, Romance, Thriller"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": "1942",
+        "director": "Ernst Lubitsch",
+        "genres": "Comedy, War"
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": "1966",
+        "director": "Gillo Pontecorvo",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "A Silent Voice: The Movie",
+        "year": "2016",
+        "director": "Naoko Yamada",
+        "genres": "Animation, Drama, Romance"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": "1940",
+        "director": "John Ford",
+        "genres": "Drama, History"
+    },
+    {
+        "title": "Into the Wild",
+        "year": "2007",
+        "director": "Sean Penn",
+        "genres": "Adventure, Biography, Drama"
+    },
+    {
+        "title": "Groundhog Day",
+        "year": "1993",
+        "director": "Harold Ramis",
+        "genres": "Comedy, Fantasy, Romance"
+    },
+    {
+        "title": "The Help",
+        "year": "2011",
+        "director": "Tate Taylor",
+        "genres": "Drama"
+    },
+    {
+        "title": "Amores Perros",
+        "year": "2000",
+        "director": "Alejandro G. Iñárritu",
+        "genres": "Drama, Thriller"
+    },
+    {
+        "title": "Rebecca",
+        "year": "1940",
+        "director": "Alfred Hitchcock",
+        "genres": "Drama, Mystery, Romance"
+    },
+    {
+        "title": "Drishyam",
+        "year": "2015",
+        "director": "Nishikant Kamat",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "The Graduate",
+        "year": "1967",
+        "director": "Mike Nichols",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Star Wars",
+        "year": "1977",
+        "director": "George Lucas",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "The African Queen",
+        "year": "1951",
+        "director": "John Huston",
+        "genres": "Adventure, Drama, Romance"
+    },
+    {
+        "title": "The Maltese Falcon",
+        "year": "1941",
+        "director": "John Huston",
+        "genres": "Crime, Drama, Film-Noir"
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "year": "1982",
+        "director": "Steven Spielberg",
+        "genres": "Adventure, Family, Sci-Fi"
+    },
+    {
+        "title": "Dr. Strangelove",
+        "year": "1964",
+        "director": "Keaton Gover, Jack Snelling",
+        "genres": "Short, Comedy, Crime"
+    },
+    {
+        "title": "Bonnie and Clyde",
+        "year": "1967",
+        "director": "Arthur Penn",
+        "genres": "Action, Biography, Crime"
+    },
+    {
+        "title": "Annie Hall",
+        "year": "1977",
+        "director": "Woody Allen",
+        "genres": "Comedy, Romance"
+    },
+    {
+        "title": "High Noon",
+        "year": "1952",
+        "director": "Fred Zinnemann",
+        "genres": "Drama, Thriller, Western"
+    },
+    {
+        "title": "It Happened One Night",
+        "year": "1934",
+        "director": "Frank Capra",
+        "genres": "Comedy, Romance"
+    },
+    {
+        "title": "Midnight Cowboy",
+        "year": "1969",
+        "director": "John Schlesinger",
+        "genres": "Drama"
+    },
+    {
+        "title": "Doctor Zhivago",
+        "year": "1965",
+        "director": "David Lean",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "West Side Story",
+        "year": "1961",
+        "director": "Jerome Robbins, Robert Wise",
+        "genres": "Crime, Drama, Musical"
+    },
+    {
+        "title": "King Kong",
+        "year": "1933",
+        "director": "Peter Jackson",
+        "genres": "Action, Adventure, Romance"
+    },
+    {
+        "title": "The Birth of a Nation",
+        "year": "1915",
+        "director": "D.W. Griffith",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "A Streetcar Named Desire",
+        "year": "1951",
+        "director": "Elia Kazan",
+        "genres": "Drama"
+    },
+    {
+        "title": "Snow White and the Seven Dwarfs",
+        "year": "1937",
+        "director": "William Cottrell, David Hand, Wilfred Jackson",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "year": "1969",
+        "director": "George Roy Hill",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "The Philadelphia Story",
+        "year": "1940",
+        "director": "George Cukor",
+        "genres": "Comedy, Romance"
+    },
+    {
+        "title": "From Here to Eternity",
+        "year": "1953",
+        "director": "Fred Zinnemann",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "year": "1930",
+        "director": "Edward Berger",
+        "genres": "Drama, History, War"
+    },
+    {
+        "title": "M*A*S*H",
+        "year": "1970",
+        "director": "Robert Altman",
+        "genres": "Comedy, Drama, War"
+    },
+    {
+        "title": "Fantasia",
+        "year": "1940",
+        "director": "James Algar, Samuel Armstrong, Ford Beebe Jr.",
+        "genres": "Animation, Family, Fantasy"
+    },
+    {
+        "title": "Rebel Without a Cause",
+        "year": "1955",
+        "director": "Nicholas Ray",
+        "genres": "Drama"
+    },
+    {
+        "title": "Tootsie",
+        "year": "1982",
+        "director": "Sydney Pollack",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Stagecoach",
+        "year": "1939",
+        "director": "John Ford",
+        "genres": "Adventure, Drama, Western"
+    },
+    {
+        "title": "Close Encounters of the Third Kind",
+        "year": "1977",
+        "director": "Steven Spielberg",
+        "genres": "Drama, Sci-Fi"
+    },
+    {
+        "title": "The Manchurian Candidate",
+        "year": "1962",
+        "director": "Jonathan Demme",
+        "genres": "Drama, Mystery, Sci-Fi"
+    },
+    {
+        "title": "An American in Paris",
+        "year": "1951",
+        "director": "Vincente Minnelli",
+        "genres": "Drama, Musical, Romance"
+    },
+    {
+        "title": "Shane",
+        "year": "1953",
+        "director": "George Stevens",
+        "genres": "Drama, Western"
+    },
+    {
+        "title": "The French Connection",
+        "year": "1971",
+        "director": "William Friedkin",
+        "genres": "Action, Crime, Drama"
+    },
+    {
+        "title": "Wuthering Heights",
+        "year": "1939",
+        "director": "William Wyler",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "director": "Kevin Costner",
+        "genres": "Adventure, Drama, Western"
+    },
+    {
+        "title": "American Graffiti",
+        "year": "1973",
+        "director": "George Lucas",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "The Wild Bunch",
+        "year": "1969",
+        "director": "Sam Peckinpah",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Giant",
+        "year": "1956",
+        "director": "George Stevens",
+        "genres": "Drama, Western"
+    },
+    {
+        "title": "Duck Soup",
+        "year": "1933",
+        "director": "Leo McCarey",
+        "genres": "Comedy, Musical"
+    },
+    {
+        "title": "Mutiny on the Bounty",
+        "year": "1935",
+        "director": "Frank Lloyd",
+        "genres": "Adventure, Biography, Drama"
+    },
+    {
+        "title": "Frankenstein",
+        "year": "1931",
+        "director": "James Whale",
+        "genres": "Drama, Horror, Sci-Fi"
+    },
+    {
+        "title": "Easy Rider",
+        "year": "1969",
+        "director": "Dennis Hopper",
+        "genres": "Adventure, Drama"
+    },
+    {
+        "title": "Patton",
+        "year": "1970",
+        "director": "Franklin J. Schaffner",
+        "genres": "Biography, Drama, War"
+    },
+    {
+        "title": "The Jazz Singer",
+        "year": "1927",
+        "director": "Alan Crosland",
+        "genres": "Drama, Music, Musical"
+    },
+    {
+        "title": "My Fair Lady",
+        "year": "1964",
+        "director": "George Cukor",
+        "genres": "Drama, Family, Musical"
+    },
+    {
+        "title": "A Place in the Sun",
+        "year": "1951",
+        "director": "George Stevens",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Searchers",
+        "year": "1956",
+        "director": "John Ford",
+        "genres": "Adventure, Drama, Western"
+    },
+    {
+        "title": "Bringing Up Baby",
+        "year": "1938",
+        "director": "Howard Hawks",
+        "genres": "Comedy"
+    },
+    {
+        "title": "Guess Who's Coming to Dinner",
+        "year": "1967",
+        "director": "Stanley Kramer",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Yankee Doodle Dandy",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "genres": "Biography, Drama, Family"
+    },
+    {
+        "title": "Intolerance",
+        "year": "1916",
+        "director": "D.W. Griffith",
+        "genres": "Drama, History"
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "year": "2001",
+        "director": "N/A",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "title": "Nashville",
+        "year": "1975",
+        "director": "Robert Altman",
+        "genres": "Comedy, Drama, Music"
+    },
+    {
+        "title": "Sullivan's Travels",
+        "year": "1941",
+        "director": "Preston Sturges",
+        "genres": "Adventure, Comedy, Drama"
+    },
+    {
+        "title": "Cabaret",
+        "year": "1972",
+        "director": "Bob Fosse",
+        "genres": "Drama, Music, Musical"
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "year": "1966",
+        "director": "Mike Nichols",
+        "genres": "Drama"
+    },
+    {
+        "title": "In the Heat of the Night",
+        "year": "1967",
+        "director": "Norman Jewison",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "All the President's Men",
+        "year": "1976",
+        "director": "Alan J. Pakula",
+        "genres": "Drama, History, Thriller"
+    },
+    {
+        "title": "Spartacus",
+        "year": "1960",
+        "director": "N/A",
+        "genres": "Action, Adventure, Biography"
+    },
+    {
+        "title": "Sunrise",
+        "year": "1927",
+        "director": "F.W. Murnau",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Titanic",
+        "year": "1997",
+        "director": "James Cameron",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "A Night at the Opera",
+        "year": "1935",
+        "director": "Sam Wood, Edmund Goulding",
+        "genres": "Comedy, Music, Musical"
+    },
+    {
+        "title": "Swing Time",
+        "year": "1936",
+        "director": "George Stevens",
+        "genres": "Comedy, Musical, Romance"
+    },
+    {
+        "title": "Sophie's Choice",
+        "year": "1982",
+        "director": "Alan J. Pakula",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Last Picture Show",
+        "year": "1971",
+        "director": "Peter Bogdanovich",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Do the Right Thing",
+        "year": "1989",
+        "director": "Spike Lee",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, Mystery"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "director": "Sidney Lumet",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "director": "Elem Klimov",
+        "genres": "Drama, Thriller, War"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama"
+    },
+    {
+        "title": "The Human Condition III: A Soldier's Prayer",
+        "year": "1961",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, History, War"
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "director": "Akira Kurosawa",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "director": "Frank Darabont",
+        "genres": "Drama"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "director": "Bong Joon Ho",
+        "genres": "Drama, Thriller"
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "director": "Fernando Meirelles, Kátia Lund",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Yi Yi",
+        "year": "2000",
+        "director": "Edward Yang",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "director": "Francis Ford Coppola",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "director": "Steven Spielberg",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "The Human Condition I: No Greater Love",
+        "year": "1959",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, History, War"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "director": "Peter Jackson",
+        "genres": "Adventure, Drama, Fantasy"
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "director": "Akira Kurosawa",
+        "genres": "Drama"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, War"
+    },
+    {
+        "title": "La Haine",
+        "year": "1995",
+        "director": "Mathieu Kassovitz",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "A Brighter Summer Day",
+        "year": "1991",
+        "director": "Edward Yang",
+        "genres": "Crime, Drama, Romance"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "director": "Sergio Leone",
+        "genres": "Adventure, Western"
+    },
+    {
+        "title": "Le Trou",
+        "year": "2022–",
+        "director": "N/A",
+        "genres": "Comedy, Sci-Fi"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "director": "Giuseppe Tornatore",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "director": "Christopher Nolan",
+        "genres": "Action, Crime, Drama"
+    },
+    {
+        "title": "Autumn Sonata",
+        "year": "1978",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Music"
+    },
+    {
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "year": "1997",
+        "director": "Hideaki Anno, Kazuya Tsurumaki",
+        "genres": "Animation, Action, Drama"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "director": "Isao Takahata",
+        "genres": "Animation, Drama, War"
+    },
+    {
+        "title": "GoodFellas",
+        "year": "1990",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "Woman in the Dunes",
+        "year": "1964",
+        "director": "Hiroshi Teshigahara",
+        "genres": "Drama, Thriller"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "director": "Paul Thomas Anderson",
+        "genres": "Drama"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "The Human Condition II: Road to Eternity",
+        "year": "1959",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, History, War"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "director": "Francis Ford Coppola",
+        "genres": "Drama, Mystery, War"
+    },
+    {
+        "title": "Andrei Rublev",
+        "year": "1966",
+        "director": "Andrei Tarkovsky",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "director": "Yasujirô Ozu",
+        "genres": "Drama"
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": "1950",
+        "director": "Billy Wilder",
+        "genres": "Drama, Film-Noir"
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": "1928",
+        "director": "Carl Theodor Dreyer",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "The Cranes Are Flying",
+        "year": "1957",
+        "director": "Mikhail Kalatozov",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "director": "Denis Villeneuve",
+        "genres": "Drama, Mystery, War"
+    },
+    {
+        "title": "Portrait of a Lady on Fire",
+        "year": "2019",
+        "director": "Céline Sciamma",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "director": "Damien Chazelle",
+        "genres": "Drama, Music"
+    },
+    {
+        "title": "Mishima: A Life in Four Chapters",
+        "year": "1985",
+        "director": "Paul Schrader",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "Fanny and Alexander",
+        "year": "1982",
+        "director": "Ingmar Bergman",
+        "genres": "Drama"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "Close-Up",
+        "year": "1990",
+        "director": "Abbas Kiarostami",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "Memories of Murder",
+        "year": "2003",
+        "director": "Bong Joon Ho",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": "1966",
+        "director": "Gillo Pontecorvo",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "director": "Christopher Nolan",
+        "genres": "Adventure, Drama, Sci-Fi"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "director": "Peter Jackson",
+        "genres": "Adventure, Drama, Fantasy"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "director": "Frank Capra",
+        "genres": "Drama, Family, Fantasy"
+    },
+    {
+        "title": "The Ascent",
+        "year": "1977",
+        "director": "Larisa Shepitko",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Stalker",
+        "year": "1979",
+        "director": "Andrei Tarkovsky",
+        "genres": "Drama, Sci-Fi"
+    },
+    {
+        "title": "Sansho the Bailiff",
+        "year": "1954",
+        "director": "Kenji Mizoguchi",
+        "genres": "Drama"
+    },
+    {
+        "title": "I Am Cuba",
+        "year": "1964",
+        "director": "Mikhail Kalatozov",
+        "genres": "Drama"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "The Empire Strikes Back",
+        "year": "1980",
+        "director": "Irvin Kershner",
+        "genres": "Action, Adventure, Fantasy"
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "director": "Park Chan-wook",
+        "genres": "Drama, Romance, Thriller"
+    },
+    {
+        "title": "The Red Shoes",
+        "year": "1948",
+        "director": "Michael Powell, Emeric Pressburger",
+        "genres": "Drama, Music, Romance"
+    },
+    {
+        "title": "Do the Right Thing",
+        "year": "1989",
+        "director": "Spike Lee",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "A Woman Under the Influence",
+        "year": "1974",
+        "director": "John Cassavetes",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "director": "Denis Villeneuve",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "title": "Persona",
+        "year": "1966",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Thriller"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "director": "Stanley Kubrick",
+        "genres": "Adventure, Drama, War"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "director": "Roman Polanski",
+        "genres": "Biography, Drama, Music"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "director": "Sergio Leone",
+        "genres": "Drama, Western"
+    },
+    {
+        "title": "Nights of Cabiria",
+        "year": "1957",
+        "director": "Federico Fellini",
+        "genres": "Drama"
+    },
+    {
+        "title": "Perfect Blue",
+        "year": "1997",
+        "director": "Satoshi Kon",
+        "genres": "Animation, Crime, Drama"
+    },
+    {
+        "title": "In the Mood for Love",
+        "year": "2000",
+        "director": "Wong Kar-Wai",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Paris, Texas",
+        "year": "1984",
+        "director": "Wim Wenders",
+        "genres": "Drama"
+    },
+    {
+        "title": "Nobody Knows",
+        "year": "2004",
+        "director": "Hirokazu Koreeda",
+        "genres": "Drama"
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Fantasy"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "director": "Park Chan-wook",
+        "genres": "Action, Drama, Mystery"
+    },
+    {
+        "title": "Eternity and a Day",
+        "year": "1998",
+        "director": "Theodoros Angelopoulos",
+        "genres": "Drama"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "director": "David Lean",
+        "genres": "Adventure, Biography, Drama"
+    },
+    {
+        "title": "Love Exposure",
+        "year": "2008",
+        "director": "Sion Sono",
+        "genres": "Action, Comedy, Drama"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "director": "Peter Jackson",
+        "genres": "Adventure, Drama, Fantasy"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": "1924",
+        "director": "Buster Keaton",
+        "genres": "Action, Comedy, Romance"
+    },
+    {
+        "title": "Red Beard",
+        "year": "1965",
+        "director": "Akira Kurosawa",
+        "genres": "Drama"
+    },
+    {
+        "title": "Scenes from a Marriage",
+        "year": "2021",
+        "director": "N/A",
+        "genres": "Drama"
+    },
+    {
+        "title": "Satantango",
+        "year": "1994",
+        "director": "Béla Tarr",
+        "genres": "Drama"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "director": "Roberto Benigni",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "It's Such a Beautiful Day",
+        "year": "2011",
+        "director": "Don Hertzfeldt",
+        "genres": "Animation, Short, Drama"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "director": "Alfred Hitchcock",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "A Separation",
+        "year": "2011",
+        "director": "Asghar Farhadi",
+        "genres": "Drama"
+    },
+    {
+        "title": "Where Is the Friend's House?",
+        "year": "1987",
+        "director": "Abbas Kiarostami",
+        "genres": "Drama, Family"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "director": "Milos Forman",
+        "genres": "Drama"
+    },
+    {
+        "title": "Paper Moon",
+        "year": "1973",
+        "director": "Peter Bogdanovich",
+        "genres": "Comedy, Crime, Drama"
+    },
+    {
+        "title": "Landscape in the Mist",
+        "year": "1988",
+        "director": "Theodoros Angelopoulos",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "director": "John Carpenter",
+        "genres": "Horror, Mystery, Sci-Fi"
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "director": "Joseph L. Mankiewicz",
+        "genres": "Drama"
+    },
+    {
+        "title": "An Elephant Sitting Still",
+        "year": "2018",
+        "director": "Bo Hu",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Army of Shadows",
+        "year": "1969",
+        "director": "Jean-Pierre Melville",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "director": "Quentin Tarantino",
+        "genres": "Adventure, Drama, War"
+    },
+    {
+        "title": "Apur Sansar",
+        "year": "Unknown Year",
+        "director": "Unknown Director",
+        "genres": "Unknown Genres"
+    },
+    {
+        "title": "Ordet",
+        "year": "1955",
+        "director": "Carl Theodor Dreyer",
+        "genres": "Drama"
+    },
+    {
+        "title": "A Man Escaped",
+        "year": "1956",
+        "director": "Robert Bresson",
+        "genres": "Drama, Thriller, War"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "director": "David Fincher",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "director": "Hayao Miyazaki",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Farewell My Concubine",
+        "year": "1993",
+        "director": "Kaige Chen",
+        "genres": "Drama, Music, Romance"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "director": "Gus Van Sant",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "How to Make Millions Before Grandma Dies",
+        "year": "2024",
+        "director": "Pat Boonnitipat",
+        "genres": "Comedy, Drama, Family"
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": "1953",
+        "director": "Henri-Georges Clouzot",
+        "genres": "Adventure, Drama, Thriller"
+    },
+    {
+        "title": "Three Colours: Red",
+        "year": "Unknown Year",
+        "director": "Unknown Director",
+        "genres": "Unknown Genres"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "director": "Stanley Donen, Gene Kelly",
+        "genres": "Comedy, Musical, Romance"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "director": "Jonathan Demme",
+        "genres": "Crime, Drama, Horror"
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Fantasy"
+    },
+    {
+        "title": "Late Spring",
+        "year": "1949",
+        "director": "Yasujirô Ozu",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": "1957",
+        "director": "Ingmar Bergman",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "director": "Milos Forman",
+        "genres": "Biography, Drama, Music"
+    },
+    {
+        "title": "All That Jazz",
+        "year": "1979",
+        "director": "Bob Fosse",
+        "genres": "Drama, Music, Musical"
+    },
+    {
+        "title": "Mirror",
+        "year": "1975",
+        "director": "Andrei Tarkovsky",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "Still Walking",
+        "year": "2008",
+        "director": "Hirokazu Koreeda",
+        "genres": "Drama"
+    },
+    {
+        "title": "Before Sunset",
+        "year": "2004",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Z",
+        "year": "1969",
+        "director": "Costa-Gavras",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "I'm Still Here",
+        "year": "2024",
+        "director": "Walter Salles",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "director": "Ethan Coen, Joel Coen",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Brief Encounter",
+        "year": "1945",
+        "director": "David Lean",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Central Station",
+        "year": "1998",
+        "director": "Walter Salles",
+        "genres": "Drama"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": "1942",
+        "director": "Ernst Lubitsch",
+        "genres": "Comedy, Romance, War"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, War"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "director": "Martin Scorsese",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "director": "Richard Linklater",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Monster",
+        "year": "2003",
+        "director": "Patty Jenkins",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "The Young Girls of Rochefort",
+        "year": "1967",
+        "director": "Jacques Demy",
+        "genres": "Comedy, Drama, Musical"
+    },
+    {
+        "title": "Raise the Red Lantern",
+        "year": "1991",
+        "director": "Yimou Zhang",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Taste of Cherry",
+        "year": "1997",
+        "director": "Abbas Kiarostami",
+        "genres": "Drama"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "director": "Alfred Hitchcock",
+        "genres": "Horror, Mystery, Thriller"
+    },
+    {
+        "title": "Funeral Parade of Roses",
+        "year": "1969",
+        "director": "Toshio Matsumoto",
+        "genres": "Drama"
+    },
+    {
+        "title": "Mommy",
+        "year": "2014",
+        "director": "Xavier Dolan",
+        "genres": "Drama"
+    },
+    {
+        "title": "Tampopo",
+        "year": "1985",
+        "director": "Jûzô Itami",
+        "genres": "Comedy"
+    },
+    {
+        "title": "The 400 Blows",
+        "year": "1959",
+        "director": "François Truffaut",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Dog Day Afternoon",
+        "year": "1975",
+        "director": "Sidney Lumet",
+        "genres": "Biography, Crime, Drama"
+    },
+    {
+        "title": "Pather Panchali",
+        "year": "1955",
+        "director": "Satyajit Ray",
+        "genres": "Drama"
+    },
+    {
+        "title": "A Special Day",
+        "year": "1977",
+        "director": "Ettore Scola",
+        "genres": "Drama"
+    },
+    {
+        "title": "Wings of Desire",
+        "year": "1987",
+        "director": "Wim Wenders",
+        "genres": "Drama, Fantasy, Romance"
+    },
+    {
+        "title": "Werckmeister Harmonies",
+        "year": "2000",
+        "director": "Béla Tarr, Ágnes Hranitzky",
+        "genres": "Drama, Mystery"
+    },
+    {
+        "title": "Das Boot",
+        "year": "1981",
+        "director": "Wolfgang Petersen",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": "1989",
+        "director": "Peter Weir",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Rocco and His Brothers",
+        "year": "1960",
+        "director": "Luchino Visconti",
+        "genres": "Crime, Drama, Sport"
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "director": "Denis Villeneuve",
+        "genres": "Crime, Drama, Mystery"
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "director": "Fritz Lang",
+        "genres": "Crime, Mystery, Thriller"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": "1961",
+        "director": "Stanley Kramer",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "Yojimbo",
+        "year": "1961",
+        "director": "Akira Kurosawa",
+        "genres": "Action, Drama, Thriller"
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "director": "Stanley Kubrick",
+        "genres": "Comedy, War"
+    },
+    {
+        "title": "The Celebration",
+        "year": "1998",
+        "director": "Thomas Vinterberg",
+        "genres": "Drama"
+    },
+    {
+        "title": "Shoplifters",
+        "year": "2018",
+        "director": "Hirokazu Koreeda",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Children of Men",
+        "year": "2006",
+        "director": "Alfonso Cuarón",
+        "genres": "Drama, Sci-Fi, Thriller"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "director": "Quentin Tarantino",
+        "genres": "Comedy, Drama, Western"
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": "1948",
+        "director": "Vittorio De Sica",
+        "genres": "Drama"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "director": "Roman Polanski",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "The Sacrifice",
+        "year": "1986",
+        "director": "Andrei Tarkovsky",
+        "genres": "Drama"
+    },
+    {
+        "title": "Perfect Days",
+        "year": "2023",
+        "director": "Wim Wenders",
+        "genres": "Drama"
+    },
+    {
+        "title": "8½",
+        "year": "1963",
+        "director": "Federico Fellini",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "director": "John Huston",
+        "genres": "Adventure, Drama, Western"
+    },
+    {
+        "title": "Swing Girls",
+        "year": "2004",
+        "director": "Shinobu Yaguchi",
+        "genres": "Comedy, Drama, Music"
+    },
+    {
+        "title": "The Father",
+        "year": "2020",
+        "director": "Florian Zeller",
+        "genres": "Drama, Mystery"
+    },
+    {
+        "title": "Chungking Express",
+        "year": "1994",
+        "director": "Wong Kar-Wai",
+        "genres": "Comedy, Crime, Drama"
+    },
+    {
+        "title": "Underground",
+        "year": "1995",
+        "director": "Emir Kusturica",
+        "genres": "Comedy, Drama, Fantasy"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "director": "James Cameron",
+        "genres": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "title": "La Notte",
+        "year": "1961",
+        "director": "Michelangelo Antonioni",
+        "genres": "Drama"
+    },
+    {
+        "title": "Fantastic Mr. Fox",
+        "year": "2009",
+        "director": "Wes Anderson",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "Sing Sing",
+        "year": "2023",
+        "director": "Greg Kwedar",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "director": "Florian Henckel von Donnersmarck",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "director": "Michael Mann",
+        "genres": "Action, Crime, Drama"
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "director": "Thomas Vinterberg",
+        "genres": "Drama"
+    },
+    {
+        "title": "Opening Night",
+        "year": "1977",
+        "director": "John Cassavetes",
+        "genres": "Drama"
+    },
+    {
+        "title": "Akira",
+        "year": "1988",
+        "director": "Katsuhiro Ôtomo",
+        "genres": "Animation, Drama, Fantasy"
+    },
+    {
+        "title": "Nostalgia",
+        "year": "2022",
+        "director": "Mario Martone",
+        "genres": "Drama"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "director": "Stanley Kubrick",
+        "genres": "Adventure, Sci-Fi"
+    },
+    {
+        "title": "Children of Paradise",
+        "year": "1945",
+        "director": "Marcel Carné",
+        "genres": "Drama, Romance"
+    },
+    {
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "year": "Unknown Year",
+        "director": "Unknown Director",
+        "genres": "Unknown Genres"
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "director": "Daniel Kwan, Daniel Scheinert",
+        "genres": "Action, Adventure, Comedy"
+    },
+    {
+        "title": "Throne of Blood",
+        "year": "1957",
+        "director": "Akira Kurosawa",
+        "genres": "Drama"
+    },
+    {
+        "title": "La Dolce Vita",
+        "year": "1960",
+        "director": "Federico Fellini",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "The Cremator",
+        "year": "1969",
+        "director": "Juraj Herz",
+        "genres": "Comedy, Crime, Drama"
+    },
+    {
+        "title": "The Man Who Shot Liberty Valance",
+        "year": "1962",
+        "director": "John Ford",
+        "genres": "Drama, Western"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "director": "David Lynch",
+        "genres": "Biography, Drama"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "director": "David Fincher",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Secrets & Lies",
+        "year": "1996",
+        "director": "Mike Leigh",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Samurai Rebellion",
+        "year": "1967",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama"
+    },
+    {
+        "title": "Dersu Uzala",
+        "year": "1975",
+        "director": "Akira Kurosawa",
+        "genres": "Adventure, Biography, Drama"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "director": "Charles Chaplin",
+        "genres": "Comedy, Drama, Romance"
+    },
+    {
+        "title": "Look Back",
+        "year": "2024",
+        "director": "Kiyotaka Oshiyama",
+        "genres": "Animation, Drama"
+    },
+    {
+        "title": "Ace in the Hole",
+        "year": "1951",
+        "director": "Billy Wilder",
+        "genres": "Drama, Film-Noir"
+    },
+    {
+        "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+        "year": "1975",
+        "director": "Chantal Akerman",
+        "genres": "Drama"
+    },
+    {
+        "title": "Life, and Nothing More…",
+        "year": "2017",
+        "director": "Antonio Méndez Esparza",
+        "genres": "Drama"
+    },
+    {
+        "title": "The Night of the Hunter",
+        "year": "1955",
+        "director": "Charles Laughton",
+        "genres": "Crime, Drama, Film-Noir"
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "director": "Sidney Lumet",
+        "genres": "Drama"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "director": "Billy Wilder",
+        "genres": "Crime, Drama, Film-Noir"
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "year": "1966",
+        "director": "Mike Nichols",
+        "genres": "Drama"
+    },
+    {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "year": "1992",
+        "director": "David Lynch",
+        "genres": "Drama, Horror, Mystery"
+    },
+    {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "director": "Brad Bird",
+        "genres": "Animation, Action, Adventure"
+    },
+    {
+        "title": "Sinners",
+        "year": "2002",
+        "director": "Aisling Walsh",
+        "genres": "Drama"
+    },
+    {
+        "title": "Ugetsu",
+        "year": "1953",
+        "director": "Kenji Mizoguchi",
+        "genres": "Drama, Fantasy, War"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "director": "Billy Wilder",
+        "genres": "Comedy, Music, Romance"
+    },
+    {
+        "title": "Cure",
+        "year": "1997",
+        "director": "Kiyoshi Kurosawa",
+        "genres": "Crime, Horror, Mystery"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "director": "Ridley Scott",
+        "genres": "Horror, Sci-Fi"
+    },
+    {
+        "title": "Mulholland Drive",
+        "year": "2001",
+        "director": "David Lynch",
+        "genres": "Drama, Mystery, Thriller"
+    },
+    {
+        "title": "Rififi",
+        "year": "1955",
+        "director": "Jules Dassin",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "director": "Quentin Tarantino",
+        "genres": "Crime, Drama"
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "director": "Fritz Lang",
+        "genres": "Drama, Sci-Fi"
+    },
+    {
+        "title": "Mary and Max",
+        "year": "2009",
+        "director": "Adam Elliot",
+        "genres": "Animation, Comedy, Drama"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "director": "Christopher Nolan",
+        "genres": "Drama, Mystery, Sci-Fi"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "director": "Carol Reed",
+        "genres": "Drama, Film-Noir, Mystery"
+    },
+    {
+        "title": "The Tale of The Princess Kaguya",
+        "year": "2013",
+        "director": "Isao Takahata",
+        "genres": "Animation, Drama, Family"
+    },
+    {
+        "title": "A Matter of Life and Death",
+        "year": "1946",
+        "director": "Michael Powell, Emeric Pressburger",
+        "genres": "Drama, Fantasy, Romance"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "director": "Frank Darabont",
+        "genres": "Crime, Drama, Fantasy"
+    },
+    {
+        "title": "Ritual",
+        "year": "2012",
+        "director": "Joko Anwar",
+        "genres": "Drama, Horror, Mystery"
+    },
+    {
+        "title": "Sorcerer",
+        "year": "1977",
+        "director": "William Friedkin",
+        "genres": "Adventure, Drama, Thriller"
+    },
+    {
+        "title": "Malcolm X",
+        "year": "1992",
+        "director": "Spike Lee",
+        "genres": "Biography, Drama, History"
+    },
+    {
+        "title": "Winter Light",
+        "year": "1963",
+        "director": "Ingmar Bergman",
+        "genres": "Drama"
+    },
+    {
+        "title": "Umberto D.",
+        "year": "1952",
+        "director": "Vittorio De Sica",
+        "genres": "Drama"
+    },
+    {
+        "title": "Sweet Smell of Success",
+        "year": "1957",
+        "director": "Alexander Mackendrick",
+        "genres": "Drama, Film-Noir"
+    },
+    {
+        "title": "Aparajito",
+        "year": "1956",
+        "director": "Satyajit Ray",
+        "genres": "Drama"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "director": "Michel Gondry",
+        "genres": "Drama, Romance, Sci-Fi"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "director": "Steven Spielberg",
+        "genres": "Drama, War"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "director": "Wes Anderson",
+        "genres": "Adventure, Comedy, Crime"
+    },
+    {
+        "title": "The First Slam Dunk",
+        "year": "2022",
+        "director": "Takehiko Inoue",
+        "genres": "Animation, Comedy, Drama"
+    },
+    {
+        "title": "Marcel the Shell with Shoes On",
+        "year": "2021",
+        "director": "Dean Fleischer Camp",
+        "genres": "Animation, Comedy, Drama"
+    },
+    {
+        "title": "We All Loved Each Other So Much",
+        "year": "1974",
+        "director": "Ettore Scola",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "director": "David Lean",
+        "genres": "Adventure, Drama, War"
+    },
+    {
+        "title": "The King of Comedy",
+        "year": "1982",
+        "director": "Martin Scorsese",
+        "genres": "Comedy, Crime, Drama"
+    },
+    {
+        "title": "Napoleon",
+        "year": "2023",
+        "director": "Ridley Scott",
+        "genres": "Action, Adventure, Biography"
+    },
+    {
+        "title": "Anatomy of a Murder",
+        "year": "1959",
+        "director": "Otto Preminger",
+        "genres": "Drama, Mystery"
+    },
+    {
+        "title": "The Holdovers",
+        "year": "2023",
+        "director": "Alexander Payne",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "title": "Il Sorpasso",
+        "year": "2014",
+        "director": "N/A",
+        "genres": "Documentary, Short"
+    },
+    {
+        "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "year": "2003",
+        "director": "Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi",
+        "genres": "Animation, Adventure, Music"
+    },
+    {
+        "title": "Song of the Sea",
+        "year": "2014",
+        "director": "Tomm Moore",
+        "genres": "Animation, Adventure, Drama"
+    },
+    {
+        "title": "The Face of Another",
+        "year": "1966",
+        "director": "Hiroshi Teshigahara",
+        "genres": "Drama, Sci-Fi, Thriller"
+    },
+    {
+        "title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+        "year": "Unknown Year",
+        "director": "Unknown Director",
+        "genres": "Unknown Genres"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "director": "Martin Scorsese",
+        "genres": "Biography, Drama, Sport"
+    },
+    {
+        "title": "4 Months, 3 Weeks and 2 Days",
+        "year": "2007",
+        "director": "Cristian Mungiu",
+        "genres": "Drama"
+    },
+    {
+        "title": "Kes",
+        "year": "1969",
+        "director": "Ken Loach",
+        "genres": "Drama, Family"
+    },
+    {
+        "title": "Solaris",
+        "year": "1972",
+        "director": "Andrei Tarkovsky",
+        "genres": "Drama, Mystery, Sci-Fi"
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "director": "Alfred Hitchcock",
+        "genres": "Mystery, Romance, Thriller"
+    },
+    {
+        "title": "Le Samouraï",
+        "year": "1967",
+        "director": "Jean-Pierre Melville",
+        "genres": "Crime, Drama, Thriller"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "director": "Stanley Kubrick",
+        "genres": "Drama, Horror"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "director": "William Wyler",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "Tokyo Godfathers",
+        "year": "2003",
+        "director": "Shôgo Furuya, Satoshi Kon",
+        "genres": "Animation, Adventure, Comedy"
+    },
+    {
+        "title": "The Disappearance of Haruhi Suzumiya",
+        "year": "2010",
+        "director": "Noriyuki Kitanohara, Kazuya Sakamoto, Noriko Takao",
+        "genres": "Animation, Drama, Mystery"
+    },
+    {
+        "title": "The Life and Death of Colonel Blimp",
+        "year": "1943",
+        "director": "Michael Powell, Emeric Pressburger",
+        "genres": "Drama, Romance, War"
+    },
+    {
+        "title": "Azur & Asmar: The Princes' Quest",
+        "year": "2006",
+        "director": "Michel Ocelot, Ian McIntyre",
+        "genres": "Animation, Adventure, Family"
+    },
+    {
+        "title": "Kwaidan",
+        "year": "1964",
+        "director": "Masaki Kobayashi",
+        "genres": "Drama, Fantasy, Horror"
+    },
+    {
+        "title": "Millennium Actress",
+        "year": "2001",
+        "director": "Satoshi Kon, Kô Matsuo",
+        "genres": "Animation, Drama, Fantasy"
+    },
+    {
+        "title": "An Autumn Afternoon",
+        "year": "1962",
+        "director": "Yasujirô Ozu",
+        "genres": "Drama"
+    },
+    {
+        "title": "Make Way for Tomorrow",
+        "year": "1937",
+        "director": "Leo McCarey",
+        "genres": "Drama, Romance"
+    }
+]

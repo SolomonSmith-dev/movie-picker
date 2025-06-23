@@ -1,107 +1,244 @@
+# 🎬 MoviePicker 2.0
 
-# 🎬 Movie Picker
+Welcome to **MoviePicker 2.0** — a modern, feature-rich movie recommendation and management system built with Python, FastAPI, and SQLAlchemy.
 
-Welcome to Movie Picker — a smart, terminal-based app that helps you explore the best movies in your personal collection.
+## 🚀 Features
 
-Whether you're in the mood for something random, want to browse by genre, or search by your favorite director or actor — Movie Picker has you covered.
+### Core Features
+- 🎥 **Smart Movie Recommendations** - AI-powered suggestions based on your preferences
+- 🎭 **Advanced Filtering** - Filter by genre, year, director, actor, rating, and more
+- 🔍 **Powerful Search** - Fuzzy search across titles, directors, and cast
+- 📊 **Watch History & Analytics** - Track your viewing habits and get insights
+- ❤️ **Favorites & Ratings** - Rate movies and mark favorites for rewatch
+- 👥 **User Profiles** - Personalized recommendations and preferences
+- 🌐 **Web Interface** - Modern web UI built with FastAPI and React
 
-# 🚀 Features
+### Advanced Features
+- 🎬 **Movie Nights** - Plan group watching sessions with voting
+- 📱 **Streaming Integration** - See where movies are available to stream
+- 🔄 **Data Enrichment** - Automatic metadata fetching from TMDb
+- 📈 **Analytics Dashboard** - View watching patterns and statistics
+- 🔔 **Notifications** - Get daily movie recommendations
+- 🗄️ **Database Backend** - Robust SQLAlchemy-based data storage
 
-🎥 Pick a random movie from a curated list
+## 🏗️ Architecture
 
-🎭 Filter movies by genre
-
-🎬 Search all movies by director or actor
-
-📎 Automatically log what you’ve watched
-
-❤️ Mark favorites for rewatch later
-
-🔁 Stay in any mode and pick multiple times without restarting
-
-✍️ Uses enriched JSON data with directors, genres, cast, and year
-
-
-# 📂 Project Structure
-
+```
 MoviePicker/
-├── moviepicker.py              # Main app
-├── metadata_enricher.py        # Fills in metadata from TMDb
-├── enrich.sh                   # CLI script to enrich movie lists
-├── .env                        # TMDb API key (ignored by Git)
-├── .gitignore                  # Excludes .env, __pycache__, etc.
-├── history.txt                 # Watch history log
-├── README.md                   # Project documentation
-└── lists/                      # JSON files for movie data
-    ├── plex_movies_final.json
-    ├── standardized_movies_final.json
-    ├── plex_movies_enriched.json
-    └── standardized_movies_enriched.json
+├── src/                          # Source code
+│   ├── core/                     # Core business logic
+│   │   ├── models.py             # Database models
+│   │   ├── database.py           # Database management
+│   │   ├── movie_manager.py      # Movie operations
+│   │   └── migrations.py         # Database migrations
+│   ├── api/                      # API clients
+│   │   ├── tmdb_client.py        # TMDb API integration
+│   │   └── enricher.py           # Data enrichment
+│   ├── ui/                       # User interfaces
+│   │   ├── cli_interface.py      # Command-line interface
+│   │   └── web_interface.py      # Web interface (coming soon)
+│   └── utils/                    # Utilities
+│       ├── config.py             # Configuration management
+│       └── logger.py             # Logging utilities
+├── tests/                        # Test suite
+├── data/                         # Data files
+│   ├── movies/                   # Movie JSON files
+│   ├── config/                   # Configuration files
+│   └── logs/                     # Application logs
+├── web/                          # Web interface assets
+├── requirements.txt              # Production dependencies
+├── requirements-dev.txt          # Development dependencies
+├── pyproject.toml               # Modern Python packaging
+└── setup.py                     # Package setup
+```
 
-# 🛠️ Installation
+## 🛠️ Installation
 
-1. Clone or download the project.
+### Prerequisites
+- Python 3.8 or higher
+- TMDb API key (get one at [themoviedb.org](https://www.themoviedb.org/settings/api))
 
-2. Install dependencies:
-   pip install colorama python-dotenv
+### Quick Start
 
-3. Add your TMDb API key to a .env file:
-   TMDB_API_KEY=your_api_key_here
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/MoviePicker.git
+   cd MoviePicker
+   ```
 
-(Optional) Run enrichment:
-    ./enrich.sh
+2. **Create virtual environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
-# 🎯 How to Use
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Choose from:
+4. **Set up environment variables**
+   ```bash
+   cp env.example .env
+   # Edit .env and add your TMDb API key
+   ```
 
-1: Pick randomly from Greatest Movies
+5. **Initialize the database**
+   ```bash
+   python -m src.core.migrations
+   ```
 
-2: Pick randomly from Plex Movies
+6. **Run the application**
+   ```bash
+   # CLI version
+   python src/ui/cli_interface.py
+   
+   # Web version (coming soon)
+   uvicorn src.ui.web_interface:app --reload
+   ```
 
-3: Pick by Genre
+## 🎯 Usage
 
-4: View your Watch History
+### Command Line Interface
 
-5: Reset your Watch History
+```bash
+# Start the CLI
+python src/ui/cli_interface.py
 
-6: Rewatch a Favorite
+# Available options:
+# 1. Pick from Greatest Movies
+# 2. Pick from My Plex Movies  
+# 3. Pick by Genre
+# 4. View Watch History
+# 5. Reset Watch History
+# 6. Rewatch a Favorite
+# 7. Search by Director
+# 8. Search by Actor
+```
 
-7: Search movies by Director
+### Web Interface (Coming Soon)
 
-8: Search movies by Actor
+The web interface will provide:
+- Modern, responsive design
+- Advanced filtering and search
+- Movie recommendations
+- Watch history and analytics
+- User profiles and preferences
+- Movie night planning
 
-# ✨ Example Output
+## 🔧 Development
 
-🎥 Welcome to Movie Picker!
+### Setting up Development Environment
 
-🎬 Movie of the Day
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎞️  Title    : The Thing
-🎬  Director : John Carpenter
-📅  Year     : 1982
-🎭  Genres   : Horror, Mystery
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. **Install development dependencies**
+   ```bash
+   pip install -r requirements-dev.txt
+   ```
 
-💖 Mark this as a favorite? (y/n): y
-🔁 Pick another? (y/n): n
+2. **Set up pre-commit hooks**
+   ```bash
+   pre-commit install
+   ```
 
-# 💡 Future Ideas
+3. **Run tests**
+   ```bash
+   pytest
+   ```
 
-⭐️ Add personal ratings
+4. **Code formatting**
+   ```bash
+   black src/
+   isort src/
+   ```
 
-🖼️ Show posters and images via TMDb
+5. **Type checking**
+   ```bash
+   mypy src/
+   ```
 
-📁 Export search results to .txt or .csv
+### Project Structure
 
-🌐 GUI version using Tkinter or Flask
+- **`src/core/`** - Core business logic and database models
+- **`src/api/`** - External API integrations (TMDb, JustWatch)
+- **`src/ui/`** - User interfaces (CLI, web)
+- **`src/utils/`** - Shared utilities (config, logging)
+- **`tests/`** - Test suite with unit and integration tests
+- **`data/`** - Application data and configuration
 
-🧠 “Surprise Me” mode with full randomness
+## 📊 Database Schema
 
-# 📝 License
+The application uses SQLAlchemy with the following main models:
 
-Open source and free to use.Built for fun, film, and exploration.
+- **`Movie`** - Movie information and metadata
+- **`User`** - User profiles and preferences
+- **`WatchHistory`** - Track watched movies and favorites
+- **`UserRating`** - User ratings and reviews
+- **`MovieNight`** - Group watching sessions
+- **`MovieNightVote`** - Votes for movie nights
 
-# 🤝 Contributing
+## 🔌 API Integration
 
-Pull requests welcome!Add movie data, new features, or better search tools.
+### TMDb Integration
+- Automatic metadata enrichment
+- Poster images and backdrops
+- Cast and crew information
+- Ratings and reviews
+- Popular and top-rated movies
+
+### JustWatch Integration (Coming Soon)
+- Streaming availability
+- Platform-specific information
+- Regional availability
+
+## 🚀 Deployment
+
+### Docker Deployment
+
+```bash
+# Build the image
+docker build -t moviepicker .
+
+# Run the container
+docker run -p 8000:8000 moviepicker
+```
+
+### Production Deployment
+
+1. **Set up a production database** (PostgreSQL recommended)
+2. **Configure environment variables**
+3. **Set up reverse proxy** (nginx)
+4. **Configure SSL certificates**
+5. **Set up monitoring and logging**
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+### Development Workflow
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests
+5. Run the test suite
+6. Submit a pull request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [TMDb](https://www.themoviedb.org/) for movie data and API
+- [JustWatch](https://www.justwatch.com/) for streaming availability
+- The open-source community for inspiration and tools
+
+## 📞 Support
+
+- **Issues**: [GitHub Issues](https://github.com/yourusername/MoviePicker/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/MoviePicker/discussions)
+- **Email**: your.email@example.com
+
+---
+
+**Built with ❤️ for movie lovers everywhere**
