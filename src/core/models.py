@@ -3,7 +3,7 @@
 from datetime import datetime
 from typing import Optional
 from sqlalchemy import Column, Integer, String, DateTime, Boolean, Float, Text, ForeignKey
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base
 from sqlalchemy.orm import relationship
 
 Base = declarative_base()
