@@ -3,3 +3,6 @@ __pycache__/
 .env
 history.txt
 lists/*_enriched.json
+
+.DS_Store
+.coverage
