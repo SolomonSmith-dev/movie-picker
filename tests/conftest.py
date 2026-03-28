@@ -57,9 +57,10 @@ def test_db_session(test_engine, test_session_factory):
 def mock_db_manager(test_db_session):
     """Mock the db_manager to use test database session."""
     with patch('src.core.movie_manager.db_manager') as mock_manager1, \
-         patch('src.core.filters.db_manager') as mock_manager2:
-        # Create a context manager that returns our test session for both imports
-        for mock_manager in [mock_manager1, mock_manager2]:
+         patch('src.core.filters.db_manager') as mock_manager2, \
+         patch('src.core.recommendation.db_manager') as mock_manager3:
+        # Create a context manager that returns our test session for all imports
+        for mock_manager in [mock_manager1, mock_manager2, mock_manager3]:
             mock_manager.get_session.return_value.__enter__.return_value = test_db_session
             mock_manager.get_session.return_value.__exit__.return_value = None
         yield mock_manager1
