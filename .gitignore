@@ -1,8 +1,31 @@
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
 .env
 history.txt
 lists/*_enriched.json
 
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Build / distribution
+*.egg-info/
+dist/
+build/
+
+# Test / coverage artifacts
 .coverage
+htmlcov/
+.pytest_cache/
+
+# mypy / ruff caches
+.mypy_cache/
+.ruff_cache/
