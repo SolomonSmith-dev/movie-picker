@@ -16,19 +16,21 @@ load_dotenv()
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 
+
 # Check if the API key is set
 def search_tmdb(title, year=None):
     params = {
         "api_key": TMDB_API_KEY,
         "query": title,
         "year": year,
-        "include_adult": False
+        "include_adult": False,
     }
     response = requests.get(f"{TMDB_BASE_URL}/search/movie", params=params)
     if response.status_code == 200 and response.json()["results"]:
         return response.json()["results"][0]
     print(f"[!] Search failed for: {title} ({year})")
     return None
+
 
 # Function to get movie details and credits
 # from TMDb using the movie ID
@@ -39,6 +41,7 @@ def get_movie_details(movie_id):
         return response.json()
     return None
 
+
 # Function to get movie credits from TMDb using the movie ID
 def get_movie_credits(movie_id):
     params = {"api_key": TMDB_API_KEY}
@@ -46,6 +49,7 @@ def get_movie_credits(movie_id):
     if response.status_code == 200:
         return response.json()
     return None
+
 
 # Function to enrich a movie with TMDb data
 def enrich_movie(movie):
@@ -72,7 +76,9 @@ def enrich_movie(movie):
     # Check if the director is missing or marked as unknown
     if movie.get("director", "").lower() in ["", "unknown director"]:
         crew = credits.get("crew", [])
-        directors = [person["name"] for person in crew if person.get("job") == "Director"]
+        directors = [
+            person["name"] for person in crew if person.get("job") == "Director"
+        ]
         if directors:
             movie["director"] = ", ".join(directors)
         else:
@@ -89,11 +95,15 @@ def enrich_movie(movie):
         movie["cast"] = ", ".join(top_cast)
 
     return movie
+
+
 # Main function to handle command line arguments and process the input JSON
 def main():
     parser = argparse.ArgumentParser(description="Enrich movie JSON with TMDb data.")
     parser.add_argument("--input", required=True, help="Path to the input JSON file")
-    parser.add_argument("--output", required=True, help="Path to write the enriched JSON output")
+    parser.add_argument(
+        "--output", required=True, help="Path to write the enriched JSON output"
+    )
     args = parser.parse_args()
 
     with open(args.input, "r", encoding="utf-8") as f:
@@ -110,6 +120,7 @@ def main():
         json.dump(enriched, f, indent=4)
 
     print(f"\n✅ Enrichment complete. Output written to {args.output}")
+
 
 if __name__ == "__main__":
     main()

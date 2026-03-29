@@ -1,4 +1,3 @@
-
 import json
 import random
 import datetime
@@ -7,31 +6,34 @@ from colorama import Fore, Style, init
 # Initialize colorama to auto-reset colors after each print
 init(autoreset=True)
 
+
 # Load movie data from a specified JSON file path
 # Returns a list of movie dictionaries
 def load_movies(filepath):
     """Load the movie list from a JSON file."""
-    with open(filepath, 'r', encoding='utf-8') as f:
+    with open(filepath, "r", encoding="utf-8") as f:
         return json.load(f)
+
 
 # Provides fallback values for missing or unknown metadata fields
 # Used to display consistent default labels in the UI
 def fallback(value, field_name):
     """Fallback for missing fields."""
-    if not value or value.lower() == 'unknown':
-        if field_name == 'director':
-            return 'Unknown Director'
-        elif field_name == 'year':
-            return 'Unknown Year'
-        elif field_name == 'genres':
-            return 'Unknown Genres'
+    if not value or value.lower() == "unknown":
+        if field_name == "director":
+            return "Unknown Director"
+        elif field_name == "year":
+            return "Unknown Year"
+        elif field_name == "genres":
+            return "Unknown Genres"
     return value
+
 
 # Pick a random movie from a list that has not yet been seen in this session
 # Adds the selected movie to the seen_titles set to avoid repeats
 def pick_random_movie(movies, seen_titles):
     """Pick a random movie that hasn't been seen yet in this session."""
-    unseen = [m for m in movies if m['title'] not in seen_titles]
+    unseen = [m for m in movies if m["title"] not in seen_titles]
     if not unseen:
         print("\n✅ You've gone through all movies in this list!")
         return None
@@ -46,35 +48,42 @@ def pick_movie_by_genres(movies, desired_genres, seen_titles):
     # First: strict AND matching
     strict_matches = []
     for movie in movies:
-        if movie['title'] in seen_titles:
+        if movie["title"] in seen_titles:
             continue
-        movie_genres = [g.strip().lower() for g in fallback(movie.get('genres', ''), 'genres').split(',')]
+        movie_genres = [
+            g.strip().lower()
+            for g in fallback(movie.get("genres", ""), "genres").split(",")
+        ]
         if all(genre.lower() in movie_genres for genre in desired_genres):
             strict_matches.append(movie)
 
     if strict_matches:
-        print(f"\n✅ Found a perfect match!")
+        print("\n✅ Found a perfect match!")
         picked = random.choice(strict_matches)
-        seen_titles.add(picked['title'])
+        seen_titles.add(picked["title"])
         return picked
 
     # If no strict matches: fallback to OR matching
     print("\n⚠️ No perfect match found. Trying partial matches...")
     loose_matches = []
     for movie in movies:
-        if movie['title'] in seen_titles:
+        if movie["title"] in seen_titles:
             continue
-        movie_genres = [g.strip().lower() for g in fallback(movie.get('genres', ''), 'genres').split(',')]
+        movie_genres = [
+            g.strip().lower()
+            for g in fallback(movie.get("genres", ""), "genres").split(",")
+        ]
         if any(genre.lower() in movie_genres for genre in desired_genres):
             loose_matches.append(movie)
 
     if loose_matches:
         picked = random.choice(loose_matches)
-        seen_titles.add(picked['title'])
+        seen_titles.add(picked["title"])
         return picked
 
     print("❌ No movies found for those genres.")
     return None
+
 
 # Display a selected movie's information in a formatted terminal output
 def show_movie(movie, header="Movie Picked!"):
@@ -83,10 +92,10 @@ def show_movie(movie, header="Movie Picked!"):
         print("\n❌ No movie to display.")
         return
 
-    title = fallback(movie.get('title', 'Unknown Title'), 'title')
-    director = fallback(movie.get('director', ''), 'director')
-    year = fallback(movie.get('year', ''), 'year')
-    genres = fallback(movie.get('genres', ''), 'genres')
+    title = fallback(movie.get("title", "Unknown Title"), "title")
+    director = fallback(movie.get("director", ""), "director")
+    year = fallback(movie.get("year", ""), "year")
+    genres = fallback(movie.get("genres", ""), "genres")
 
     print("\n" + "━" * 60)
     print(f"🎬 {Fore.CYAN}{Style.BRIGHT}{header}{Style.RESET_ALL}")
@@ -98,6 +107,7 @@ def show_movie(movie, header="Movie Picked!"):
     print("━" * 60)
     print()  # Blank line after movie
 
+
 # Picks a "Movie of the Day" by seeding the random generator with today's date
 # Ensures a consistent pick for the same day
 def pick_movie_of_the_day(movies):
@@ -105,6 +115,7 @@ def pick_movie_of_the_day(movies):
     today = datetime.date.today()
     random.seed(today.toordinal())  # Use the date to create a fixed seed
     return random.choice(movies)
+
 
 # Logs a selected movie to history.txt with a timestamp and optional favorite flag
 # Each log entry includes title, year, director, genres, and a heart if favorited
@@ -116,6 +127,7 @@ def log_movie_to_history(movie, favorite=False):
     with open("history.txt", "a", encoding="utf-8") as f:
         line = f"{datetime.date.today()} | {fallback(movie.get('title'), 'title')} ({fallback(movie.get('year'), 'year')}) | {fallback(movie.get('director'), 'director')} | {fallback(movie.get('genres'), 'genres')}{fav_mark}\n"
         f.write(line)
+
 
 def main():
     seen_titles = set()
@@ -132,8 +144,8 @@ def main():
         pass
 
     # ✅ Load enriched movie lists for random selection
-    greatest_movies = load_movies('lists/standardized_movies_enriched.json')
-    plex_movies = load_movies('lists/plex_movies_enriched.json')
+    greatest_movies = load_movies("lists/standardized_movies_enriched.json")
+    plex_movies = load_movies("lists/plex_movies_enriched.json")
     random.shuffle(plex_movies)
     combined_movies = greatest_movies + plex_movies
 
@@ -142,8 +154,7 @@ def main():
     enriched_plex = plex_movies
     enriched_combined = combined_movies
 
-
-     # Load enriched versions for full metadata search (e.g. director, actor)
+    # Load enriched versions for full metadata search (e.g. director, actor)
     with open("lists/standardized_movies_enriched.json", "r", encoding="utf-8") as f:
         enriched_greatest = json.load(f)
     with open("lists/plex_movies_enriched.json", "r", encoding="utf-8") as f:
@@ -157,7 +168,7 @@ def main():
     show_movie(movie_of_the_day, header="Movie of the Day")
 
     pick_today = input("🎬 Would you like to watch the Movie of the Day? (y/n): ")
-    if pick_today.lower() == 'y':
+    if pick_today.lower() == "y":
         print("\n🎉 Enjoy your Movie of the Day! Goodbye!\n")
         return
     print()  # Add space before showing main menu
@@ -178,57 +189,76 @@ def main():
 
         choice = input("\n🎬 What would you like to do? (0-8): ")
 
-        
-        if choice == '0':
+        if choice == "0":
             print("\n👋 Goodbye! See you next movie night!\n")
             break
 
         # Option 1: Pick randomly from Greatest list, loop until user exits
-        elif choice == '1':
+        elif choice == "1":
             while True:
                 movie = pick_random_movie(greatest_movies, seen_titles)
                 show_movie(movie)
-                favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
+                favorite = (
+                    input("💖 Mark this as a favorite? (y/n): ").strip().lower() == "y"
+                )
                 log_movie_to_history(movie, favorite)
-                seen_titles.add(movie['title'])
+                seen_titles.add(movie["title"])
 
-                again = input("🔁 Pick another from Greatest Movies? (y/n): ").strip().lower()
-                if again != 'y':
+                again = (
+                    input("🔁 Pick another from Greatest Movies? (y/n): ")
+                    .strip()
+                    .lower()
+                )
+                if again != "y":
                     print()  # Adds spacing before returning to the main menu
                     break
         # Option 2: Pick randomly from Plex Movies, loop until user exits
-        elif choice == '2':
+        elif choice == "2":
             while True:
                 movie = pick_random_movie(plex_movies, seen_titles)
                 show_movie(movie)
-                favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
+                favorite = (
+                    input("💖 Mark this as a favorite? (y/n): ").strip().lower() == "y"
+                )
                 log_movie_to_history(movie, favorite)
-                seen_titles.add(movie['title'])
+                seen_titles.add(movie["title"])
 
-                again = input("🔁 Pick another from Plex Movies? (y/n): ").strip().lower()
-                if again != 'y':
+                again = (
+                    input("🔁 Pick another from Plex Movies? (y/n): ").strip().lower()
+                )
+                if again != "y":
                     print()  # Adds spacing before returning to the main menu
                     break
 
         # Option 3: Pick by genre from combined list, loop until user exits
-        elif choice == '3':
-            user_input = input("\n🎬 What genres are you feeling? (comma-separated, e.g., 'Animation, Adventure')\n> ")
-            desired_genres = [g.strip() for g in user_input.split(',')]
+        elif choice == "3":
+            user_input = input(
+                "\n🎬 What genres are you feeling? (comma-separated, e.g., 'Animation, Adventure')\n> "
+            )
+            desired_genres = [g.strip() for g in user_input.split(",")]
 
             while True:
-                movie = pick_movie_by_genres(combined_movies, desired_genres, seen_titles)
+                movie = pick_movie_by_genres(
+                    combined_movies, desired_genres, seen_titles
+                )
                 show_movie(movie)
-                favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
+                favorite = (
+                    input("💖 Mark this as a favorite? (y/n): ").strip().lower() == "y"
+                )
                 log_movie_to_history(movie, favorite)
-                seen_titles.add(movie['title'])
+                seen_titles.add(movie["title"])
 
-                again = input("🔁 Pick another movie from this genre? (y/n): ").strip().lower()
-                if again != 'y':
+                again = (
+                    input("🔁 Pick another movie from this genre? (y/n): ")
+                    .strip()
+                    .lower()
+                )
+                if again != "y":
                     print()  # Adds spacing before returning to the main menu
                     break
 
         # Option 4: View watch history
-        elif choice == '4':
+        elif choice == "4":
             try:
                 with open("history.txt", "r", encoding="utf-8") as f:
                     history = f.read()
@@ -239,9 +269,13 @@ def main():
             continue
 
         # Option 5: Reset watch history
-        elif choice == '5':
-            confirm = input("⚠️ This will erase all watch history. Are you sure? (y/n): ").strip().lower()
-            if confirm == 'y':
+        elif choice == "5":
+            confirm = (
+                input("⚠️ This will erase all watch history. Are you sure? (y/n): ")
+                .strip()
+                .lower()
+            )
+            if confirm == "y":
                 with open("history.txt", "w", encoding="utf-8") as f:
                     f.write("")
                 seen_titles.clear()
@@ -250,7 +284,7 @@ def main():
                 print("❌ Cancelled. Your history is safe.")
 
         # Option 6: Rewatch a favorite movie
-        elif choice == '6':
+        elif choice == "6":
             try:
                 with open("history.txt", "r", encoding="utf-8") as f:
                     lines = [line for line in f if "❤️" in line]
@@ -261,7 +295,9 @@ def main():
                     for i, line in enumerate(lines, 1):
                         print(f"{i}. {line.strip()}")
 
-                    index = input("\nEnter the number of the movie you want to rewatch (or press Enter to cancel): ").strip()
+                    index = input(
+                        "\nEnter the number of the movie you want to rewatch (or press Enter to cancel): "
+                    ).strip()
                     if index.isdigit():
                         index = int(index)
                         if 1 <= index <= len(lines):
@@ -274,7 +310,7 @@ def main():
             except FileNotFoundError:
                 print("\n📜 No history file found. Watch something first!")
 
-        elif choice == '7':
+        elif choice == "7":
             director_name = input("🎬 Enter the director's name: ").strip().lower()
             seen_titles = set()
             matches = []
@@ -285,19 +321,26 @@ def main():
                         matches.append(m)
 
             if matches:
-                print(f"\n🎬 Found {len(matches)} unique movies directed by '{director_name.title()}':\n")
+                print(
+                    f"\n🎬 Found {len(matches)} unique movies directed by '{director_name.title()}':\n"
+                )
                 for i, m in enumerate(matches, 1):
                     print(f"{i}. {m['title']} ({m['year']})")
 
-                selection = input("\n📽️ Enter the number of the movie you'd like to view (or press Enter to cancel): ").strip()
+                selection = input(
+                    "\n📽️ Enter the number of the movie you'd like to view (or press Enter to cancel): "
+                ).strip()
                 if selection.isdigit():
                     index = int(selection)
                     if 1 <= index <= len(matches):
                         movie = matches[index - 1]
                         show_movie(movie, header="🎬 Your Selected Movie")
-                        favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
+                        favorite = (
+                            input("💖 Mark this as a favorite? (y/n): ").strip().lower()
+                            == "y"
+                        )
                         log_movie_to_history(movie, favorite)
-                        seen_titles.add(movie['title'])
+                        seen_titles.add(movie["title"])
                     else:
                         print("❌ Invalid number.")
                 else:
@@ -305,9 +348,8 @@ def main():
             else:
                 print("❌ No movies found for that director.")
 
-
         # Option 8: Search movies by actor
-        elif choice == '8':
+        elif choice == "8":
             actor_name = input("🎭 Enter the actor's name: ").strip().lower()
             temp_seen = set()  # temp set just for deduplication of search results
             matches = []
@@ -318,21 +360,34 @@ def main():
                         matches.append(m)
 
             if matches:
-                print(f"\n🎭 Found {len(matches)} unique movies with '{actor_name.title()}':\n")
+                print(
+                    f"\n🎭 Found {len(matches)} unique movies with '{actor_name.title()}':\n"
+                )
                 for i, m in enumerate(matches, 1):
                     print(f"{i}. {m['title']} ({m['year']})")
 
-                selection = input("\n🎬 Enter the number of the movie you'd like to view (or press Enter to cancel): ").strip()
+                selection = input(
+                    "\n🎬 Enter the number of the movie you'd like to view (or press Enter to cancel): "
+                ).strip()
                 if selection.isdigit():
                     index = int(selection)
                     if 1 <= index <= len(matches):
                         movie = matches[index - 1]
                         show_movie(movie, header="🎬 Your Selected Movie")
-                        confirm = input("🎥 Did you actually watch this movie? (y/n): ").strip().lower()
-                        if confirm == 'y':
-                            favorite = input("💖 Mark this as a favorite? (y/n): ").strip().lower() == 'y'
+                        confirm = (
+                            input("🎥 Did you actually watch this movie? (y/n): ")
+                            .strip()
+                            .lower()
+                        )
+                        if confirm == "y":
+                            favorite = (
+                                input("💖 Mark this as a favorite? (y/n): ")
+                                .strip()
+                                .lower()
+                                == "y"
+                            )
                             log_movie_to_history(movie, favorite)
-                            seen_titles.add(movie['title'])
+                            seen_titles.add(movie["title"])
                         else:
                             print("📌 Not logged. Returning to menu.")
                     else:

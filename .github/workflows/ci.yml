@@ -7,18 +7,30 @@ on:
     branches: [main]
 
 jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install ruff
+      - run: ruff check .
+      - run: ruff format --check .
+
   test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: "3.11"
+          cache: pip
       - name: Install dependencies
         run: pip install -r requirements-dev.txt
-      - name: Test
-        run: pytest tests/ -v --cov=src --ignore=tests/test_tmdb_integration.py
+      - name: Test with coverage
+        run: pytest tests/ -v --cov=src --cov-fail-under=45 --ignore=tests/test_tmdb_integration.py
         env:
           DATABASE_URL: sqlite:///./test.db
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}

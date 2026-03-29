@@ -2,9 +2,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
-    title="MoviePicker API", 
+    title="MoviePicker API",
     version="0.1.0",
-    description="A smart movie recommendation API for your personal collection"
+    description="A smart movie recommendation API for your personal collection",
 )
 
 # Add CORS middleware for frontend development
@@ -16,16 +16,19 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/")
 def root():
     return {
         "message": "Welcome to the MoviePicker API!",
         "docs": "/docs",
-        "version": "0.1.0"
+        "version": "0.1.0",
     }
 
+
 # Include routers
-from .routers import movies, users, recommendations
+from .routers import movies, users, recommendations  # noqa: E402
+
 app.include_router(movies.router)
 app.include_router(users.router)
 app.include_router(recommendations.router)
@@ -33,4 +36,4 @@ app.include_router(recommendations.router)
 # TODO: Add more routers
 # from .routers import users, recommendations
 # app.include_router(users.router)
-# app.include_router(recommendations.router) 
+# app.include_router(recommendations.router)
