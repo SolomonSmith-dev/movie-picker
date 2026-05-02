@@ -6,3 +6,8 @@ lists/*_enriched.json
 
 .DS_Store
 .coverage
+
+# SQLite shared memory artifacts
+:memory:*
+.DS_Store
+.claude/
