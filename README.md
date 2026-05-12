@@ -1,4 +1,4 @@
-# MoviePicker
+# movie-picker
 
 A movie recommendation and management system built with Python, FastAPI, and SQLAlchemy. Integrates with the TMDb API for metadata enrichment.
 
@@ -12,13 +12,13 @@ A movie recommendation and management system built with Python, FastAPI, and SQL
 
 ## Stack
 
-Python, FastAPI, SQLAlchemy, SQLite, TMDb API
+Python, FastAPI, SQLAlchemy, SQLite, TMDb API.
 
 ## Setup
 
 ```bash
-git clone https://github.com/SolomonSmith-dev/MoviePicker
-cd MoviePicker
+git clone https://github.com/SolomonSmith-dev/movie-picker
+cd movie-picker
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -30,6 +30,16 @@ python src/ui/cli_interface.py
 
 Get a TMDb API key at [themoviedb.org](https://www.themoviedb.org/settings/api).
 
+## Project layout
+
+```
+src/      # core, ui, recommendation logic
+tests/    # pytest suite
+lists/    # curated movie lists
+data/     # SQLite DB + TMDb cache (gitignored when large)
+web/      # FastAPI web layer
+```
+
 ## License
 
-MIT
+MIT.
