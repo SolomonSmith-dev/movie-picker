@@ -1,5 +1,7 @@
 # movie-picker
 
+![CI](https://github.com/SolomonSmith-dev/movie-picker/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+
 A movie recommendation and management system built with Python, FastAPI, and SQLAlchemy. Integrates with the TMDb API for metadata enrichment.
 
 ## Features
